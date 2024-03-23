@@ -50,13 +50,18 @@ function checkAnswer() {
 
         if (selectedValue == correctAnswer) {
             document.getElementById('result').textContent = 'Correct!';
+            var correctAudio = new Audio("./correct.wav"); // Create audio object
+            correctAudio.play(); // Play the audio
         } else {
             document.getElementById('result').textContent = 'Incorrect. Try again!';
+            var incorrectAudio = new Audio("./incorrect.wav"); // Create audio object
+            incorrectAudio.play(); // Play the audio
         }
     } else {
         document.getElementById('result').textContent = 'Please select an answer!';
     }
 }
+
 
 // Function to go to the next question
 function nextQuestion() {
