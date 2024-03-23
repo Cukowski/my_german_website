@@ -1,24 +1,29 @@
-/* CSS styles for index.html */
+/* Global styles */
 body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
+    background-color: #EEEEEE;
 }
 
-header {
-    background-color: #333;
-    color: #fff;
+header, .site-header {
+    background-color: #222831;
+    color: #EEEEEE;
     padding: 20px;
     text-align: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
-header h1 {
+header h1, .site-title {
     margin: 0;
+    font-size: 32px;
+    font-weight: bold;
 }
 
 nav {
-    background-color: #f4f4f4;
+    background-color: #EEEEEE;
     padding: 10px;
+    text-align: center;
 }
 
 nav ul {
@@ -36,17 +41,32 @@ nav ul li a {
     display: block;
     width: auto;
     padding: 10px 20px;
-    border-radius: 25px;
-    background-color: #4CAF50; /* Green */
-    color: white;
-    font-size: 16px;
+    border-radius: 30px;
+    background-color: #9290C3;
+    color: #EEEEEE;
+    font-size: 18px;
     text-decoration: none;
     text-align: center;
     transition: background-color 0.3s;
 }
 
 nav ul li a:hover {
-    background-color: #45a049; /* Darker green */
+    background-color: #535C91;
+}
+
+/* Circular buttons */
+nav ul li button, .nav-button, .submit-button button, .button-container button {
+    padding: 8px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+nav ul li button:hover, .nav-button:hover, .submit-button button:hover, .button-container button:hover {
+    background-color: #0056b3;
 }
 
 /* Additional styles for icons */
@@ -61,44 +81,27 @@ nav ul li a:hover {
     display: inline-block;
     margin: 0 60px;
     cursor: pointer;
-    transition: transform 0.3s ease; 
+    transition: transform 0.3s ease;
+    margin-bottom: 50px;
 }
 
 .icon:hover {
-    transform: scale(1.1); 
+    transform: scale(1.1);
 }
 
 .icon img {
-    max-width: 200px; 
-    max-height: 200px; 
+    max-width: 200px;
+    max-height: 200px;
+    margin-top: 30px;
 }
 
 .icon-link {
     text-decoration: none;
-    color: #333;
+    color: #222831;
     font-weight: bold;
-    font-size: 22px; 
+    font-size: 22px;
     display: block;
     margin-top: 10px;
-}
-
-/* Circular buttons */
-nav ul li button {
-    display: block;
-    width: 40px;
-    height: 40px;
-    line-height: 40px;
-    text-align: center;
-    border-radius: 50%;
-    background-color: #4CAF50; /* Green */
-    color: white;
-    font-size: 16px;
-    cursor: pointer;
-    transition: background-color 0.3s;
-}
-
-nav ul li button:hover {
-    background-color: #45a049; /* Darker green */
 }
 
 .container {
@@ -111,12 +114,7 @@ nav ul li button:hover {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
-.search-input,
-.goto-input,
-.goto-button,
-.word-counter,
-.word-properties,
-.navigation-buttons {
+.search-input, .goto-input, .goto-button, .word-counter, .word-properties, .navigation-buttons {
     margin-bottom: 15px;
 }
 
@@ -152,22 +150,8 @@ nav ul li button:hover {
     background-color: #0056b3;
 }
 
-.nav-button {
-    padding: 8px 20px;
-    border: none;
-    border-radius: 5px;
-    background-color: #007bff;
-    color: #fff;
-    cursor: pointer;
-    transition: background-color 0.3s;
-}
-
-.nav-button:hover {
-    background-color: #0056b3;
-}
-
 footer {
-    background-color: #333;
+    background-color: #31363F;
     color: #fff;
     text-align: center;
     padding: 20px;
