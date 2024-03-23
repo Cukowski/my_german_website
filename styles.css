@@ -49,6 +49,39 @@ nav ul li a:hover {
     background-color: #45a049; /* Darker green */
 }
 
+/* Additional styles for icons */
+.icon-container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.icon {
+    width: 150px;
+    height: 150px;
+    display: inline-block;
+    margin: 0 60px;
+    cursor: pointer;
+    transition: transform 0.3s ease; 
+}
+
+.icon:hover {
+    transform: scale(1.1); 
+}
+
+.icon img {
+    max-width: 200px; 
+    max-height: 200px; 
+}
+
+.icon-link {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    font-size: 22px; 
+    display: block;
+    margin-top: 10px;
+}
+
 /* Circular buttons */
 nav ul li button {
     display: block;
