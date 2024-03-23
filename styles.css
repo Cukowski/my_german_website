@@ -42,3 +42,13 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
+/* CSS styles for words.html */
+
+.searchResult {
+    cursor: pointer;
+}
+
+.searchResult:hover {
+    background-color: #f0f0f0;
+}

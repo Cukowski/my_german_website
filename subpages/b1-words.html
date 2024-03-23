@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>B1 Words</title>
+    <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+    <header>
+        <h1>B1 Words Practice</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="../index.html">Home</a></li>
+            <li><a href="word-training.html">Word Training</a></li>
+            <!-- Add more navigation options here -->
+        </ul>
+    </nav>
+    <div class="container">
+        <input type="text" id="searchInput" oninput="searchWords(this.value)" placeholder="Search...">
+        <div id="searchResults"></div>
+        <div>
+            <input type="number" id="gotoInput" placeholder="Go to word number">
+            <button onclick="goToWord()">Go to</button>
+        </div>
+        <div id="wordCounter"></div>
+        <div id="wordProperties"></div>
+        <div id="navigationButtons">
+            <button onclick="previousWord()">Previous</button>
+            <button onclick="nextWord()">Next</button>
+            <button onclick="randomWord()">Random</button>
+        </div>
+    </div>
+    
+    <script src="../js_files/script.js"></script>
+    <script>
+        loadWordList('../words/wordsB1.txt'); // Change the filename as needed
+    </script>
+    
+</body>
+</html>

@@ -1,0 +1,149 @@
+abhängen|von|Dativ|bir şeyden kaynaklı olmak, bağlı olmak|Die Höhe der Stromkosten hängt vom Verbrauch ab.
+abstimmen|über|Akk.|oylamak|Sie können jezt über den Gewinner des Malwettbewerbs abstimmen.
+achten|auf|Akk.|bir şeye dikkat etmek|Achten Sie bei Bank-Angeboten auf den Zins!
+anfangen|mit|Dativ|başlamak|Lassen Sie uns mit dem Unterricht anfangen!
+ankommen|auf|Akk.|dayanmak, bağlı olmak|Es kommt nur auf dich selbst an, ob du Erfolg hast.
+antworten|auf|Akk.|bir şeye cevap vermek|Ich antworte dem Chef morgen auf seine E-Mail, heute habe ich keine Lust mehr.
+arbeiten|an|Dativ|çalışmak|An dem Text sollten Sie noch arbeiten.
+sich ärgern|über|Akk.|(bir şeye) kızmak|Meine Tochter ärgert sich oft über ihren kleinen Bruder.
+auffordern|zu|Dativ|davet etmek, talep etmek|Der Lehrer fordert die Schüler zur aktiven Mitarbeit auf.
+aufhören|mit|Dativ|bırakmak, son vermek|Ich würde ja gern abnehmen, aber ich kann einfach nicht mitdem Essen aufhören.
+aufklären|über|Akk.|açıklamak, açıklığa kavuşturmak, bilgilendirmek|Der Journalist will die Bürger über den Plan des Politikers aufklären.
+aufpassen|auf|Akk.|dikkat etmek|Kannst du auf meinen Hund aufpassen, während ich einkaufe?
+sich aufregen|über|Akk.|kızmak|Meine Mutter regt sich immer über meine Unpünktlichkeit auf.
+ausgeben|für|Akk.|harcamak|Wir sollten das Geld lieber für einen neuen Kühlschrank ausgeben als für eine Reise.
+sich bedanken|bei|Dativ|teşekkür etmek|Ich möchte mich bei Ihnen für Ihre Hilfe bedanken.
+sich bedanken|für|Akk.|teşekkür etmek|Ich möchte mich bei Ihnen für Ihre Hilfe bedanken.
+beginnen|mit|Dativ|başlamak|In fünf Minuten beginnen wir mit dem Essen! Wenn du dann noch nicht da bist…
+sich bemühen|um|Akk.|çaba sarfetmek|Ich bemühe mich um einen Kredit bei der Bank.Hoffentlich klappt es.
+berichten|über|Akk.|anlatmak, bilgi vermek|Alle Zeitungen berichten zurzeit über den frechen Dieb.
+sich beschäftigen|mit|Dativ|meşgul olmak, uğraşmak|In meiner Freizeit beschäftige ich mich viel mit meinem Hund.
+sich beschweren|bei|Dativ|şikayet etmek|Der Gast beschwert sich beim Hotelbesitzer über den unfreundlichen Kellner.
+sich beschweren|über|Akk.|bden dolayı/ hakkında şikayet etmek|Der Gast beschwert sich beim Hotelbesitzer über den unfreundlichen Kellner.
+bestehen|aus|Dativ|bir şeyden meydana gelmek, oluşmak, içermek|DerTest besteht aus einem Lesetext und einer Schreibaufgabe.
+sich beteiligen|an|Dativ|katılmak, iştirak etmek|Ich beteilige mich an dem Geschenk für die Kollegin mit drei Euro.
+sich bewerben|um|Akk.|başvurmak|Bewirb dich doch um das Praktikum.
+sich beziehen|auf|Akk.|dayanmak, istinat etmek|Ich beziehe mich auf Ihren Breif vom 3. Mai.
+bitten|um|Akk.|bir şey için rica etmek|Darf ich dich um deine Hilfe bitten?
+danken|für|Akk.|bir şeye teşekkür etmek|Ich danke dir für deine Hilfe.
+denken|an|Akk.|bir şeyi düşünmek|Sie denkt an den netten Mann aus dem Bus.
+diskutieren|mit|Dativ|biri ile tartışmak|Ich muss ständing mit meinem Sohn über seine Aufgaben im Haushalt diskutieren.
+diskutieren|über|Akk.|bir şey hakknda tartışmak|Ich muss ständing mit meinem Sohn über seine Aufgaben im Haushalt diskutieren.
+sich drehen|um|Akk.|konu olmak|Hier drecht sich alles nur um dich! Und was ist mit mir?
+einladen|zu|Dativ|bir şeye davet etmek|Darf ich Sie zu einem Glas Wein einladen?
+sich einigen|auf|Akk.|hemfikir olmak, anlaşmak|Sich konnten sich nicht auf ein Reiseziel einigen.
+sich einsetzen|für|Akk.|kendini adamak, ağırlığını koymak, angaje olmak, desteklemek|Der Politiker setzt sich für den Umweltschutz ein.
+sich entscheiden|für|Akk.|karar vermek|Wir haben uns für diesen Wagen entschieden, weil er einen groẞen Kofferraum hat.
+sich entschuldigen|bei|Dativ|(kişiden) özür dilemek|Der Wirt entschuldingt sich beim Gast für den schlecten Service.
+sich entschuldigen|für|Akk.|(bir şey için) özür dilemek|Der Wirt entschuldingt sich beim Gast für den schlecten Service.
+erfahren|von|Dativ|(duymak) öğrenmek, fikri edinmek|Wir haben von deinem tollen Erfolg erfahren und gratulieren dir!
+sich erholen|von|Dativ|dinlenmek|Hast du dich von der Operation schon erholt?
+sich erinnern|an|Akk.|bir şeyi hatırlamak|Die Kinder erinnern sich gern an ihren Opa.
+erkennen|an|Dativ|tanımak, ayırt etmek|Man erkennt unser Haus sofort an seinem kaputten Dach.
+sich erkundigen|bei|Dativ|(kişiden) bilgi almak|Ich möchte mich (bei Ihnen) nach einem Flug erkundigen.
+sich erkundigen|nach|Dativ|(bir konuda) bilgi almak|Ich möchte mich (bei Ihnen) nach einem Flug erkundigen.
+erschrecken|über|Akk.|korkmak|Ich bin über die hohe Rechnung erschrocken.
+erzählen|von|Dativ|bir şeyden anlatmak|Meine Oma erzählt gern von ihrer Jugend.
+erzählen|über|Akk.|bir şey hakkında anlatmak|Warum willst du mir nichts über deinen neuen Freund erzählen.
+fehlen|an|Dativ|eksik olmak|Es fehlt an einem guten Plan für dieses Projekt.
+fragen|nach|Dativ|sormak|Papa! Da fragt ein Mann nach dir.
+sich freunen|auf|Akk.|sevinmek|Ich freue mich auf meinen Geburtstag.
+sich freunen|über|Akk.|sevinmek|Ich habe mich sehr über deinen Brief gefreut.
+führen|zu|Dativ|ulaştırmak|Die Diskussion hat zu einem guten Ergebnis geführt.
+sich fürchten|vor|Dativ|korkmak|Anna fürchtet sich vor Hunden.
+gehen|um|Akk.|geçerli olmak, alakalı olmak|Im Film geht es um einen verschwundenen Jungen.
+gehören|zu|Dativ|ait olmak|Es gehört zu meinen Aufgaben im Haushalt, das Bad zu putzen.
+gelten|als|Nom.|geçerli olmak|Stempel und Unterschrift gelten als Quittung.
+sich gewöhnen|an|Akk.|alışmak|Sie muss sich erst an den Winter in Deutschland gewöhnen.
+glauben|an|Akk.|bir şeye inanmak|Meine Tochter glaubt noch an den Weihnachtsmann.
+gratulieren|zu|Dativ|tebrik etmek|Wir gratulieren dir zu deinem Erfolg.
+halten|für|Akk.|farz etmek, sanmak|Oh, Entschuldigung! Ich habe Sie für meinen Mann gehalten. Er hat die gleiche Jacke wie Sie.
+halten|von|Dativ|iyi bulmak, düşünmek|Mein Vater hält viel von einem guten Essen.
+sich halten|an|Akk.|uymak|Die Autofahrer müssen sich an die Verkehrsregeln halten.
+sich handeln|um|Akk.|konu olmak|Ich habe da ein Problem. Es handelt sich um einen Fehler in der Rechnung.
+handeln|von|Dativ|konu edinmek|Das Mἃrchen handelt von einem armen Mädchen
+helfen|bei|Dativ|(bir şeyde) yardım etmek|Kann ich dir bei der Arbeit helfen?
+hindern|an|Dativ|engellemek|Du kannst mich nicht an meinem Plan hindern.
+hinweisen|auf|Akk.|işaret etmek, dikkati çekmek|Ich möchte Sie auf das Rauchverbot in unserem Hotel hinweisen.
+hoffen|auf|Akk.|ümit etmek|Wir hoffen auf ein günstiges Angebot.
+hören|von|Dativ|duymak|Lass bald wieder von dir hören.
+impfen|gegen|Akk.|bir şeye karşı aşı yapmak|Man sollte Kinder gegen verschiedene Krankheiten impfen lassen.
+sich informieren|bei|Dativ|bir kişiden bilgi almak|Ich würde mich gern (bei Ihnen) über den Ferienjob informieren.
+sich informieren|über|Akk.|bir şey hakkında bilgi almak|Ich würde mich gern (bei Ihnen) über den Ferienjob informieren.
+sich interessieren|für|Akk.|bir şeye ilgi duymak|Er interessiert sich sehr für den Film.
+kämpfen|für|Akk.|mücadele etmek|Die Arbeiter kämpfen für einen besseren Lohn.
+kämpfen|gegen|Akk.|karşı mücadele etmek|Die Bürger kämpfen gegen den Bau der Straẞe.
+klagen|über|Akk.|şikayet etmek|Der Patient klagt über einen starken Schmerz im Beim.
+kommen|auf|Akk.|ulaşmak, gelmek|Wie bist nur auf die Idee gekommen, dein Auto selbst zu reparieren?
+kommen|zu|Dativ|ulaşmak, gelmek|Wir sind zu dem Ergebnis gekommen, dass wir kosten sparen müssen.
+sich konzentrieren|auf|Akk.|konsantre olmak|Du solltest dich auf den Unterricht konzentrieren, statt dich mit deiner Partnerin zu unterhalten.
+sich kümmern|um|Akk.|bir şeye dikkat etmek, alakadar olmak, bakmak|Ich muss arbeiten, deshalb kümmert sich eine Tagessmutter um meinen Sohn.
+lachen|über|Akk.|bir şeye gülmek|Lacht ihr über mich?
+leiden|an|Dativ|acı çekmek|Er leidet an einer gefährlichen Krankheit.
+leiden|unter|Dativ|acı çekmek, eziyet çekmek|Sie leidet unter ihrem unfreundlichen Chef.
+liegen|an|Dativ|kaynaklı olmak|Es liegt nicht an mir, dass wir immer zu spät kommen.
+nachdenken|über|Akk.|bir şey hakkında düşünmek|Er denkt über den Kauf eines Fernsehers nach.
+protestieren|gegen|Akk.|bir şeyi protesto etmek|Die Bürger von Neustadt protestieren gegen die Schlieẞung des Krankenhauses.
+reagieren|auf|Akk.|tepki göstermek|Das Finanzamt hat noch nicht auf meinen Brief reagiert.
+rechnen|mit|Dativ|düşünmek, hesap etmek|Sie müssen ab März mit einem höheren Preis rechnen.
+reden|über|Akk.|bir şey hakkında konuşmak|Sie redet nur noch über ihren neuen Freund.
+reden|von|Dativ|biri hakkında konuşmak|Sie redet nur noch von ihrem neuen Freund.
+riechen|nach|Dativ|kokmak|Hier riecht es nach einem sehr süẞen Parfüm.
+schicken|an|Akk.|bir yere postalamak, göndermek|Schicken Sie die Rechnung bitte an meine private Adresse.
+schicken|zu|Dativ|birine gönderrmek, postalamak|Schickst du Thomas bitte zum Chef, wenn er aus der Pause kommt?
+schimpfen|auf / über|Akk.|kızmak, hayıflanmak|Alle schimpfen auf / über die schlechten Arbeitsbedingungen.
+schmecken|nach|Dativ|tadı olmak|Das schmeckt nach altem Käse.
+schreiben|an|Akk.|birine / bir yere yazmak|Ich schreibe an Dich, weil ich Deine Hilfe brauche.
+(sich) schützen|gegen|Akk.|bir şey karşı korumak|Diese Creme schützt Sie gegen die Sonne.
+(sich) schützen|vor|Dativ|bir şeyden korunmak|Diese Creme schützt Sie vor der Sonne.
+sehen|nach|Dativ|kontrol etmek, bakmak|Ich sehe später noch nach dir, okay?
+sein|für|Akk.|taraf olmak, istemek|Mein Mann ist für den schwarzen Anzug, ich bin für den blauen.
+sein|gegen|Akk.|karşı olmak, istememek|Die Opposition ist gegen den Plan der Regierung.
+sorgen|für|Akk.|sağlamak, bakmak|Ich verspreche dir, dass ich immer für dich sorgen werde.
+sprechen|mit|Dativ|biri ile konuşmak|Der Küchenchef spricht mit den Köchen über die Speisekarte für das Hochzeitsfest.
+sprechen|über|Akk.|bir şey hakkında konuşmak|Der Küchenchef spricht mit den Köchen über die Speisekarte für das Hochzeitsfest.
+sprechen|von|Dativ|biri hakkında konuşmak|Der Küchenchef spricht mit den Köchen über die Speisekarte für das Hochzeitsfest.
+sprechen|zu|Dativ|birine / bir yere konuşmak|Der Küchenchef spricht mit den Köchen über die Speisekarte für das Hochzeitsfest.
+sterben|an|Dativ|ölmek|Sie ist an einem Herzinfarkt gestorben.
+stimmen|für|Akk.|oy vermek|Er hat bei den letzten Wahlen für die Grünen gestimmt.
+streiten|mit|Dativ|tartışmak|Ich habe mich mit ihm über seine Entscheidung gestritten.
+streiten|über|Akk.|bir şey üzerine tartışmak|Ich habe mich mit ihm über seine Entscheidung gestritten.
+sich treffen|mit|Dativ|buluşmak|Wir treffen uns heute Abend mit ein paar Freunden in einem Restaurant.
+treten|auf|Akk.|üzerine basmak|Achte bitte darauf, wo du hintrittst, der Boden ist glatt.
+trinken|auf|Akk.|bir şeye içmek|Er trinkt auf die Gesundheit seiner Mutter.
+träumen|von|Dativ|bir şeyi rüyada görmek|Sie träumt schon seit Jahren davon, Schauspielerin zu werden.
+überlegen|sich|Akk.|düşünmek|Ich überlege mir, den Job anzunehmen.
+überreden|zu|Dativ|ikna etmek|Er hat mich zu einem Kurztrip nach Berlin überredet.
+überzeugen|von|Dativ|ikna etmek|Er hat mich von seiner Unschuld überzeugt.
+unterscheiden|zwischen|Dativ|ayırmak|Man muss genau zwischen guter und schlechter Qualität unterscheiden.
+unterstützen|bei|Dativ|yardım etmek|Kannst du mir bitte bei den Hausaufgaben unterstützen?
+untersuchen|auf|Akk.|muayene etmek|Die Ärzte untersuchen den Patienten auf das Corona-Virus.
+sich unterhalten|über|Akk.|bir şey hakkında konuşmak|Wir haben uns gestern Abend lange über Politik unterhalten.
+sich unterhalten|mit|Dativ|biri ile konuşmak|Wir haben uns gestern Abend lange mit dem Chef unterhalten.
+sich verabschieden|von|Dativ|hoşça kal demek|Die Kollegen verabschieden sich von dem Chef.
+verbrauchen|für|Akk.|tüketmek|Du verbrauchst für eine Autofahrt nach Berlin etwa 70 Euro.
+verdanken|Dativ|borçlu olmak|Ich verdanke meinem Lehrer viel. Er hat mich gut auf die Prüfung vorbereitet.
+verdienen|an|Dativ|kazanmak|Er verdient an diesem Geschäft sehr viel Geld.
+vergleichen|mit|Dativ|karşılaştırmak|Man kann diese Äpfel nicht mit jenen vergleichen. Diese sind viel saftiger.
+vergleichen|zu|Dativ|benzetmek|Man kann diese Äpfel nicht mit jenen vergleichen. Diese sind viel saftiger.
+vergleichen|unter|Dativ|karşılaştırmak|Man kann diese Äpfel nicht mit jenen vergleichen. Diese sind viel saftiger.
+verhindern|vor|Dativ|engellemek|Der Fahrer konnte nicht rechtzeitig bremsen und hat einen Unfall verhindern.
+verlangen|von|Dativ|isteyerek bir şey|Die Kinder verlangen von mir immer mehr Taschengeld.
+verlieren|an|Dativ|kaybetmek|Er hat im Spiel gegen die Stadtmannschaft knapp verloren.
+verschieben|auf|Akk.|ertelemek|Können wir den Termin auf nächste Woche verschieben?
+versprechen|für|Akk.|bir şey adına söz vermek|Ich verspreche für meine Kollegen, dass sie pünktlich sind.
+versprechen|zu|Dativ|birine bir şey vaad etmek|Ich verspreche dir zu helfen.
+sich verstecken|vor|Dativ|saklanmak|Die Kinder haben sich vor dem Gewitter versteckt.
+verstehen|von|Dativ|anlamak|Ich verstehe nicht viel von Kunst.
+vorbereiten|auf|Akk.|hazırlamak|Der Lehrer bereitet seine Schüler auf die Abschlussprüfung vor.
+vorstellen|sich|Dativ|tanıtmak|Ich möchte mich Ihnen kurz vorstellen.
+warnen|vor|Dativ|uyarmak|Die Polizei warnt vor dem Befahren der überschwemmten Straẞen.
+warten|auf|Akk.|beklemek|Ich warte schon eine Stunde auf meinen Freund.
+wechseln|auf|Akk.|değiştirmek|Die Firma will auf ein neues Computersystem wechseln.
+weinen|über|Akk.|ağlamak|Das Baby weint die ganze Zeit über den verlorenen Teddybären.
+wissen|über|Akk.|bilmek|Ich weiß nichts über den Plan des Direktors.
+zählen|zu|Dativ|saymak|Er zählt zu den besten Schülern seiner Klasse.
+zeichnen|mit|Dativ|çizmek|Er zeichnet mit einem Bleistift eine Linie.
+zuhören|auf|Akk.|dinlemek|Hören Sie bitte gut auf meine Worte.
+zuhören|zu|Dativ|dinlemek|Mein Hund hört nicht zu mir.
+zwingen|zu|Dativ|zorlamak|Die Mutter zwingt ihre Kinder dazu, Gemüse zu essen.
