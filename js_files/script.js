@@ -71,7 +71,7 @@ function searchWords() {
     }
 
     words.forEach((word, index) => {
-        if (word.toLowerCase().startsWith(searchTerm)) {
+        if (word.toLowerCase().includes(searchTerm)) {
             let resultItem = document.createElement('div');
             resultItem.textContent = word;
             resultItem.classList.add('searchResult');
