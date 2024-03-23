@@ -1,0 +1,57 @@
+Kopf|der|die|baş|Sie hat Kopfschmerzen.
+Gesicht|das|die|yüz|Sie hat ein schönes Gesicht.
+Haar|das|die|saç|Sie trägt ihr Haar lang.
+Stirn|die|die|alın|Er runzelt die Stirn.
+Ohr|das|die|kulak|Er hat ein Piercing im Ohr.
+Augenbraue|die|die|kaş|Ihre Augenbrauen sind perfekt geformt.
+Augenwimper|die|die|kirpik|Sie trägt Mascara auf ihren Augenwimpern.
+Auge|das|die|göz|Sie hat blaue Augen.
+Pupille|die|die|pupilla|Die Pupillen weiten sich im Dunkeln.
+Backe|die|die|yanak|Er küsste sie auf die Wange.
+Wange|die|die|yanak|Ihre Wangen waren gerötet vor Kälte.
+Nase|die|die|burun|Er hat eine große Nase.
+Mund|der|die|ağız|Er öffnete seinen Mund, um zu sprechen.
+Lippe|die|die|dudak|Sie trägt roten Lippenstift.
+Zahn|der|die|diş|Sie hat weiße Zähne.
+Zunge|die|die|dil|Er zeigte ihr seine Zunge.
+Kinn|das|die|çene|Er rieb sich nachdenklich das Kinn.
+Bart|der|die|sakal|Er trägt einen gepflegten Bart.
+Schnurrbart|der|die|bıyık|Sein Schnurrbart war perfekt gestutzt.
+Hals|der|die|boyun|Sie trug eine Halskette um den Hals.
+Nacken|der|die|boyun|Er massierte sich den Nacken.
+Schulter|die|die|omuz|Sie legte ihre Hand auf seine Schulter.
+Brust|die|die|göğüs|Er hatte ein Tattoo auf der Brust.
+Rücken|der|die|sırt|Sie hatte Schmerzen im unteren Rücken.
+Bauch|der|die|karın|Sie hat einen flachen Bauch.
+Hüfte|die|die|kalça|Sie bewegte ihre Hüften im Takt der Musik.
+Arm|der|die|kol|Er hat starke Arme.
+Ellenbogen|der|die|dirsek|Er stieß sich den Ellenbogen an.
+Hand|die|die|el|Sie hielt seine Hand fest.
+Handgelenk|das|die|bilek|Er trug eine Uhr am Handgelenk.
+Handfläche|die|die|avuç içi|Seine Handflächen waren rau.
+Finger|der|die|parmak|Sie hatte lange, schlanke Finger.
+Fingernagel|der|die|tırnak|Sie lackierte sich die Fingernägel rot.
+Daumen|der|die|başparmak|Sie drückte den Daumen nach oben.
+Zeigefinger|der|die|işaret parmağı|Er zeigte mit dem Zeigefinger auf die Tafel.
+Mittelfinger|der|die|orta parmak|Er streckte ihr den Mittelfinger entgegen.
+Ringfinger|der|die|yüzük parmağı|Sie trug einen Ring am Ringfinger.
+kleine Finger|der|die|küçük parmak|Er hob den kleinen Finger ab, um Tee zu trinken.
+Po|der|die|popo|Sie setzte sich auf den Po.
+Bein|das|die|bacak|Sie hatte kräftige Beine.
+Oberschenkel|der|die|üst bacak|Sie massierte sich den Oberschenkel.
+Unterschenkel|der|die|alt bacak|Er hatte Krämpfe im Unterschenkel.
+Schienbein|das|die|kaval kemiği|Er verletzte sich am Schienbein.
+Knie|das|die|diz|Sie hatte eine Bandage am Knie.
+Fuß|der|die|ayak|Sie trug hohe Schuhe an den Füßen.
+Fußknöchel|der|die|ayak bileği|Er verstauchte sich den Fußknöchel.
+Ferse|die|die|topuk|Sie hatte Blasen an den Fersen.
+Zeh|der|die|ayak parmağı|Er stieß sich den Zeh am Tisch.
+Gehirn|das|die|beyin|Das Gehirn ist das Steuerzentrum des Körpers.
+Schlagader|die|die|atardamar|Die Schlagader pulsierte stark.
+Lunge|die|die|akciğer|Sie hatte Raucherlunge.
+Herz|das|die|kalp|Das Herz schlägt schneller, wenn man Angst hat.
+Leber|die|die|karaciğer|Sie trank zu viel Alkohol und schädigte ihre Leber.
+Gallenblase|die|die|safra kesesi|Er hatte Gallensteine in der Gallenblase.
+Magen|der|die|mide|Er hatte Magenschmerzen nach dem Essen.
+Niere|die|die|böbrek|Die Niere ist ein lebenswichtiges Organ.
+Darm|der|die|bağırsak|Eine gesunde Ernährung ist wichtig für den Darm.

@@ -1,0 +1,114 @@
+Aerobic-Kurs | der | die | Aerobik | Der Aerobic-Kurs beginnt um 18 Uhr.
+Abschiedsgruß | der | die | veda | Er sagte einen traurigen Abschiedsgruß.
+Abschiedsgrüße | die | - | veda | Sie schickte Abschiedsgrüße an ihre Freunde.
+Alltagsgespräche | das | - | günlük konuşma | Alltagsgespräche sind wichtig für das Sprachenlernen.
+Anrufbeantworter | der | die | telesekreter | Der Anrufbeantworter ist auf dem Schreibtisch.
+Anti-Stress-Seminar | das | - | stres azaltma semineri | Sie besucht regelmäßig ein Anti-Stress-Seminar.
+Arbeit | die | - | iş | Sie hat viel Arbeit in dieser Woche.
+Ausland | das | - | yurtdışı | Er reist gerne ins Ausland.
+Ausruf | der | die | ünlem | Ein Ausruf des Erstaunens entwich ihr.
+Aussage | die | - | ifade | Seine Aussage wurde von allen akzeptiert.
+Aussprache | die | - | telaffuz | Die Aussprache ist sehr wichtig beim Sprachenlernen.
+Schwimmbad | das | die | yüzme havuzu | Wir gehen am Wochenende oft ins Schwimmbad.
+Bild | das | - | resim | Das Bild hängt an der Wand.
+Bericht | der | die | rapor | Der Bericht ist sehr detailliert.
+Brief | der | die | mektup | Er schreibt einen langen Brief an seine Freundin.
+Business-Sprachkurs | der | die | iş İngilizcesi kursu | Sie nimmt an einem Business-Sprachkurs teil.
+Chat | der | die | sohbet | Sie chattet gerne mit ihren Freunden im Internet.
+Computer | der | die | bilgisayar | Der Computer ist schnell.
+Computerkurs | der | die | bilgisayar kursu | Sie macht einen Computerkurs.
+Diktat | das | - | dikte | Das Diktat war schwierig.
+Fehler | der | die | hata | Er hat einen Fehler gemacht.
+Ende | das | - | son | Das Ende des Films war überraschend.
+Erklärung | die | - | açıklama | Sie verlangte eine Erklärung für sein Verhalten.
+Experte | der | die | uzman | Er ist ein Experte auf diesem Gebiet.
+Fähigkeit | die | - | yetenek | Sie hat viele Fähigkeiten.
+Fernsehprogramm | das | die | televizyon programı | Das Fernsehprogramm heute Abend ist langweilig.
+Fernsehsendung | die | - | televizyon programı | Sie schaut gerne Fernsehsendungen.
+Film | der | die | film | Der Film war sehr interessant.
+Finne | der | die | Finli | Der Finne spricht fließend Finnisch.
+Fragebogen | der | die | anket | Bitte füllen Sie den Fragebogen aus.
+Gastfamilie | die | - | misafir aile | Sie wohnt bei einer Gastfamilie während ihres Aufenthalts im Ausland.
+Geburtsdatum | das | die | doğum tarihi | Bitte geben Sie Ihr Geburtsdatum an.
+Gitarre | die | - | gitar | Er spielt gerne Gitarre.
+Grammatik | die | - | dil bilgisi | Die Grammatik des Satzes ist korrekt.
+Gruppenarbeit | die | - | grup çalışması | Sie machen eine Gruppenarbeit in der Schule.
+Handstand | der | die | elstandı | Er kann einen Handstand machen.
+Hard-Rock | der | - | hard rock | Sie hört gerne Hard-Rock-Musik.
+Haustier | das | die | evcil hayvan | Ihr Haustier ist eine Katze.
+Hilfe | die | - | yardım | Er braucht deine Hilfe.
+Hörtext | der | die | dinleme metni | Sie hört einen Hörtext im Sprachkurs.
+Internetkurs | der | die | internet kursu | Er macht einen Internetkurs.
+Jahreszeit | die | - | mevsim | Der Herbst ist meine Lieblingsjahreszeit.
+Junge | der | die | erkek çocuk | Der Junge spielt Fußball im Park.
+Kilometer | der | die | kilometre | Die Strecke ist fünf Kilometer lang.
+Klasse | die | - | sınıf | Sie ist in der zehnten Klasse.
+Kontaktanzeige | die | - | tanışma ilanı | Er hat auf eine Kontaktanzeige geantwortet.
+Kosten | die | - | maliyet | Die Kosten für das Essen sind hoch.
+Kursangebot | das | die | kurs teklifi | Das Kursangebot ist vielfältig.
+Leben | das | - | yaşam | Das Leben in der Stadt ist aufregend.
+Lebensmittel | das | - | gıda | Sie kauft Lebensmittel im Supermarkt.
+Lebensmittelgeschäft | das | die | bakkal | Das Lebensmittelgeschäft hat bis 22 Uhr geöffnet.
+Lehrer | der | die | öğretmen | Der Lehrer erklärt den Schülern die Aufgabe.
+Lerntipp | der | die | öğrenme ipucu | Hier ist ein Lerntipp für dich.
+Leser | der | die | okuyucu | Die Leser des Buches waren begeistert.
+Leute | die | - | insanlar | Die Leute in der Stadt sind freundlich.
+Lied | das | - | şarkı | Das Lied ist sehr schön.
+Newsletter | der | die | bülten | Sie abonniert den Newsletter der Firma.
+Mädchen | das | - | kız | Das Mädchen liest ein Buch im Park.
+Menge | die | - | miktar | Es gibt eine große Menge an Informationen.
+Modalverb | das | die | yardımcı fiil | Das Modalverb ändert die Bedeutung des Satzes.
+Plakat | das | - | afiş | Das Plakat hängt an der Wand.
+Partnerarbeit | die | - | partner çalışması | Sie machen eine Partnerarbeit im Kurs.
+Partnerinterview | das | -e | partner mülakatı | Beim Partnerinterview lernt man viel über die andere Person.
+Perfekt | das | - | mükemmel | Die Arbeit war einfach perfekt.
+Postkarte | die | -n | kartpostal | Sie hat eine Postkarte aus dem Urlaub geschickt.
+Präsens | das | - | geniş zaman | Im Deutschen gibt es das Präsens, Präteritum und Perfekt.
+Politikseminar | das | -e | siyaset semineri | Er besuchte ein Politikseminar an der Universität.
+Programm | das | -e | program | Welches Programm läuft heute Abend im Fernsehen?
+Radioprogramm | das | -e | radyo programı | Das Radioprogramm bietet eine Vielzahl von Sendungen.
+Radiowerbung | die | - | radyo reklamı | Die Radiowerbung hat mich auf das Angebot aufmerksam gemacht.
+Salsa | der | - | salsa | Sie lernt gerne Salsa tanzen in ihrer Freizeit.
+Satz | der | die Sätze | cümle | Kannst du diesen Satz übersetzen?
+Schule | die | -n | okul | Die Schule beginnt um 8 Uhr morgens.
+Schwimmbad | das | die Schwimmbäder | yüzme havuzu | Im Sommer gehen wir oft ins Schwimmbad.
+Selbstlernkurs | der | -e | kendi kendine öğrenme kursu | Er hat einen Selbstlernkurs für Englisch gemacht.
+Seminar | das | -e | seminer | Das Seminar über Nachhaltigkeit war sehr informativ.
+SMS | die | -s | SMS | Hast du meine SMS erhalten?
+Snowboard | das | -s | snowboard | Im Winter fährt er gerne Snowboard.
+Sonstige | das | -n | diğerleri | Haben Sie noch sonstige Fragen?
+Spaß | der | die Späße | eğlence | Wir hatten viel Spaß auf der Party gestern.
+Spiel | das | -e | oyun | Sie spielen ein Brettspiel im Wohnzimmer.
+Sportstudio | das | -s | spor salonu | Sie trainiert regelmäßig im Sportstudio.
+Sprachunterricht | der | -e | dil dersi | Er nimmt Sprachunterricht, um sein Deutsch zu verbessern.
+Sprachurlaub | der | -e | dil tatili | Im Sprachurlaub lernt man eine Fremdsprache intensiv.
+Studium | das | - | üniversite eğitimi | Mein Studium dauert fünf Jahre.
+Studio | das | -s | stüdyo | Sie nimmt Gesangsstunden im Studio.
+Tango | der | -s | tango | Sie liebt es, Tango zu tanzen.
+Tangokurs | der | -e | tango kursu | Er besucht einen Tangokurs in seiner Freizeit.
+Tanzkurs | der | -e | dans kursu | Sie hat sich für einen Tanzkurs angemeldet.
+Tanzschule | die | -n | dans okulu | Die Tanzschule bietet Kurse für verschiedene Tanzstile an.
+Termin | der | -e | randevu | Haben Sie schon einen Termin beim Arzt vereinbart?
+Text | der | -e | metin | Kannst du diesen Text ins Englische übersetzen?
+Theater | das | - | tiyatro | Sie gehen gerne ins Theater, um sich ein Stück anzusehen.
+Tipp | der | -s | ipucu | Danke für den Tipp, das hat mir sehr geholfen.
+Übung | die | -en | alıştırma | Machen Sie diese Übung, um Ihr Wissen zu festigen.
+Universität | die | -en | üniversite | Sie studiert an der Universität Medizin.
+Ukraine | die | - | Ukrayna | Er stammt aus der Ukraine, aber lebt jetzt in Deutschland.
+Unterricht | der | - | ders | Der Unterricht beginnt um 9 Uhr morgens.
+Urlaub | der | -e | tatil | Wir fahren nächsten Monat in den Urlaub.
+Vermutung | die | -en | tahmin | Meine Vermutung war richtig.
+Vorsatz | der | die Vorsätze | karar | Mein Vorsatz für das neue Jahr ist mehr Sport zu treiben.
+Vorschlag | der | die Vorschläge | öneri | Hast du einen Vorschlag für unser Projekt?
+Web-Seite | die | -n | web sitesi | Diese Web-Seite bietet viele Informationen über das Thema.
+Weiterbildung | die | - | mesleki gelişim | Weiterbildung ist wichtig für den beruflichen Erfolg.
+Werbung | die | -en | reklam | Die Werbung im Fernsehen ist oft sehr kreativ.
+Wetterbericht | der | -e | hava durumu raporu | Ich schaue jeden Morgen den Wetterbericht im Fernsehen.
+Wichtigkeit | die | - | önem | Die Wichtigkeit dieses Themas wird oft unterschätzt.
+Wunsch | der | die Wünsche | istek | Mein größter Wunsch ist es, die Welt zu bereisen.
+Zahl | die | -en | sayı | Die Zahl der Besucher hat sich in den letzten Jahren verdoppelt.
+Zeitmanagement | das | - | zaman yönetimi | Gutes Zeitmanagement ist wichtig, um effizient zu arbeiten.
+Zeitplanung | die | - | zaman planlaması | Eine gute Zeitplanung hilft dabei, den Tag effektiv zu nutzen.
+Zeitschrift | die | -en | dergi | Sie liest gerne Zeitschriften über Mode und Lifestyle.
+Zeitung | die | -en | gazete | Er liest jeden Morgen die Zeitung, um über aktuelle Ereignisse informiert zu sein.
+Zeitungstext | der | -e | gazete metni | Der Zeitungstext handelt von politischen Ereignissen.

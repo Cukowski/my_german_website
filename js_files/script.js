@@ -27,7 +27,10 @@ function displayWord(index) {
 
 // Function to navigate to the previous word
 function previousWord() {
-    if (currentWordIndex > 0) {
+    if (currentWordIndex == 0) {
+        currentWordIndex = words.length - 1;
+        displayWord(currentWordIndex);
+    } else if (currentWordIndex > 0) {
         currentWordIndex--;
         displayWord(currentWordIndex);
     }
@@ -35,7 +38,10 @@ function previousWord() {
 
 // Function to navigate to the next word
 function nextWord() {
-    if (currentWordIndex < words.length - 1) {
+    if (currentWordIndex == words.length - 1) {
+        currentWordIndex = 0;
+        displayWord(currentWordIndex);
+    } else if (currentWordIndex < words.length - 1) {
         currentWordIndex++;
         displayWord(currentWordIndex);
     }

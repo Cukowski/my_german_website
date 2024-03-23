@@ -1,0 +1,63 @@
+Accessoire|-|die|accesoar|Accessoires sind modische Ergänzungen zum Outfit.
+Anorak|der|die|anorak|In den Bergen tragen viele Menschen einen Anorak.
+Anzug|der|die|takım|Der Anzug ist ein klassisches Kleidungsstück für formelle Anlässe.
+Armband|das|die|bilezik|Sie trägt ein schönes Armband aus Gold.
+Armbanduhr|die|die|kol saati|Meine Armbanduhr ist stehen geblieben.
+Baby-Wäsche|die|die|bebek giysileri|Baby-Wäsche sollte besonders sanft gewaschen werden.
+Badeanzug|der|die|mayo|Im Schwimmbad trug sie einen roten Badeanzug.
+Badehose|der|die|mayo|Für den Strandurlaub kaufte er sich eine neue Badehose.
+Bikini|der|die|bikini|Sie entschied sich für einen blauen Bikini für den Sommer.
+Bluse|die|die|bluz|Sie trägt eine elegante weiße Bluse zur Arbeit.
+Brille|die|die|gözlük|Seine Brille hat eine runde Form.
+Damenkleidung|die|die|bayan giysileri|Die Damenkleidung ist im Schaufenster ausgestellt.
+Designer-Mode|die|die|tasarımcı kıyafetler|Designer-Mode ist oft teurer als normale Kleidung.
+Größe|die|die|boyut|Welche Größe tragen Sie?
+Gummistiefel|der|die|lastik çizme|Im Regenwetter sind Gummistiefel sehr praktisch.
+Gürtel|der|die|kemer|Sein Gürtel war zu eng.
+Halskette|die|die|kolye|Sie trägt eine silberne Halskette.
+Handschuh|der|die|eldiven|Im Winter trage ich immer Handschuhe.
+Hausschuh|die|die|ev terliği|Sie zog ihre Hausschuhe an und machte es sich gemütlich.
+Hemd|das|die|gömlek|Sein Hemd war ordentlich gebügelt.
+Herrenkleidung|die|die|erkek giysileri|Die Herrenkleidung ist im ersten Stock.
+Hose|die|die|pantolon|Diese Hose passt gut zu deinem Hemd.
+Kurze Hose|die|die|şort|Im Sommer trage ich gerne kurze Hosen.
+Jacke|die|die|ceket|Sie zog eine warme Jacke an, bevor sie nach draußen ging.
+Jeans|die|die|kot pantolon|Jeans sind sehr strapazierfähig.
+Kinderkleidung|die|die|çocuk giysileri|Die Kinderkleidung ist im Angebot.
+Kleid|das|die|elbise|Das Kleid passte perfekt zu ihrem Teint.
+Kleiderbügel|der|die|askı|Häng das Hemd auf den Kleiderbügel.
+Kleidergeschäft|das|die|giyim mağazası|Sie ging ins Kleidergeschäft, um sich ein neues Outfit zu kaufen.
+Kleiderschrank|der|die|giysi dolabı|Sie räumte ihre Kleiderschränke auf.
+Kleidung|die|die|giysi|Die richtige Kleidung zu finden kann manchmal schwierig sein.
+Knopf|der|die|düğme|Der Knopf an ihrer Jacke war abgerissen.
+Krawatte|die|die|kravat|Zu besonderen Anlässen trägt er eine Krawatte.
+Latzhose|die|die|tulum|Der Maler trug eine Latzhose, als er die Wände strich.
+Mantel|der|die|palto|Im Winter trug sie einen warmen Mantel.
+Mode|die|die|moda|Mode ändert sich ständig.
+Mode-Boutique|die|die|moda butiği|Sie arbeitet in einer Mode-Boutique.
+Modenschau|die|die|moda defilesi|Die Modenschau war ein voller Erfolg.
+Mütze|die|die|bere|Sie setzte ihre Mütze auf, um sich vor der Kälte zu schützen.
+Nachthemd|das|die|pijama|Sie schlüpfte in ihr Nachthemd und kuschelte sich ins Bett.
+Ohrring|der|die|küpe|Ihr Ohrring war ein Geschenk von ihrer Großmutter.
+Pullover|der|die|kazak|Sein Pullover war zu groß geworden.
+Reißverschluss|der|die|fermuar|Der Reißverschluss an ihrer Tasche war kaputt.
+Regenjacke|die|die|yağmurluk|Er zog seine Regenjacke an, bevor er nach draußen ging.
+Regenschirm|der|die|şemsiye|Sie nahm ihren Regenschirm, bevor sie das Haus verließ.
+Ring|der|die|yüzük|Ihr Ring glänzte im Sonnenlicht.
+Rock|der|die|etek|Sie trug einen bunten Rock zur Party.
+Sandale|die|die|sandalet|Im Sommer trage ich am liebsten Sandalen.
+Schal|der|die|atki|Sie wickelte den Schal fest um ihren Hals.
+Schlafanzug|der|die|pijama takımı|Er zog seinen Schlafanzug an und legte sich ins Bett.
+Schuh|der|die|ayakkabı|Ihre Schuhe waren bequem und elegant zugleich.
+Socke|die|die|çorap|Er zog sich warme Socken an, als es draußen kälter wurde.
+Stil|der|die|tarz|Sein Stil ist immer sehr elegant.
+Stiefel|der|die|çizme|Im Herbst trägt sie gerne Stiefel.
+Strickjacke|die|die|hırka|Die Strickjacke hielt sie warm.
+Strumpf|der|die|çorap|Sie trug schwarze Strümpfe zu ihrem Kleid.
+Strumpfhose|die|die|tayt|Im Winter trug sie eine dicke Strumpfhose.
+Sweatshirt|der|die|sweatshirt|Sein Sweatshirt war zu groß für ihn.
+Trainingsanzug|der|die|egzersiz kıyafeti|Der Trainingsanzug ist bequem und ideal für sportliche Aktivitäten.
+T-Shirt|das|die|tişört|Er trägt ein blaues T-Shirt.
+Turnschuh|der|die|spor ayakkabısı|Ich ziehe meine Turnschuhe an, bevor ich zum Fitnessstudio gehe.
+Unterhemd|das|die|atlet|Im Sommer trage ich gerne ein Unterhemd.
+Unterhose|die|die|üst iç çamaşırı|Sie kaufte ihm neue Unterhosen zum Geburtstag.
