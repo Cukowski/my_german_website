@@ -1,81 +1,81 @@
-das Baby, -s|Mein Kind ist noch ein Baby.
-die Bäckerei|Ich geh mal schnell zur Bäckerei.
-das Bad|Wir haben kein großes Bad.
-baden|Ich bade nicht so gern, ich dusche lieber.
-die Bahn|Wir fahren lieber mit der Bahn.
+das Baby, -s||Mein Kind ist noch ein Baby.
+die Bäckerei||Ich geh mal schnell zur Bäckerei.
+das Bad||Wir haben kein großes Bad.
+baden||Ich bade nicht so gern, ich dusche lieber.
+die Bahn||Wir fahren lieber mit der Bahn.
 Ich nehme die nächste Bahn.
-der Bahnhof|Komme ich hier zum Bahnhof?
-der Bahnsteig|Auf welchem Bahnsteig fährt der Zug?
-bald|Ich komme bald.
-der Balkon|Die Wohnung hat auch einen kleinen Balkon.
-die Banane, -n|Drei Bananen, bitte!
-die Bank|Die Bank schließt schon um vier Uhr.
+der Bahnhof||Komme ich hier zum Bahnhof?
+der Bahnsteig||Auf welchem Bahnsteig fährt der Zug?
+bald||Ich komme bald.
+der Balkon||Die Wohnung hat auch einen kleinen Balkon.
+die Banane, -n||Drei Bananen, bitte!
+die Bank||Die Bank schließt schon um vier Uhr.
 Er sitzt im Park auf einer Bank und liest.
-bar|Muss ich bar zahlen oder geht‘s auch mit Karte?
-der Bauch|Seit gestern tut mir der Bauch weh.
-der Baum, -ä, e|Vorsicht, fahr nicht an den Baum!
-der Beamte, -n|Fragen Sie die Beamtin an Schalter acht!
-bedeuten|Was bedeutet das Wort?
-beginnen|Das Spiel beginnt um 15.30 Uhr.
-bei|Offenbach liegt bei Frankfurt.
+bar||Muss ich bar zahlen oder geht‘s auch mit Karte?
+der Bauch||Seit gestern tut mir der Bauch weh.
+der Baum, -ä, e||Vorsicht, fahr nicht an den Baum!
+der Beamte, -n||Fragen Sie die Beamtin an Schalter acht!
+bedeuten||Was bedeutet das Wort?
+beginnen||Das Spiel beginnt um 15.30 Uhr.
+bei||Offenbach liegt bei Frankfurt.
 Ich wohne bei meinen Eltern.
 Bei uns regnet es heute.
 Er arbeitet bei der Polizei.
-beide|Beide Eltern arbeiten.
+beide||Beide Eltern arbeiten.
 Wir kommen beide.
-das Bein, -e|Mein rechtes Bein tut weh.
-das Beispiel, -e|Kannst du mir ein Beispiel sagen?
-zum Beispiel/z. B.|Viele meiner Verwandten, z. B. meine beiden Brüder, arbeiten auch hier.
-bekannt|Picasso ist sehr bekannt.
-der/die Bekannte, -n|Ein Bekannter von mir heißt Klaus.
-bekommen|Haben Sie meinen Brief bekommen?
+das Bein, -e||Mein rechtes Bein tut weh.
+das Beispiel, -e||Kannst du mir ein Beispiel sagen?
+zum Beispiel/z. B.||Viele meiner Verwandten, z. B. meine beiden Brüder, arbeiten auch hier.
+bekannt||Picasso ist sehr bekannt.
+der/die Bekannte, -n||Ein Bekannter von mir heißt Klaus.
+bekommen||Haben Sie meinen Brief bekommen?
 Was bekommen Sie?
 Dieses Medikament bekommen Sie in der Apotheke.
-benutzen|Die Aufzüge bitte nicht benutzen!
-der Beruf, -e|Was sind Sie von Beruf?
+benutzen||Die Aufzüge bitte nicht benutzen!
+der Beruf, -e||Was sind Sie von Beruf?
 Was ist Ihr Beruf?
-besetzt|Die Nummer ist immer besetzt.
+besetzt||Die Nummer ist immer besetzt.
 Der Platz ist besetzt.
-besichtigen|Ich möchte gern den Dom besichtigen.
-besser|Es geht mir schon besser.
-best-|Am besten treffen wir uns morgen.
-bestellen|Wir möchten bestellen, bitte.
+besichtigen||Ich möchte gern den Dom besichtigen.
+besser||Es geht mir schon besser.
+best-||Am besten treffen wir uns morgen.
+bestellen||Wir möchten bestellen, bitte.
 Dieses Buch haben wir nicht – sollen wir es für Sie bestellen?
-besuchen|Darf ich dich besuchen?
-das Bett, -en|Wir brauchen noch ein Kinderbett.
-bezahlen|Wo muss ich bezahlen?
-das Bier|Noch ein Bier bitte.
-das Bild, -er|Hast du ein Bild von deinem Sohn?
-billig|Die Jacke kostet nur 10 Euro! Die ist aber billig!
-die Birne, -n|Ein Kilo Birnen, bitte!
-bis|Ich fahre nur bis Stuttgart.
+besuchen||Darf ich dich besuchen?
+das Bett, -en||Wir brauchen noch ein Kinderbett.
+bezahlen||Wo muss ich bezahlen?
+das Bier||Noch ein Bier bitte.
+das Bild, -er||Hast du ein Bild von deinem Sohn?
+billig||Die Jacke kostet nur 10 Euro! Die ist aber billig!
+die Birne, -n||Ein Kilo Birnen, bitte!
+bis||Ich fahre nur bis Stuttgart.
 Ich warte bis morgen.
-bisschen|Ich spreche Englisch, Französisch und ein bisschen Deutsch.
-bitte|Eine Tasse Kaffee, bitte!
+bisschen||Ich spreche Englisch, Französisch und ein bisschen Deutsch.
+bitte||Eine Tasse Kaffee, bitte!
 Sprechen Sie bitte leise!
-die Bitte, -n|Ich habe noch eine Bitte.
-bitten|Darf ich Sie um etwas bitten?
-bitter|Der Kaffee schmeckt bitter.
-bleiben|Ich bleibe heute zu Hause.
+die Bitte, -n||Ich habe noch eine Bitte.
+bitten||Darf ich Sie um etwas bitten?
+bitter||Der Kaffee schmeckt bitter.
+bleiben||Ich bleibe heute zu Hause.
 Wir bleiben nur bis morgen.
-der Bleistift, -e|Hast du einen Bleistift?
-der Blick|Von diesem Hotel hat man einen guten Blick auf den Rhein.
-die Blume, -n|Gefallen dir die Blumen?
-der Bogen|Schreiben Sie Ihre Lösungen bitte auf den Antwortbogen.
-böse|Sie ist böse auf mich.
-brauchen|Brauchst du die Zeitung noch?
-breit|Wie breit ist der Schrank?
-der Brief, -e|Haben Sie einen Brief für mich?
-die Briefmarke, -n|Kaufst du bitte Briefmarken bei der Post.
-bringen|Bringen Sie mir bitte noch einen Kaffee!
+der Bleistift, -e||Hast du einen Bleistift?
+der Blick||Von diesem Hotel hat man einen guten Blick auf den Rhein.
+die Blume, -n||Gefallen dir die Blumen?
+der Bogen||Schreiben Sie Ihre Lösungen bitte auf den Antwortbogen.
+böse||Sie ist böse auf mich.
+brauchen||Brauchst du die Zeitung noch?
+breit||Wie breit ist der Schrank?
+der Brief, -e||Haben Sie einen Brief für mich?
+die Briefmarke, -n||Kaufst du bitte Briefmarken bei der Post.
+bringen||Bringen Sie mir bitte noch einen Kaffee!
 Wir müssen ihn zum Arzt bringen.
-das Brot, -e|Haben Sie auch Weißbrot?
+das Brot, -e||Haben Sie auch Weißbrot?
 Nimm noch ein paar Brote für die Fahrt mit.
-das Brötchen, –|Möchtest du Brötchen zum Frühstück?
-der Bruder, -ü|Sein Bruder arbeitet auch hier.
-das Buch, -ü, er|Gute Bücher sind oft sehr teuer.
+das Brötchen, –||Möchtest du Brötchen zum Frühstück?
+der Bruder, -ü||Sein Bruder arbeitet auch hier.
+das Buch, -ü, er||Gute Bücher sind oft sehr teuer.
 In diesem Wörterbuch finden Sie mehr als 20.000 Wörter.
-der Buchstabe, -n|Diesen Buchstaben gibt es in meiner Sprache nicht.
-buchstabieren|Bitte buchstabieren Sie Ihren Namen.
-der Bus, -se|Wann kommt der nächste Bus?
-die Butter|Für mich bitte ein Brötchen mit Butter und Käse.
+der Buchstabe, -n||Diesen Buchstaben gibt es in meiner Sprache nicht.
+buchstabieren||Bitte buchstabieren Sie Ihren Namen.
+der Bus, -se||Wann kommt der nächste Bus?
+die Butter||Für mich bitte ein Brötchen mit Butter und Käse.

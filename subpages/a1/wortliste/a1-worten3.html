@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A1 Nomen</title>
+    <link rel="stylesheet" href="../../../styles.css">
+</head>
+<body>
+    <header>
+        <h1>A1 Worten 3</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="../../../index.html">Home</a></li>
+            <li><a href="../a1-wortliste.html">A1 Wortliste</a></li>
+            <!-- Add more navigation options here -->
+        </ul>
+    </nav>
+    <div class="container">
+        <input type="text" id="searchInput" oninput="searchWords(this.value)" placeholder="Search..." class="search-input">
+        <div id="searchResults" class="search-results"></div>
+        <div class="goto-section">
+            <input type="number" id="gotoInput" placeholder="Go to word number" class="goto-input">
+            <button onclick="goToWord()" class="goto-button">Go to</button>
+        </div>
+        <div id="wordCounter" class="word-counter"></div>
+        <div id="wordProperties" class="word-properties"></div>
+        <div id="navigationButtons" class="navigation-buttons">
+            <button onclick="previousWord()" class="nav-button">Previous</button>
+            <button onclick="randomWord()" class="nav-button">Random</button>
+            <button onclick="nextWord()" class="nav-button">Next</button>
+        </div>
+    </div>    
+    
+    <script src="../../../js_files/script_worten.js"></script>
+    <script src="../../../js_files/swipe.js"></script>
+    <script>
+        loadWordList('../../../words/a1_words/c-d.txt'); // Change the filename as needed
+    </script>
+    <footer>
+        <p>&copy; 2024 German Learning Website</p>
+    </footer>
+</body>
+</html>
