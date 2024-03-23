@@ -23,15 +23,30 @@ nav ul {
 }
 
 nav ul li {
-    display: inline;
-    margin-right: 20px;
+    margin-bottom: 10px; /* Add some space between buttons */
 }
 
 nav ul li a {
-    text-decoration: none;
+    display: block;
+    width: auto;
+    padding: 10px;
+    line-height: 1;
+    border-radius: 30%;
+    background-color: #f4f4f4;
     color: #333;
-    font-weight: bold;
+    font-size: 16px;
+    text-decoration: none;
+    cursor: pointer;
+    text-align: center;
+    overflow: hidden;
+    white-space: nowrap;
 }
+
+/* Add hover effect */
+nav ul li a:hover {
+    background-color: #ccc;
+}
+
 
 footer {
     background-color: #333;
