@@ -123,10 +123,23 @@ nav ul li button:hover, .nav-button:hover, .submit-button button:hover, .button-
     margin-bottom: 20px;
 }
 
+.s-icon:hover {
+    transform: scale(1.1);
+}
+
 .s-icon img {
     width: 100%;
     height: auto;
     margin-bottom: 30px;
+}
+
+.s-icon-link {
+    text-decoration: none;
+    color: #222831;
+    font-weight: bold;
+    font-size: 18px;
+    display: block;
+    text-align: center;
 }
 
 .container {
