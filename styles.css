@@ -4,7 +4,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #EEEEEE;
-    padding-bottom: 60px; /* Adjust this value based on the height of your footer */
+    padding-bottom: 60px; 
 }
 
 header, .site-header {
@@ -293,6 +293,44 @@ footer {
 .submit-button button:hover,
 .button-container button:hover {
     background-color: #555;
+}
+
+/* Excel Container Styles */
+#excel-container {
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+#excel-container p {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+#excel-container table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#excel-container th, #excel-container td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+}
+
+#excel-container th {
+    background-color: #f2f2f2;
+}
+
+#excel-container tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+#excel-container tr:hover {
+    background-color: #f2f2f2;
 }
 
 @media screen and (max-width: 768px) {
