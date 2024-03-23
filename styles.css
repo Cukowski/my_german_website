@@ -23,30 +23,109 @@ nav ul {
 }
 
 nav ul li {
-    margin-bottom: 10px; /* Add some space between buttons */
+    margin-bottom: 10px;
 }
 
 nav ul li a {
     display: block;
     width: auto;
-    padding: 10px;
-    line-height: 1;
-    border-radius: 30%;
-    background-color: #f4f4f4;
-    color: #333;
+    padding: 10px 20px;
+    border-radius: 25px;
+    background-color: #4CAF50; /* Green */
+    color: white;
     font-size: 16px;
     text-decoration: none;
-    cursor: pointer;
     text-align: center;
-    overflow: hidden;
-    white-space: nowrap;
+    transition: background-color 0.3s;
 }
 
-/* Add hover effect */
 nav ul li a:hover {
-    background-color: #ccc;
+    background-color: #45a049; /* Darker green */
 }
 
+/* Circular buttons */
+nav ul li button {
+    display: block;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    border-radius: 50%;
+    background-color: #4CAF50; /* Green */
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+nav ul li button:hover {
+    background-color: #45a049; /* Darker green */
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.search-input,
+.goto-input,
+.goto-button,
+.word-counter,
+.word-properties,
+.navigation-buttons {
+    margin-bottom: 15px;
+}
+
+.search-results {
+    max-height: 100px;
+    overflow-y: auto;
+}
+
+.goto-section {
+    display: flex;
+    align-items: center;
+}
+
+.goto-input {
+    flex: 1;
+    margin-right: 10px;
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+.goto-button {
+    padding: 8px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.goto-button:hover {
+    background-color: #0056b3;
+}
+
+.nav-button {
+    padding: 8px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.nav-button:hover {
+    background-color: #0056b3;
+}
 
 footer {
     background-color: #333;
@@ -58,12 +137,43 @@ footer {
     width: 100%;
 }
 
-/* CSS styles for words.html */
-
-.searchResult {
-    cursor: pointer;
+/* Search bar styling */
+#searchInput {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
 }
 
+/* Style for search results */
+#searchResults {
+    max-height: 200px;
+    overflow-y: auto; /* Add scroll if there are too many results */
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+    margin-top: 5px;
+}
+
+/* Style for each search result item */
+.searchResult {
+    padding: 8px;
+    margin-bottom: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+/* Add hover effect */
 .searchResult:hover {
     background-color: #f0f0f0;
 }
+
+.search-results {
+    display: contents; /* Initially hide the search results */
+    margin-top: 10px; /* Add some spacing */
+}
+

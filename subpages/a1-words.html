@@ -18,25 +18,27 @@
         </ul>
     </nav>
     <div class="container">
-        <input type="text" id="searchInput" oninput="searchWords(this.value)" placeholder="Search...">
-        <div id="searchResults"></div>
-        <div>
-            <input type="number" id="gotoInput" placeholder="Go to word number">
-            <button onclick="goToWord()">Go to</button>
+        <input type="text" id="searchInput" oninput="searchWords(this.value)" placeholder="Search..." class="search-input">
+        <div id="searchResults" class="search-results"></div>
+        <div class="goto-section">
+            <input type="number" id="gotoInput" placeholder="Go to word number" class="goto-input">
+            <button onclick="goToWord()" class="goto-button">Go to</button>
         </div>
-        <div id="wordCounter"></div>
-        <div id="wordProperties"></div>
-        <div id="navigationButtons">
-            <button onclick="previousWord()">Previous</button>
-            <button onclick="nextWord()">Next</button>
-            <button onclick="randomWord()">Random</button>
+        <div id="wordCounter" class="word-counter"></div>
+        <div id="wordProperties" class="word-properties"></div>
+        <div id="navigationButtons" class="navigation-buttons">
+            <button onclick="previousWord()" class="nav-button">Previous</button>
+            <button onclick="nextWord()" class="nav-button">Next</button>
+            <button onclick="randomWord()" class="nav-button">Random</button>
         </div>
-    </div>
+    </div>    
     
     <script src="../js_files/script.js"></script>
     <script>
         loadWordList('../words/wordsA1.txt'); // Change the filename as needed
     </script>
-    
+    <footer>
+        <p>&copy; 2024 German Learning Website</p>
+    </footer>
 </body>
 </html>

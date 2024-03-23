@@ -66,6 +66,11 @@ function searchWords() {
     let searchResults = document.getElementById('searchResults');
     searchResults.innerHTML = '';
 
+    // Check if search term is empty
+    if (searchTerm === '') {
+        return; // If empty, return without showing any words
+    }
+
     words.forEach((word, index) => {
         if (word.toLowerCase().startsWith(searchTerm)) {
             let resultItem = document.createElement('div');
