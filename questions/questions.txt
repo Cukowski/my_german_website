@@ -1,2 +1,11 @@
-Es gehört ____ Ortsgemeinde Sankt Johann.|a. zur|b. zum|c. von|a
 Wie gehts es Dir und deinen _____?|a. Liebes|b. Lieben|c. Lieber|c
+Sehr geehrter Herr Norz, mit großem Interesse habe ich Ihre ____ zur Dreizimmerwohnung in Ingolstadt, Objekt 23456, Chiffre 2563 gelesen.|a. SMS|b. Mitteilung|c. Annonce|a
+Mein Name ist Gunnar Schäfer, ich bin 29 Jahre alt und arbeite im Zentrum von Ingolstadt. ____ bewohne ich ein Apartment in der Wittelsbacher Straße 7.|a. Zeitlich|b. Damals|c. Derzeit|c
+Das Apartment ist bereits gekündigt, ____ ich ab sofort in eine neue Wohnung ziehen könnte.|a. warum|b. weshalb|c. deshalb|b
+Ich arbeite seit drei Jahren als Key Account Manager bei einem ____ Unternehmen und stehe dort in einem unbefristeten Arbeitsverhältnis.|a. mittel|b. mittelständischen|c. mittleren|b
+Aktuell liegt mein Bruttojahresgehalt bei 79.000 Euro. Ich bin ____ Ihre Anzeige aufmerksam geworden, (__) die Wohnung in Bezug auf Größe, Anzahl der Zimmer und Lage genau meinen Wünschen und Vorstellungen (__).|a. in|b. für|c. auf|c
+Aktuell liegt mein Bruttojahresgehalt bei 79.000 Euro. Ich bin auf Ihre Anzeige aufmerksam geworden, ____ die Wohnung in Bezug auf Größe, Anzahl der Zimmer und Lage genau meinen Wünschen und Vorstellungen (__).|a. wenn|b. darum|c. da|c
+Aktuell liegt mein Bruttojahresgehalt bei 79.000 Euro. Ich bin auf Ihre Anzeige aufmerksam geworden, da die Wohnung in Bezug auf Größe, Anzahl der Zimmer und Lage genau meinen Wünschen und Vorstellungen ____.|a. gefällt|b. passt|c. entspricht|c
+Da diese Wohnung in der Nähe meiner Arbeitsstelle liegt, würde ich mir ____ den täglichen Berufsverkehr sparen. |a. mehr|b. zusätzlich|c. gründlich|b
+Ich bin Nichtraucher und würde alleine einziehen. Zur ____ habe ich meinen Arbeitsvertrag sowie die Schufa-Auskunft beigefügt. Gerne lasse ich Ihnen bei Bedarf weitere Informationen über mich (Gehaltsnachweise, letzte Vermieter etc.) zukommen.|a. Bonitätsprüfung|b. Test|c. Aufmerksamkeit|a
+____ ich dem Text Ihrer Anzeige viele Informationen entnehmen kann, würde mich noch ein wichtiger Aspekt interessieren. Wie sieht es mit der Tierhaltung aus? Gibt es irgendwelche Einschränkungen? Ich bin stolzer Besitzer eines zwei Jahre alten, wohlerzogenen Dobermanns.|a. trotzdem|b. ob|c. obschon|c
