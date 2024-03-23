@@ -160,13 +160,6 @@ footer {
     width: 100%;
 }
 
-/* Media query to hide the footer on mobile devices */
-@media screen and (max-width: 768px) {
-    footer {
-        display: none;
-    }
-}
-
 /* Search bar styling */
 #searchInput {
     width: 100%;
@@ -253,3 +246,25 @@ footer {
     background-color: #555;
 }
 
+@media screen and (max-width: 768px) {
+    /* Adjust margin or padding of elements below the header */
+    footer {
+        display: none;
+    }
+    .container {
+        padding-top: 0px; 
+    }
+    .header {
+        margin: 0;
+        padding: 0;
+    }
+    .icon img {
+        max-width: 180px;
+        max-height: 180px;
+        margin-top: 20px;
+    }
+    .body {
+        margin: 0;
+        padding: 0;
+    }
+}
