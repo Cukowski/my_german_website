@@ -4,6 +4,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #EEEEEE;
+    padding-bottom: 60px; /* Adjust this value based on the height of your footer */
 }
 
 header, .site-header {
@@ -138,6 +139,28 @@ nav ul li button:hover, .nav-button:hover, .submit-button button:hover, .button-
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
+/* Styles for the div section in plain text */
+.section {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+h3 {
+    color: #666;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+
 .search-input, .goto-input, .goto-button, .word-counter, .word-properties, .navigation-buttons {
     margin-bottom: 15px;
 }
@@ -182,7 +205,10 @@ footer {
     position: fixed;
     bottom: 0;
     width: 100%;
+    box-sizing: border-box;
 }
+
+
 
 /* Search bar styling */
 #searchInput {
@@ -289,5 +315,6 @@ footer {
     .body {
         margin: 0;
         padding: 0;
+        padding-bottom: 20px; 
     }
 }
