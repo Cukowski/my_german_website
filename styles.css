@@ -214,14 +214,18 @@ footer {
 }
 
 /* Submit button styles */
-.submit-button button {
+.submit-button button,
+.button-container button {
     padding: 10px 20px;
     background-color: #333;
     color: #fff;
     border: none;
     cursor: pointer;
+    margin: 5px;
 }
 
-.submit-button button:hover {
+.submit-button button:hover,
+.button-container button:hover {
     background-color: #555;
 }
+
