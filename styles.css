@@ -143,6 +143,13 @@ footer {
     width: 100%;
 }
 
+/* Media query to hide the footer on mobile devices */
+@media screen and (max-width: 768px) {
+    footer {
+        display: none;
+    }
+}
+
 /* Search bar styling */
 #searchInput {
     width: 100%;
