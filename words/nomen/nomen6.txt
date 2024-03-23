@@ -1,0 +1,123 @@
+Akkusativ|der|-|ilgeç|Der Akkusativ zeigt die direkte Objektposition im Satz an.
+Aktivität|die|die|etkinlik|Wir planen verschiedene Aktivitäten für das Wochenende.
+Angebot|das|die|teklif|Das Angebot im Supermarkt ist vielfältig.
+Anzug|der|die|takım elbise|Er trägt einen dunklen Anzug.
+Apfelkuchen|der|-|elmalı pasta|Ich mag gerne Apfelkuchen.
+Apfelsaft|der|die|elma suyu|Ich trinke gerne Apfelsaft.
+Arbeitswoche|die|-|iş haftası|Die Arbeitswoche beginnt am Montag.
+Auto|das|die|araba|Wir fahren mit dem Auto in den Urlaub.
+Badeanzug|der|die|mayo|Sie trägt einen roten Badeanzug.
+Bier|das|-|bira|Ein kühles Bier am Abend ist herrlich.
+Brot|das|die|ekmek|Ich kaufe frisches Brot beim Bäcker.
+Brief|der|die|mektup|Ich schreibe einen Brief an meine Oma.
+Brieffreund|der|die|mektup arkadaşı|Ich habe einen Brieffreund in Deutschland.
+Buch|das|die|kitap|Ich lese gerne ein Buch.
+Chiffre|die|-|şifre|Die Chiffre ist schwer zu entschlüsseln.
+Cola|die|die|kola|Ich trinke gerne eine Cola.
+Dessert|das|die|tatlı|Als Dessert gibt es heute Eis.
+Ding|das|die|şey|Was ist das für ein Ding?
+Disko (Disco)|die|-|disko|Wir gehen am Wochenende in die Disko.
+Deutschbuch|das|die|Almanca kitabı|Ich lerne Deutsch mit meinem Deutschbuch.
+Einladung|die|-|davet|Ich habe eine Einladung zum Geburtstag bekommen.
+Eis|das|die|dondurma|Im Sommer esse ich gerne Eis.
+E-Mail|das|die|e-posta|Ich schreibe eine E-Mail an meinen Freund.
+Fahrkarte|die|-|bilet|Ich kaufe mir eine Fahrkarte für den Zug.
+Fahrrad|das|die|bisiklet|Ich fahre gerne Fahrrad im Park.
+Fan|der|die|hayran|Er ist ein großer Fan von Fußball.
+Fertiggericht|das|die|hazır yemek|Für das Mittagessen gab es ein Fertiggericht.
+Freizeit|die|-|boş vakit|In meiner Freizeit lese ich gerne.
+Freizeitstress|der|-|boş vakit stresi|Der Freizeitstress macht mich müde.
+Freizeit-Terror|der|-|boş vakit kabusu|Der Freizeit-Terror raubt mir die Ruhe.
+Friseur|der|die|kuaför|Ich gehe zum Friseur und lasse mir die Haare schneiden.
+Frühling|der|-|ilkbahar|Der Frühling ist meine Lieblingsjahreszeit.
+Fußball|der|die|futbol|Wir spielen Fußball im Park.
+Geld|das|die|para|Ich habe mein Geld zu Hause vergessen.
+Geschäft|das|die|mağaza|Wir gehen in das Geschäft, um Kleidung zu kaufen.
+Gespräch|das|die|konuşma|Wir führen ein interessantes Gespräch.
+Getränk|das|die|içecek|Ich trinke gerne ein kaltes Getränk.
+Glück|das|die|şans|Ich wünsche dir viel Glück!
+Grad|das|die|derece|Die Temperatur beträgt 25 Grad.
+Großeinkauf|der|die|toptan alışveriş|Wir machen einen Großeinkauf im Supermarkt.
+Hähnchen|das|-|tavuk|Wir grillen ein Hähnchen im Garten.
+Handy|das|die|cep telefonu|Ich telefoniere mit meinem Handy.
+Haus|das|die|ev|Unser Haus hat einen großen Garten.
+Herbst|der|-|sonbahar|Der Herbst ist eine schöne Jahreszeit.
+Hobby|das|die|hobi|Mein Hobby ist Fotografieren.
+Hund|der|die|köpek|Wir haben einen Hund als Haustier.
+Internet|das|die|internet|Wir suchen Informationen im Internet.
+Jogginganzug|der|die|egzersiz kıyafeti|Er trägt einen Jogginganzug zum Sport.
+Joggingschuh|der|die|koşu ayakkabısı|Ich kaufe mir neue Joggingschuhe.
+Joggingwetter|das|die|egzersiz hava koşulları|Das Joggingwetter ist heute perfekt.
+Kaffee|der|die|kahve|Ich trinke meinen Kaffee gerne schwarz.
+Karate|das|die|karate|Ich übe Karate seit vielen Jahren.
+Karte|die|-|kart|Ich schreibe eine Karte an meine Freunde.
+Käsebrot|das|die|peynirli ekmek|Ich esse gerne ein Käsebrot zum Frühstück.
+Kugelschreiber|der|die|tükenmez kalem|Ich schreibe mit einem Kugelschreiber.
+Krimi|der|die|polisiye roman|Ich lese gerne Krimis in meiner Freizeit.
+Kuchen|der|die|kek|Wir essen Kuchen zum Geburtstag.
+Kurve|die|-|viraj|Die Straße macht eine scharfe Kurve.
+Küche|die|-|mutfak|Wir kochen gemeinsam in der Küche.
+Laden|der|die|dükkan|Wir gehen in den Laden, um einzukaufen.
+Lerntagebuch|das|die|öğrenme günlüğü|Ich führe ein Lerntagebuch für meine Deutschkurse.
+Milch|die|-|süt|Ich trinke gerne Milch zum Frühstück.
+Minute|die|-|dakika|Die Veranstaltung dauert 60 Minuten.
+Montagsmorgen|der|-|pazartesi sabahı|Am Montagsmorgen beginnt die Arbeitswoche.
+Nominativ|der|die|yalın|Der Nominativ ist der erste Fall in der deutschen Grammatik.
+Norden|der|-|kuzey|Wir fahren in den Norden in den Urlaub.
+Orangensaft|der|die|portakal suyu|Ich trinke gerne frisch gepressten Orangensaft zum Frühstück.
+Osten|der|-|doğu|Die Sonne geht im Osten auf.
+Park|der|die|park|Wir machen einen Spaziergang im Park.
+Picknick|das|-|piknik|Wir machen ein Picknick im Park.
+Picknickwetter|das|die|piknik hava koşulları|Das Picknickwetter ist heute perfekt.
+Pommes|die|die|patates kızartması|Ich esse gerne Pommes zu meinem Burger.
+Problem|das|die|sorun|Wir müssen eine Lösung für das Problem finden.
+Prognose|die|-|tahmin|Die Prognose für das Wetter ist schlecht.
+Quatsch|der|-|saçmalık|Das ist doch Quatsch!
+Reise|die|-|seyahat|Wir planen eine Reise nach Italien.
+Reiseführer|der|die|rehber|Der Reiseführer gibt viele nützliche Informationen.
+Reiseziel|das|die|seyahat hedefi|Unser Reiseziel ist eine Insel im Mittelmeer.
+Regen|der|die|yağmur|Heute regnet es den ganzen Tag.
+Rucksack|der|die|sırt çantası|Ich packe meine Sachen in den Rucksack.
+Salat|der|die|salata|Zum Abendessen gibt es einen gemischten Salat.
+Samstagmorgen|der|-|cumartesi sabahı|Am Samstagmorgen gehe ich gerne joggen.
+Samstagnachmittag|der|-|cumartesi öğleden sonrası|Am Samstagnachmittag gehen wir ins Kino.
+Sonntagabend|der|-|pazar akşamı|Am Sonntagabend entspannen wir uns zu Hause.
+Sonntagnachmittag|der|-|pazar öğleden sonrası|Am Sonntagnachmittag treffen wir uns mit Freunden.
+Schinkenbrot|das|die|jambonlu ekmek|Ich esse ein Schinkenbrot zum Mittagessen.
+Schlosspark|der|die|şato parkı|Der Schlosspark ist ein beliebtes Ausflugsziel.
+Schluss|der|die|son|Zum Schluss möchte ich noch etwas sagen.
+Schlüssel|der|die|anahtar|Ich suche meinen Schlüssel.
+Schuh|der|die|ayakkabı|Meine neuen Schuhe sind bequem.
+Ski|der|die|kayak|Ich fahre gerne Ski im Winter.
+Skianzug|der|die|kayak takımı|Ich trage meinen Skianzug im Schnee.
+Sommer|der|-|yaz|Im Sommer gehen wir oft ins Freibad.
+Sonne|die|-|güneş|Die Sonne scheint am Himmel.
+Sonnenschein|der|die|güneş ışığı|Der Sonnenschein macht gute Laune.
+Speise|die|-|yiyecek|Die Speise des Tages ist gebratener Fisch.
+Speisekarte|die|-|menü|Auf der Speisekarte stehen viele leckere Gerichte.
+Sport|der|-|spor|Ich treibe gerne Sport in meiner Freizeit.
+Sportgeschäft|das|die|spor mağazası|Ich kaufe meine Sportschuhe im Sportgeschäft.
+Sporttasche|die|-|spor çantası|Ich packe meine Sporttasche für das Fitnessstudio.
+Sprache|die|-|dil|Deutsch ist meine Muttersprache.
+Suppe|die|-|çorba|Zum Mittagessen gibt es eine leckere Gemüsesuppe.
+Statistik|die|-|istatistik|Die Statistik zeigt einen positiven Trend.
+Stau|der|die|trafik sıkışıklığı|Im Stau stehen ist nervig.
+Stress|der|-|stres|Der Stress im Büro ist manchmal zu viel.
+Stunde|die|-|saat|Eine Stunde hat 60 Minuten.
+Süden|der|-|güney|Im Süden ist es oft warm.
+Tankstelle|die|-|benzin istasyonu|Wir tanken unser Auto an der Tankstelle.
+Tasche|die|-|çanta|Meine Tasche ist voll mit Büchern.
+Tee|der|die|çay|Ich trinke gerne eine Tasse Tee am Abend.
+Temperatur|die|-|sıcaklık|Die Temperatur steigt langsam an.
+Tennis|das|die|tenis|Ich spiele gerne Tennis am Wochenende.
+Trekkingschuh|der|die|trekking ayakkabısı|Für die Wanderung brauche ich gute Trekkingschuhe.
+Urlaub|der|-|tatil|Ich freue mich schon auf meinen Urlaub.
+Wasser|das|die|su|Wasser ist lebenswichtig für uns.
+Welt|die|-|dünya|Die Welt ist voller Überraschungen.
+Wert|der|die|değer|Dieses Gemälde hat einen hohen Wert.
+Wetter|das|-|hava durumu|Das Wetter heute ist sonnig und warm.
+Wind|der|die|rüzgar|Der Wind weht stark heute.
+Winter|der|-|kış|Im Winter fällt oft Schnee.
+Wochenende|das|-|hafta sonu|Am Wochenende habe ich frei.
+Wochenendkurve|die|-|hafta sonu grafiği|Die Wochenendkurve zeigt einen Anstieg.
+Würstchen|das|die|sosis|Wir grillen Würstchen im Garten.

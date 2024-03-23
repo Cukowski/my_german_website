@@ -1,0 +1,50 @@
+Accessoire|das|die|aksesuar|Das Accessoire passt gut zum Outfit.
+Adresse|die|die|adres|Bitte gib mir deine Adresse.
+Anzeige|die|die|ilan|Ich habe eine Anzeige im Internet gesehen.
+Arbeitszimmer|das|die|çalışma odası|Mein Arbeitszimmer ist gut eingerichtet.
+Atmosphäre|die|die|atmosfer|Die Atmosphäre war angenehm.
+Bad|das|die|banyo|Das Bad ist sehr geräumig.
+Badewanne|die|die|küvet|Ich nehme gerne ein Bad in der Badewanne.
+Balkon|der|die|balkon|Wir haben einen Balkon mit schöner Aussicht.
+Besuch|der|die|ziyaret|Wir erwarten Besuch am Wochenende.
+Bett|das|die|yatak|Das Bett ist sehr bequem.
+Bild|das|die|resim|Das Bild hängt an der Wand.
+Couch|die|die|kanepe|Die Couch ist sehr gemütlich.
+Dusche|die|die|duş|Ich dusche gerne am Morgen.
+Fahrrad|das|die|bisiklet|Ich fahre gerne mit dem Fahrrad.
+Fernseher|der|die|televizyon|Der Fernseher ist groß.
+Flur|der|die|koridor|Der Flur ist lang.
+Farbe|die|die|renk|Welche Farbe magst du?
+Gerät|das|die|cihaz|Das Gerät funktioniert nicht mehr.
+Garten|der|die|bahçe|Unser Garten ist schön grün.
+Geschichte|die|die|hikaye|Die Geschichte ist interessant.
+Haus|das|die|ev|Unser Haus hat einen großen Garten.
+Herd|der|die|ocak|Der Herd ist kaputt.
+Küche|die|die|mutfak|Die Küche ist modern eingerichtet.
+Kühlschrank|der|die|buzdolabı|Der Kühlschrank ist voll.
+Lage|die|die|konum|Die Lage des Hotels ist zentral.
+Lampe|die|die|lamba|Die Lampe spendet warmes Licht.
+Luxus|der|-|lüks|Der Luxus ist teuer.
+Material|das|die|malzeme|Das Material ist sehr stabil.
+Monat|der|die|ay|Der Monat hat 30 Tage.
+Möbel|das|die|mobilya|Die Möbel passen gut zusammen.
+Möbelstück|das|die|mobilya parçası|Das Möbelstück ist antik.
+Natur|die|die|doğa|Ich liebe die Natur.
+Naturmaterial|das|die|doğal malzeme|Das Naturmaterial ist umweltfreundlich.
+Regal|das|die|raf|Das Regal ist voll mit Büchern.
+Tisch|der|die|masa|Der Tisch ist aus Holz.
+Terrasse|die|die|teras|Wir haben eine Terrasse hinter dem Haus.
+Schlafzimmer|das|die|yatak odası|Unser Schlafzimmer ist gemütlich.
+Schrank|der|die|dolap|Der Schrank ist groß.
+Sofa|das|die|kanepe|Das Sofa ist bequem.
+Station|die|die|istasyon|Wir warten an der Station.
+Stock|der|die|kat|Unsere Wohnung ist im dritten Stock.
+Stuhl|der|die|sandalye|Der Stuhl ist stabil.
+Stück|das|die|parça|Ein Stück Kuchen, bitte.
+Toilette|die|die|tuvalet|Die Toilette ist neben dem Badezimmer.
+Waschmaschine|die|die|çamaşır makinesi|Die Waschmaschine ist kaputt.
+Waschbecken|das|die|lavabo|Das Waschbecken ist verstopft.
+Wohngemeinschaft|die|die|ev arkadaşlığı|Wir leben in einer Wohngemeinschaft.
+Wohnung|die|die|daire|Unsere Wohnung ist sehr groß.
+Wohnzimmer|das|die|oturma odası|Das Wohnzimmer ist gemütlich.
+Zimmer|das|die|oda|Wir haben ein freies Zimmer.

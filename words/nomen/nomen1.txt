@@ -1,0 +1,69 @@
+Abend|der|die|akşam|Es ist cool heute Abend
+Abschied|der|die|veda|Ich sage dir Auf Wiedersehen
+Adresse|die|die|adres|Bitte schreibe mir deine Adresse
+Allee|die|die|cadde|Wir spazieren gerne in der Allee
+Anmeldung|die|die|kayıt|Die Anmeldung ist online möglich
+Ärztehaus|das|die|sağlık evi|Das Ärztehaus ist sehr modern
+Aussage|die|die|ifade|Seine Aussage war unglaubwürdig
+Bild|das|die|resim|Das Bild hängt an der Wand
+Beispiel|das|die|örnek|Hier ist ein Beispiel für dich
+Begrüßung|die|die|selamlaşma|Die Begrüßung war herzlich
+Buchstabe|der|die|harf|Das Wort hat viele Buchstaben
+Clown|der|die|palyaço|Der Clown macht die Kinder lachen
+Dame|die|die|hanım|Die Dame trug einen Hut
+Doktor|der|die|doktor|Der Doktor kommt gleich
+E-Mail|die|die|e-posta|Ich schicke dir eine E-Mail
+Entschuldigung|die|die|özür|Sie bat um Entschuldigung
+Familienname|der|die|soyad|Was ist dein Familienname?
+Fax|das|die|faks|Bitte senden Sie es per Fax
+Firma|die|die|firma|Die Firma ist international
+Folge|die|die|bölüm|Die nächste Folge beginnt gleich
+Formular|das|die|form|Bitte füllen Sie das Formular aus
+Foto|das|die|fotoğraf|Ich mache ein Foto von dir
+Frage|die|die|soru|Hast du eine Frage?
+Frau|die|die|bayan|Die Frau arbeitet hart
+Fremdsprache|die|die|yabancı dil|Sie lernt eine Fremdsprache
+Gästeinformation|die|die|misafir bilgisi|Die Gästeinformation liegt bereit
+Geschäftsführer|der|die|işletme müdürü|Der Geschäftsführer ist abwesend
+Gespräch|das|die|konuşma|Das Gespräch war interessant
+Grammatik|die|die|dilbilgisi|Die Grammatik ist komplex
+Hausnummer|die|die|ev numarası|Die Hausnummer ist 23
+Herkunft|die|-|köken|Ihre Herkunft ist unbekannt
+Herr|der|die|bey|Der Herr wartet im Büro
+Hotel|das|die|otel|Wir übernachten im Hotel
+Kapitän|der|die|kaptan|Der Kapitän steuert das Schiff
+Kaufmann|der|die|tüccar|Der Kaufmann hat viel zu tun
+Kollege|der|die|meslektaş|Mein Kollege kommt später
+Kollegin|die|die|meslektaş|Meine Kollegin ist sehr nett
+Konjugation|die|die|çekim|Die Konjugation ist wichtig
+Kurs|der|die|kurs|Der Kurs beginnt um 9 Uhr
+Land|das|die|ülke|Mein Land ist schön
+Lektion|die|die|ders|Die Lektion war interessant
+Leute|die|-|insanlar|Die Leute sind freundlich
+Lied|das|die|şarkı|Dieses Lied gefällt mir
+Magier|der|-|sihirbaz|Der Magier zeigt seine Tricks
+Mama|die|die|anne|Meine Mama kocht gerne
+Meer|das|die|deniz|Das Meer ist blau
+Morgen|der|-|sabah|Guten Morgen!
+Musik|die|-|müzik|Die Musik ist laut
+Nacht|die|die|gece|Gute Nacht!
+Name|der|die|isim|Wie ist dein Name?
+Platz|der|die|yer|Der Platz ist frei
+Position|die|die|pozisyon|Sie hat eine gute Position
+Postleitzahl|die|die|posta kodu|Was ist deine Postleitzahl?
+Praxis|die|die|pratisyen|Die Praxis ist gut ausgestattet
+Radio|das|die|radyo|Das Radio spielt Musik
+Schule|die|die|okul|Meine Schule ist groß
+Seite|die|die|sayfa|Bitte schlage die Seite um
+Spiel|das|die|oyun|Das Spiel macht Spaß
+Sprache|die|die|dil|Welche Sprache sprichst du?
+Stadt|die|die|şehir|Meine Stadt ist klein
+Straße|die|die|sokak|Die Straße ist belebt
+Strategie|die|die|strateji|Die Strategie war erfolgreich
+Tag|der|die|gün|Heute ist ein schöner Tag
+Telefon|das|die|telefon|Ich rufe dich später an
+Verb|das|die|fiil|Das Verb ist wichtig
+Visitenkarte|die|die|ziyaret kartı|Hier ist meine Visitenkarte
+Vorname|der|die|ad|Wie lautet dein Vorname?
+Wendung|die|die|dönüş|Eine unerwartete Wendung
+Wort|das|die|kelime|Dieses Wort ist schwer

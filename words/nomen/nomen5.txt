@@ -1,0 +1,105 @@
+Abend|der|-|akşam|Der Abend war sehr schön.
+Abendkurs|der|die|akşam kursu|Ich besuche einen Abendkurs.
+Abfahrt|die|-|kalkış|Die Abfahrt des Zuges ist um 10 Uhr.
+Ansage|die|die|anons|Die Ansage im Zug war unverständlich.
+Arbeit|die|-|iş|Meine Arbeit macht mir Spaß.
+Arzt|der|die|doktor|Der Arzt ist sehr freundlich.
+Arztpraxis|die|die|doktor muayenehanesi|Die Arztpraxis ist heute geschlossen.
+Bahnhof|der|die|tren istasyonu|Wir treffen uns am Bahnhof.
+Ball|der|die|top|Wir spielen einen Ball.
+Beispiel|das|die|örnek|Ein gutes Beispiel ist oft hilfreich.
+Besucher|der|-|ziyaretçi|Die Besucher kommen um 15 Uhr.
+Bett|das|die|yatak|Ich lege mich ins Bett.
+Brücke|die|-|köprü|Die Brücke führt über den Fluss.
+Computer|der|-|bilgisayar|Mein Computer funktioniert nicht mehr.
+Computerspiel|das|die|bilgisayar oyunu|Wir spielen ein Computerspiel.
+Deutschkurs|der|die|Almanca kursu|Ich besuche einen Deutschkurs.
+Dienstag|der|-|salı|Heute ist Dienstag.
+Donnerstag|der|-|perşembe|Morgen ist Donnerstag.
+Einlass|der|die|giriş|Der Einlass ist ab 18 Uhr.
+Englischkurs|der|die|İngilizce kursu|Ich besuche einen Englischkurs.
+Essen|das|-|yemek|Das Essen schmeckt köstlich.
+Fahrrad|das|die|bisiklet|Ich fahre gerne Fahrrad.
+Fahrradverleih|der|-|bisiklet kiralama|Wir besuchen den Fahrradverleih.
+Fernseher|der|die|televizyon|Der Fernseher ist kaputt.
+Film|der|die|film|Wir schauen einen Film.
+Fisch|der|die|balık|Ich esse gerne Fisch.
+Fischwoche|die|-|balık haftası|Wir haben eine Fischwoche.
+Fitness|die|-|fitness|Ich gehe regelmäßig ins Fitnessstudio.
+Fitness-Studio|das|die|fitness salonu|Das Fitness-Studio hat täglich geöffnet.
+Foto|das|die|fotoğraf|Ich mache ein Foto.
+Freitag|der|-|cuma|Morgen ist Freitag.
+Freund|der|die|arkadaş|Mein Freund kommt zu Besuch.
+Frühstück|das|die|kahvaltı|Das Frühstück ist die wichtigste Mahlzeit des Tages.
+Fußball|der|die|futbol|Wir spielen Fußball im Park.
+Fußballspiel|das|die|futbol maçı|Wir schauen ein Fußballspiel.
+Garten|der|die|bahçe|Wir treffen uns im Garten.
+Gartenparty|die|-|bahçe partisi|Wir veranstalten eine Gartenparty.
+Gebäude|das|die|bina|Das Gebäude ist sehr hoch.
+Geburtstag|der|die|doğum günü|Mein Geburtstag ist nächste Woche.
+Generalkonsulat|das|die|başkonsolosluk|Das Generalkonsulat hat heute geschlossen.
+Geschäftszeit|die|die|iş saatleri|Die Geschäftszeit ist von 9 bis 17 Uhr.
+Glas|das|die|bardak|Ich trinke Wasser aus einem Glas.
+Glaskuppel|die|-|cam kubbe|Die Glaskuppel des Gebäudes ist beeindruckend.
+Hauptsatz|der|die|ana cümle|Der Hauptsatz steht vor dem Nebensatz.
+Haus|das|die|ev|Unser Haus hat einen großen Garten.
+Hausaufgabe|die|-|ev ödevi|Ich habe noch Hausaufgaben zu erledigen.
+Himmel|der|die|gökyüzü|Der Himmel ist heute blau.
+Intensivkurs|der|die|yoğun kurs|Ich besuche einen Intensivkurs.
+Juni|der|-|haziran|Wir haben Juni.
+Juli|der|-|temmuz|Wir haben Juli.
+Kaufhaus|das|die|alışveriş merkezi|Das Kaufhaus hat viele Geschäfte.
+Kino|das|die|sinema|Wir gehen ins Kino.
+Kuppel|die|-|kubbe|Die Kuppel des Gebäudes ist beeindruckend.
+Mai|der|-|mayıs|Wir haben Mai.
+März|der|-|mart|Wir haben März.
+Mittag|der|-|öğle|Es ist Zeit für das Mittagessen.
+Mittagessen|das|-|öğle yemeği|Das Mittag
+Mittagessen|das|-|öğle yemeği|Das Mittagessen steht bereits auf dem Tisch.
+Mittwoch|der|-|çarşamba|Am Mittwoch habe ich einen wichtigen Termin.
+Montag|der|-|pazartesi|Am Montag beginnt die neue Arbeitswoche.
+Museum|das|die|Museum|muse das|Im Museum gibt es viele interessante Kunstwerke zu sehen.
+Musik|die|-|müzik|Ich höre gerne Musik beim Arbeiten.
+Nachmittag|der|-|öğleden sonrası|Am Nachmittag gehe ich gerne spazieren.
+Nachrichten|die|die|haber|Ich schaue jeden Abend die Nachrichten.
+Oktober|der|-|ekim|Im Oktober ist das Wetter oft kühl.
+Öffnungszeit|die|-|açılış saatleri|Die Öffnungszeiten des Supermarkts sind von 8 bis 20 Uhr.
+Partner|der|-|ortak|Mein Partner und ich gehen gerne zusammen ins Kino.
+Party|die|-|parti|Wir feiern heute Abend eine Party.
+Pizza|die|die|pizza|Ich bestelle mir oft eine Pizza zum Abendessen.
+Plan|der|die|plan|Wir haben einen genauen Plan für unseren Ausflug.
+Präposition|die|-|edat|Die Verwendung der richtigen Präposition ist wichtig.
+Praxis|die|die|pratik|In der Praxis des Arztes herrscht reger Betrieb.
+Reichstagsgebäude|das|-|Reichstag binası|Das Reichstagsgebäude ist ein bekanntes Wahrzeichen von Berlin.
+Reichstagskuppel|die|-|Reichstag kubbesi|Die Reichstagskuppel bietet einen tollen Ausblick über die Stadt.
+Restaurant|das|-|restoran|Wir gehen heute Abend in ein indisches Restaurant.
+Satz|der|die|cümle|Der Satz besteht aus Subjekt, Prädikat und Objekt.
+Säuberungsarbeit|die|-|temizlik işi|Die Säuberungsarbeiten im Haus sind erledigt.
+Schiff|das|-|gemi|Wir machen eine Schifffahrt auf dem Fluss.
+Schild|das|die|levha|Das Schild zeigt den Weg zum Bahnhof.
+Samstag|der|-|cumartesi|Am Samstag gehe ich gerne einkaufen.
+Selbstbedienungsrestaurant|das|die|self-servis restoranı|Wir essen heute Abend in einem Selbstbedienungsrestaurant.
+Sonntag|der|-|pazar|Am Sonntag machen wir einen Ausflug ins Grüne.
+Spiel|das|die|oyun|Wir spielen abends gerne Brettspiele.
+Sprechstunde|die|-|muayene saatleri|Die Sprechstunde des Arztes beginnt um 9 Uhr.
+Stadt|die|die|şehir|Berlin ist eine lebendige Stadt.
+Stadtrundfahrt|die|-|şehir turu|Wir machen eine Stadtrundfahrt mit dem Bus.
+Stadtzentrum|das|die|şehir merkezi|Das Stadtzentrum ist voller Geschäfte und Restaurants.
+Stock|der|die|kat|Die Wohnung befindet sich im dritten Stock.
+Supermarkt|der|die|süpermarket|Wir kaufen unsere Lebensmittel im Supermarkt.
+Tag|der|-|gün|Der Tag hat 24 Stunden.
+Tageszeit|die|-|gündüz zamanı|Die Tageszeit beeinflusst unsere Stimmung.
+Termin|der|-|randevu|Ich habe morgen einen wichtigen Termin beim Arzt.
+Terminkalender|der|-|randevu takvimi|Ich trage alle Termine in meinen Terminkalender ein.
+Tour|die|-|tur|Wir machen eine Stadtführung mit dem Fahrrad.
+Touristeninformation|die|-|turist bilgi|Die Touristeninformation befindet sich am Hauptbahnhof.
+Uhr|die|-|saat|Die Uhr zeigt 12 Uhr mittags.
+Uhrzeit|die|-|saat|Können Sie mir sagen, wie spät es ist? Was ist die Uhrzeit?
+Verabredung|die|-|buluşma|Meine Verabredung kommt gleich.
+Vorliebe|die|-|tercih|Meine Vorliebe ist es, am Wochenende zu wandern.
+Vormittag|der|-|sabah saatleri|Am Vormittag erledige ich meistens meine Arbeit.
+Westen|der|-|batı|Berlin liegt im Westen von Deutschland.
+Woche|die|-|hafta|Die Woche hat sieben Tage.
+Wohnung|die|-|daire|Meine Wohnung ist klein, aber gemütlich.
+Zeit|die|-|zaman|Die Zeit vergeht wie im Flug.
+Zimmer|das|die|oda|Mein Zimmer ist mein Lieblingsplatz in der Wohnung.

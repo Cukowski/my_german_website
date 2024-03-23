@@ -1,0 +1,56 @@
+Alter|das|-|yaş|Das Alter spielt keine Rolle.
+Angabe|die|die|bilgi|Bitte mach eine genaue Angabe.
+Artikel|der|-|makale|Der Artikel war sehr interessant.
+Baby|das|-|bebek|Das Baby schläft schon.
+Befinden|das|-|durum|Wie ist dein Befinden?
+Bruder|der|die|erkek kardeş|Mein Bruder ist älter als ich.
+Eltern|die|-|ebeveynler|Meine Eltern sind stolz auf mich.
+Familie|die|-|aile|Unsere Familie feiert heute.
+Frage|die|die|soru|Hast du eine Frage?
+Freund|der|die|arkadaş|Mein Freund kommt zu Besuch.
+Freundin|die|die|arkadaş|Meine Freundin hat Geburtstag.
+Geburtsort|der|die|doğum yeri|Mein Geburtsort ist Berlin.
+Geschwister|die|-|kardeşler|Ich habe zwei Geschwister.
+Großeltern|die|-|büyükanne ve büyükbaba|Meine Großeltern wohnen auf dem Land.
+Großmutter|die|die|büyükanne|Meine Großmutter backt die besten Kuchen.
+Großvater|der|die|büyükbaba|Mein Großvater erzählt gerne Geschichten.
+Gruppe|die|-|grup|Wir arbeiten in einer Gruppe.
+Gruß|der|die|selam|Viele Grüße an deine Familie!
+Hauptstadt|die|die|başkent|Berlin ist die Hauptstadt von Deutschland.
+Heimatland|das|die|ana vatan|Mein Heimatland ist die Türkei.
+Jahr|das|-|yıl|Dieses Jahr war sehr ereignisreich.
+Karte|die|die|kart|Ich zeige dir auf der Karte.
+Kärtchen|das|-|küçük kart|Hier ist ein kleines Kärtchen.
+Kettenspiel|das|-|zincir oyunu|Wir spielen ein Kettenspiel.
+Kind|das|die|çocuk|Das Kind spielt im Garten.
+Land|das|die|ülke|Deutschland ist ein schönes Land.
+Landkarte|die|die|harita|Wir haben eine Landkarte von Europa.
+Lösungswort|das|die|çözüm kelimesi|Das Lösungswort lautet "Sonnenblume".
+Mann|der|die|adam|Der Mann liest Zeitung.
+Moment|der|die|an|Warte einen Moment.
+Mutter|die|die|anne|Meine Mutter kocht gerne.
+Neffe|der|die|yeğen|Mein Neffe spielt Fußball.
+Nichte|die|die|yeğen|Meine Nichte malt gerne.
+Oma|die|-|büyükanne|Meine Oma strickt gerne.
+Onkel|der|-|amca|Mein Onkel kommt aus Frankreich.
+Opa|der|die|büyükbaba|Mein Opa erzählt Kriegsgeschichten.
+Ort|der|die|yer|Wir treffen uns am vereinbarten Ort
+Partner|der|-|partner|Mein Partner ist sehr zuverlässig.
+Partnerin|die|die|partner|Meine Partnerin studiert Medizin.
+Party|die|-|parti|Die Party war sehr lustig.
+Person|die|-|kişi|Diese Person kenne ich nicht.
+Plural|der|die|çoğul|Das Wort hat einen unregelmäßigen Plural.
+Rätsel|das|-|bulmaca|Das Rätsel war schwierig.
+Satz|der|die|cümle|Der Satz ist grammatikalisch korrekt.
+Schwester|die|-|kız kardeş|Meine Schwester ist jünger als ich.
+Singular|der|die|tekil|Der Singular von "Kinder" ist "Kind".
+Sohn|der|die|oğul|Mein Sohn spielt im Garten.
+Tante|die|-|teyze|Meine Tante backt die besten Kuchen.
+Telefonnummer|die|die|telefon numarası|Kannst du mir deine Telefonnummer geben?
+Text|der|-|metin|Der Text ist gut geschrieben.
+Tochter|die|die|kız|Meine Tochter geht noch zur Schule.
+Variante|die|die|çeşit|Wir haben verschiedene Varianten.
+Vater|der|die|baba|Mein Vater ist Arzt.
+Wohnort|der|die|yerleşim yeri|Mein Wohnort ist in der Stadt.
+Zahl|die|-|sayı|Die Zahl der Besucher war hoch.
+Zeitung|die|die|gazete|Ich lese gerne die Zeitung.

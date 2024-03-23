@@ -104,6 +104,29 @@ nav ul li button:hover, .nav-button:hover, .submit-button button:hover, .button-
     margin-top: 10px;
 }
 
+/* Additional styles for small icons */
+.s-icon-container {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.s-icon {
+    width: 200px;
+    height: auto;
+    display: inline-block;
+    margin: 0 10px; /* Adjust spacing between images */
+    margin-bottom: 20px;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+    margin-bottom: 20px;
+}
+
+.s-icon img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 30px;
+}
+
 .container {
     display: flex;
     flex-direction: column;

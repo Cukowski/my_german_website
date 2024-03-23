@@ -1,0 +1,77 @@
+Apfel|der|die|elma|Der Apfel ist rot.
+Banane|die|-|muz|Die Banane ist gelb.
+Becher|der|-|bardak|Wir brauchen einen Becher.
+Bier|das|-|bira|Ich trinke gerne ein Bier.
+Birne|die|-|armut|Die Birne ist saftig.
+Brot|das|-|ekmek|Ich kaufe immer frisches Brot.
+Brötchen|das|-|sandviç ekmeği|Ein Brötchen bitte.
+Buchstabe|der|die|harf|Der Buchstabe "A" kommt oft vor.
+Butter|die|die|tereyağı|Ich streiche Butter auf mein Brot.
+Cola|die|-|kola|Eine Cola, bitte.
+Dose|die|-|kutu|Wir brauchen eine Dose.
+Ei|das|die|yumurta|Ich koche mir ein Ei.
+Einkauf|der|die|alışveriş|Ich mache einen Einkauf.
+Euro|der|die|euro|Das kostet zehn Euro.
+Fisch|der|die|balık|Ich esse gerne Fisch.
+Flasche|die|-|şişe|Eine Flasche Wasser, bitte.
+Fleisch|das|die|et|Ich kaufe frisches Fleisch.
+Foto|das|die|fotoğraf|Ich mache ein Foto.
+Frau|die|die|kadın|Die Frau ist nett.
+Freund|der|die|arkadaş|Mein Freund kommt zu Besuch.
+Freundin|die|die|arkadaş|Meine Freundin hat Geburtstag.
+Gemüse|das|die|sebze|Ich esse gerne Gemüse.
+Großmutter|die|die|büyükanne|Meine Großmutter kocht lecker.
+Hähnchen|das|-|tavuk|Ich esse gerne Hähnchen.
+Hotel|das|die|otel|Wir übernachten im Hotel.
+Information|die|-|bilgi|Ich brauche eine Information.
+Joghurt|der|die|yoğurt|Ich esse gerne Joghurt.
+Käse|der|-|peynir|Ich mag Käse.
+Kaffee|der|die|kahve|Eine Tasse Kaffee, bitte.
+Kartoffel|die|-|patates|Wir essen Kartoffeln zum Abendessen.
+Kartoffelsalat|der|die|patates salatası|Ich mache einen Kartoffelsalat.
+Kiwi|die|-|kivi|Ich esse gerne Kiwi.
+Kuchen|der|-|pasta|Ein Stück Kuchen, bitte.
+Land|das|die|ülke|Deutschland ist ein großes Land.
+Mann|der|die|adam|Der Mann liest Zeitung.
+Markt|der|die|pazar|Wir gehen auf den Markt.
+Milch|die|-|süt|Wir trinken frische Milch.
+Mineralwasser|das|die|mineral su|Ich trinke gerne Mineralwasser.
+Name|der|die|isim|Wie ist dein Name?
+Obst|das|die|meyve|Ich esse gerne Obst.
+Orange|die|-|portakal|Eine Orange, bitte.
+Öl|das|-|yağ|Wir brauchen Öl zum Kochen.
+Packung|die|-|paket|Eine Packung Kekse, bitte.
+Person|die|-|kişi|Ich kenne diese Person nicht.
+Pizza|die|-|pizza|Wir bestellen eine Pizza.
+Pommes|die|-|patates kızartması|Eine Portion Pommes, bitte.
+Produkt|das|-|ürün|Das Produkt ist sehr beliebt.
+Prospekt|der|die|broşür|Ich habe einen Prospekt erhalten.
+Reis|der|-|pirinç|Wir kochen Reis zum Abendessen.
+Restaurant|das|die|restoran|Wir gehen ins Restaurant.
+Saft|der|die|meyve suyu|Ich trinke gerne Saft.
+Sahne|die|-|krema|Ich mag Sahne im Kaffee.
+Salz|das|-|tuz|Wir brauchen Salz zum Kochen.
+Schüssel|die|-|kase|Wir brauchen eine Schüssel.
+Senf|der|die|hardal|Ich mag Senf auf meinem Hotdog.
+Sonderangebot|das|die|özel teklif|Das ist ein Sonderangebot.
+Spaghetti|die|-|spagetti|Wir essen Spaghetti zum Abendessen.
+Stadt|die|die|şehir|Berlin ist eine große Stadt.
+Steak|das|-|biftek|Ich esse gerne Steak.
+Supermarkt|der|die|süpermarket|Wir gehen in den Supermarkt.
+Suppe|die|-|çorba|Eine Schüssel Suppe, bitte.
+Tee|der|die|çay|Eine Tasse Tee, bitte.
+Tomate|die|-|domates|Wir essen gerne Tomaten.
+Tomatensoße|die|-|domates sosu|Wir brauchen Tomatensoße zum Nudeln.
+Traube|die|-|üzüm|Ich esse gerne Trauben.
+Vegetarier|der|-|vejetaryen|Mein Freund ist Vegetarier.
+Wein|der|-|şarap|Wir trinken gerne Wein.
+Wörterbuch|das|die|sözlük|Ich brauche ein Wörterbuch.
+Wurst|die|-|sosis|Eine Wurstsemmel, bitte.
+Zahl|die|-|sayı|Die Zahl der Besucher war hoch.
+Zutat|die|-|malzeme|Wir brauchen noch eine Zutat.
+Punkt|der|-|nokta|Setz einen Punkt.
+Komma|das|die|virgül|Setz ein Komma.
+Semikolon|das|die|noktalı virgül|Setz ein Semikolon.
+Fragezeichen|das|-|soru işareti|Setz ein Fragezeichen.
+Ausrufezeichen|das|-|ünlem işareti|Setz ein Ausrufezeichen.
+Doppelpunkt|der|-|iki nokta|Setz einen Doppelpunkt.
