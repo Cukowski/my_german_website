@@ -12,6 +12,10 @@ header {
     text-align: center;
 }
 
+header h1 {
+    margin: 0;
+}
+
 nav {
     background-color: #f4f4f4;
     padding: 10px;
@@ -20,10 +24,12 @@ nav {
 nav ul {
     list-style-type: none;
     padding: 0;
+    margin: 0;
+    text-align: center;
 }
 
 nav ul li {
-    margin-bottom: 10px;
+    margin-bottom: 20px;
 }
 
 nav ul li a {
@@ -159,7 +165,6 @@ footer {
     margin-top: 5px;
 }
 
-/* Style for each search result item */
 .searchResult {
     padding: 8px;
     margin-bottom: 5px;
@@ -167,13 +172,56 @@ footer {
     transition: background-color 0.3s ease;
 }
 
-/* Add hover effect */
 .searchResult:hover {
     background-color: #f0f0f0;
 }
 
 .search-results {
-    display: contents; /* Initially hide the search results */
-    margin-top: 10px; /* Add some spacing */
+    display: contents; 
+    margin-top: 10px;
 }
 
+/* Question styles */
+.question-d {
+    margin-bottom: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #333;
+}
+
+
+/* Options styles */
+.options-d input[type="radio"] {
+    display: none;
+}
+
+.options-d label {
+    display: block;
+    margin-bottom: 10px;
+    cursor: pointer;
+    padding: 10px 20px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+}
+
+.options-d label:hover {
+    background-color: #e0e0e0;
+}
+
+.options-d input[type="radio"]:checked + label {
+    background-color: #333;
+    color: #fff;
+}
+
+/* Submit button styles */
+.submit-button button {
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+.submit-button button:hover {
+    background-color: #555;
+}
