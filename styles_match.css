@@ -164,6 +164,17 @@ nav ul li a:hover {
     text-align: center;
 }
 
+#next-button,
+#prev-button {
+    padding: 8px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #007bff; /* Blue */
+    color: #EEEEEE;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
 footer {
     background-color: #31363F;
     color: #fff;

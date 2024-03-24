@@ -23,6 +23,20 @@
         <div id="page-info"></div>
         <div id="game"></div>
     </div>
+    <div id="container">
+        <button id="prev-button" onclick="goToPreviousPage()" class="nav-button">Previous</button>
+        <button id="next-button" onclick="goToNextPage()" class="nav-button">Next</button>
+    </div>
+
+    <script>
+        function goToPreviousPage() {
+            window.location.href = "wichtige-verben-quiz-p1.html";
+        }
+
+        function goToNextPage() {
+            window.location.href = "wichtige-verben-quiz-p3.html";
+        }
+    </script>
     <script src="../../js_files/script_match.js"></script>
     <script>
         loadWordList('../../questions/wichtige-verben-quiz-p2.txt'); // Change the filename as needed
