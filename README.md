@@ -2,6 +2,16 @@
  
 Possible improvements:
 
+Maybe: 
+https://www.geeksforgeeks.org/word-guessing-game-using-html-css-and-javascript/
+
+Maybe: 
+https://github.com/AsaadNA/Word-Search
+https://www.facebook.com/beakretschmar/photos/a.272808236071935/2541932075826195/?type=3
+
+Hangman, Quiz Game with Timer, Word Scramble Game, Word Guessing Game, Rock Paper Scissors Game:
+https://www.codingnepalweb.com/best-javascript-games-for-beginners/
+
 Language Level Selection: Allow users to select their language level (e.g., A1, A2, B1, B2) to customize their learning experience.
 
 Interactive Vocabulary: Include interactive vocabulary lists or flashcards for different topics and levels.

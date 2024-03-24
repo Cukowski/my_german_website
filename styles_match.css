@@ -15,10 +15,20 @@ body {
     background-color: #9290C3;
     border-color: #EEEEEE;
     border-radius: 5px;
-    font-size: 30px;
+    font-size: 25px;
     cursor: pointer;
     padding: 10px;
     color: #3a4374;
+}
+
+.div {
+    padding: 8px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #007bff; /* Blue */
+    color: #EEEEEE;
+    cursor: pointer;
+    transition: background-color 0.3s;
 }
 
 header, .site-header {
