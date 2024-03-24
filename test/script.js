@@ -96,22 +96,25 @@ prevPageBtn.addEventListener("click", () => {
     }
 });
 
-fetch("wichtige-verben-quiz.txt")
-    .then(response => response.text())
-    .then(data => {
-        const lines = data.split("\n");
-        words = lines.map(line => {
-            const [german, turkish] = line.split("|").map(w => w.trim());
-            return { german, turkish };
-        });
-        shuffle(words);
-        totalPage = Math.ceil(words.length / 9);
-        updatePageNumber();
+function loadWordList(wordListFilename) {
+    fetch(wordListFilename)
+        .then(response => response.text())
+        .then(data => {
+            const lines = data.split("\n");
+            words = lines.map(line => {
+                const [german, turkish] = line.split("|").map(w => w.trim());
+                return { german, turkish };
+            });
+            shuffle(words);
+            totalPage = Math.ceil(words.length / 9);
+            updatePageNumber();
 
-        const germanWordsForPage = words.slice(0, 9).map(pair => pair.german);
-        const turkishWordsForPage = words.slice(0, 9).map(pair => pair.turkish);
-        createWordElements(germanWordsForPage, turkishWordsForPage);
-    })
-    .catch(error => {
-        console.error("Error fetching data:", error);
-    });
+            const germanWordsForPage = words.slice(0, 9).map(pair => pair.german);
+            const turkishWordsForPage = words.slice(0, 9).map(pair => pair.turkish);
+            createWordElements(germanWordsForPage, turkishWordsForPage);
+        })
+        .catch(error => {
+            console.error("Error fetching data:", error);
+        });
+}
+
