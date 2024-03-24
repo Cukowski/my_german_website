@@ -7,6 +7,20 @@ body {
     padding-bottom: 60px; 
 }
 
+/* CSS styles for burger menu */
+.burger-menu {
+    display: none;
+    background: none;
+    text-align: center;
+    background-color: #9290C3;
+    border-color: #EEEEEE;
+    border-radius: 5px;
+    font-size: 30px;
+    cursor: pointer;
+    padding: 10px;
+    color: #3a4374;
+}
+
 header, .site-header {
     background-color: #222831;
     color: #EEEEEE;
@@ -349,7 +363,17 @@ footer {
 }
 
 @media screen and (max-width: 768px) {
-    /* Adjust margin or padding of elements below the header */
+    .burger-menu {
+        display: block; /* Show the burger menu button on mobile */
+    }
+
+    #nav-links {
+        display: none; /* Hide the navigation links by default on mobile */
+    }
+
+    #nav-links.active {
+        display: block; /* Show the navigation links when active */
+    }
     footer {
         display: none;
     }
