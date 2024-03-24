@@ -8,15 +8,25 @@
 </head>
 <body>
     <header>
-        <h1>German-Turkish Matching Quiz</h1>
+        <h1>Wichtige Verben Quiz</h1>
     </header>
-    <div class="matches-container">
-        <div id="quiz">
-            <!-- Quiz content will be dynamically generated here -->
+    <nav>
+        <ul>
+            <li><a href="../index.html">Home</a></li>
+            <li><a href="quizzes.html">Quizzes</a></li>
+        </ul>
+    </nav>
+    <div id="container">
+        <div id="page-info"></div>
+        <div id="game"></div>
+        <div>
+            <button id="prevPageBtn">Previous Page</button>
+            <button id="nextPageBtn">Next Page</button>
         </div>
-        <button id="checkButton" onclick="checkAnswers()">Check Answers</button>
-        <button id="nextPageButton" onclick="goToNextPage()" style="display: none;">Go to Next Page</button>
     </div>
     <script src="../js_files/script_match.js"></script>
+    <script>
+        loadWordList('../questions/wichtige-verben-quiz.txt'); // Change the filename as needed
+    </script>
 </body>
 </html>

@@ -1,119 +1,120 @@
-document.addEventListener("DOMContentLoaded", function() {
-    // Your JavaScript code here
-    fetchData();
-});
+const gameContainer = document.getElementById("game");
+const nextPageBtn = document.getElementById("nextPageBtn");
+const prevPageBtn = document.getElementById("prevPageBtn");
+const pageNumberDisplay = document.getElementById("page-info");
 
-// Function to fetch and parse quiz data
-async function fetchData() {
-    try {
-        const response = await fetch('../questions/wichtige-verben-quiz.txt');
-        if (!response.ok) {
-            throw new Error('Error fetching data');
-        }
-        const data = await response.text();
-        const { germanWords, turkishTranslations } = parseQuizData(data);
-        displayMatches(germanWords, turkishTranslations);
-    } catch (error) {
-        console.error('Error fetching or parsing data:', error);
+let currentPage = 0;
+let totalPage = 0;
+let words = [];
+
+function shuffle(array) {
+    for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
     }
 }
 
-// Function to parse the quiz data
-function parseQuizData(data) {
-    const lines = data.split('\n');
-    const germanWords = [];
-    const turkishTranslations = [];
+function createWordElements(germanWords, turkishWords) {
+    gameContainer.innerHTML = "";
+    for (let i = 0; i < germanWords.length; i++) {
+        const wordPairContainer = document.createElement("div");
+        wordPairContainer.classList.add("word-pair-container");
 
-    lines.forEach((line) => {
-        const [germanWord, turkishTranslation] = line.split(':');
+        const randomOrder = Math.random() >= 0.5;
 
-        if (germanWord && turkishTranslation) { // Check if both values are defined
-            germanWords.push(germanWord.trim());
-            turkishTranslations.push(turkishTranslation.trim());
-        }
-    });
+        const germanWordElement = document.createElement("div");
+        germanWordElement.classList.add("word", "german-word");
+        germanWordElement.textContent = randomOrder ? germanWords[i] : turkishWords[i];
+        germanWordElement.setAttribute("data-index", i);
+        wordPairContainer.appendChild(germanWordElement);
 
-    return { germanWords, turkishTranslations };
-}
+        const turkishWordElement = document.createElement("div");
+        turkishWordElement.classList.add("word", "turkish-word");
+        turkishWordElement.textContent = randomOrder ? turkishWords[i] : germanWords[i];
+        turkishWordElement.setAttribute("data-index", i);
+        wordPairContainer.appendChild(turkishWordElement);
 
-// Function to display matches
-function displayMatches(germanWords, turkishTranslations) {
-    const matchesContainer = document.getElementById('matches-container');
-
-    if (matchesContainer) {
-        let html = '';
-        for (let i = 0; i < germanWords.length; i++) {
-            html += `
-                <div class="match">
-                    <div class="german-word">${germanWords[i]}</div>
-                    <div class="turkish-translation">${turkishTranslations[i]}</div>
-                </div>
-            `;
-        }
-        matchesContainer.innerHTML = html;
-    } else {
-        console.error('Matches container not found.');
+        gameContainer.appendChild(wordPairContainer);
     }
 }
 
-
-// Function to handle match click
-function handleMatchClick(event) {
-    const clickedMatchIndex = parseInt(event.currentTarget.dataset.index);
-
-    if (matchedPairs.includes(clickedMatchIndex)) {
-        return; // If already matched, do nothing
-    }
-
-    if (currentMatchIndex === null) {
-        currentMatchIndex = clickedMatchIndex;
-        event.currentTarget.classList.add('selected');
-    } else {
-        const currentMatch = matches[currentMatchIndex];
-        const clickedMatch = matches[clickedMatchIndex];
-
-        if (currentMatch.german === clickedMatch.german && currentMatch.turkish === clickedMatch.turkish) {
-            // Correct match
-            event.currentTarget.classList.add('matched');
-            matchedPairs.push(currentMatchIndex, clickedMatchIndex);
+function checkMatch() {
+    const selectedWords = document.querySelectorAll(".selected");
+    if (selectedWords.length === 2) {
+        const indexes = [...selectedWords].map(word => parseInt(word.getAttribute("data-index")));
+        const [index1, index2] = indexes;
+        if (words[index1].turkish === words[index2].turkish) {
+            selectedWords.forEach(word => {
+                word.classList.add("matched");
+                word.classList.remove("selected");
+            });
         } else {
-            // Incorrect match
-            event.currentTarget.classList.add('incorrect');
+            selectedWords.forEach(word => {
+                word.classList.add("mismatched");
+                word.classList.remove("selected");
+            });
             setTimeout(() => {
-                event.currentTarget.classList.remove('selected', 'incorrect');
-                const currentSelectedMatch = document.querySelector('.match.selected');
-                currentSelectedMatch.classList.remove('selected');
-                currentMatchIndex = null;
+                selectedWords.forEach(word => word.classList.remove("mismatched"));
             }, 1000);
         }
     }
+}
 
-    if (matchedPairs.length === matches.length) {
-        // All matches completed
-        goToNextPage();
+function updatePageNumber() {
+    pageNumberDisplay.textContent = `${currentPage + 1}/${totalPage}`;
+}
+
+gameContainer.addEventListener("click", (event) => {
+    const wordElement = event.target;
+    if (wordElement.classList.contains("word") && !wordElement.classList.contains("matched")) {
+        wordElement.classList.toggle("selected");
+        checkMatch();
     }
-}
+});
 
-// Function to go to the next page
-function goToNextPage() {
-    // Code to navigate to the next page
-    alert('All matches completed. Redirecting to the next page.');
-}
-
-// Main function
-async function main() {
-    try {
-        const { germanWords, turkishTranslations } = await fetchData();
-
-        for (let i = 0; i < germanWords.length; i++) {
-            matches.push({ german: germanWords[i], turkish: turkishTranslations[i] });
-        }
-
-        displayMatches();
-    } catch (error) {
-        console.error('Error fetching or parsing data:', error);
+nextPageBtn.addEventListener("click", () => {
+    if (currentPage < totalPage - 1) {
+        currentPage++;
+        updatePageNumber();
+        const startIndex = currentPage * 9;
+        const endIndex = startIndex + 9;
+        const germanWordsForPage = words.slice(startIndex, endIndex).map(pair => pair.german);
+        const turkishWordsForPage = words.slice(startIndex, endIndex).map(pair => pair.turkish);
+        createWordElements(germanWordsForPage, turkishWordsForPage);
     }
+});
+
+prevPageBtn.addEventListener("click", () => {
+    if (currentPage > 0) {
+        currentPage--;
+        updatePageNumber();
+        const startIndex = currentPage * 9;
+        const endIndex = startIndex + 9;
+        const germanWordsForPage = words.slice(startIndex, endIndex).map(pair => pair.german);
+        const turkishWordsForPage = words.slice(startIndex, endIndex).map(pair => pair.turkish);
+        createWordElements(germanWordsForPage, turkishWordsForPage);
+    }
+});
+
+function loadWordList(wordListFilename) {
+    fetch(wordListFilename)
+        .then(response => response.text())
+        .then(data => {
+            const lines = data.split("\n");
+            words = lines.map(line => {
+                const [german, turkish] = line.split("|").map(w => w.trim());
+                return { german, turkish };
+            });
+            shuffle(words);
+            totalPage = Math.ceil(words.length / 9);
+            updatePageNumber();
+
+            const germanWordsForPage = words.slice(0, 9).map(pair => pair.german);
+            const turkishWordsForPage = words.slice(0, 9).map(pair => pair.turkish);
+            createWordElements(germanWordsForPage, turkishWordsForPage);
+        })
+        .catch(error => {
+            console.error("Error fetching data:", error);
+        });
 }
 
-// Initialize the script
-main();

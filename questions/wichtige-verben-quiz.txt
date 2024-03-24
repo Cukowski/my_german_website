@@ -3,7 +3,7 @@ wohnen|oturmak
 leben|yaşamak
 haben|sahip olmak
 sein|olmak
-kommen|sahip olmak
+kommen|gelmek
 gehen|gitmek
 bleiben|kalmak
 machen|yapmak
@@ -52,6 +52,6 @@ bringen|getirmek
 öffnen|açmak
 aufmachen|açmak
 schließen|kapatmak
-zumachen: kapatmak
+zumachen|kapatmak
 anmachen|açmak (elektrikli)
 ausmachen|kapatmak (elektirkli)
