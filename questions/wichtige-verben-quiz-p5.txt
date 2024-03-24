@@ -7,3 +7,4 @@ geben|vermek
 kaufen|satın almak
 anmachen|açmak (elektrikli)
 öffnen|açmak
+malen|boya yapmak

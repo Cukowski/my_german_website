@@ -7,3 +7,4 @@ zeigen|göstermek
 leben|yaşamak
 legen|koymak
 rennen|koşmak
+reisen|seyahat etmek

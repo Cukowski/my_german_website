@@ -7,3 +7,4 @@ lernen|öğrenmek
 wohnen|oturmak
 duschen|duş almak
 bleiben|kalmak
+tanzen|dans etmek
