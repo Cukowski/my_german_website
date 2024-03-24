@@ -52,6 +52,6 @@ bringen|getirmek
 öffnen|açmak
 aufmachen|açmak
 schließen|kapatmak
-zumachen: kapatmak
+zumachen|kapatmak
 anmachen|açmak (elektrikli)
 ausmachen|kapatmak (elektirkli)

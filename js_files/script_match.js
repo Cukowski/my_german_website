@@ -1,7 +1,22 @@
-// Global variables
-let currentMatchIndex = 0;
-let matches = [];
-let matchedPairs = [];
+document.addEventListener("DOMContentLoaded", function() {
+    // Your JavaScript code here
+    fetchData();
+});
+
+// Function to fetch and parse quiz data
+async function fetchData() {
+    try {
+        const response = await fetch('../questions/wichtige-verben-quiz.txt');
+        if (!response.ok) {
+            throw new Error('Error fetching data');
+        }
+        const data = await response.text();
+        const { germanWords, turkishTranslations } = parseQuizData(data);
+        displayMatches(germanWords, turkishTranslations);
+    } catch (error) {
+        console.error('Error fetching or parsing data:', error);
+    }
+}
 
 // Function to parse the quiz data
 function parseQuizData(data) {
@@ -21,34 +36,26 @@ function parseQuizData(data) {
     return { germanWords, turkishTranslations };
 }
 
-// Function to fetch data from text file
-async function fetchData() {
-    const response = await fetch('../questions/wichtige-verben-quiz.txt');
-    const data = await response.text();
-    return parseQuizData(data);
-}
-
 // Function to display matches
-function displayMatches() {
-    const matchContainer = document.getElementById('matchContainer');
-    matchContainer.innerHTML = '';
+function displayMatches(germanWords, turkishTranslations) {
+    const matchesContainer = document.getElementById('matches-container');
 
-    for (let i = 0; i < matches.length; i++) {
-        const matchDiv = document.createElement('div');
-        matchDiv.classList.add('match');
-        matchDiv.dataset.index = i;
-        matchDiv.innerHTML = `
-            <div class="german">${matches[i].german}</div>
-            <div class="turkish">${matches[i].turkish}</div>
-        `;
-        matchContainer.appendChild(matchDiv);
+    if (matchesContainer) {
+        let html = '';
+        for (let i = 0; i < germanWords.length; i++) {
+            html += `
+                <div class="match">
+                    <div class="german-word">${germanWords[i]}</div>
+                    <div class="turkish-translation">${turkishTranslations[i]}</div>
+                </div>
+            `;
+        }
+        matchesContainer.innerHTML = html;
+    } else {
+        console.error('Matches container not found.');
     }
-
-    const matchElements = document.querySelectorAll('.match');
-    matchElements.forEach((match) => {
-        match.addEventListener('click', handleMatchClick);
-    });
 }
+
 
 // Function to handle match click
 function handleMatchClick(event) {

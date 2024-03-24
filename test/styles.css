@@ -1,0 +1,36 @@
+#container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+#game {
+    display: inline-block;
+}
+
+.word {
+    display: inline-block;
+    padding: 10px;
+    margin: 5px;
+    border: 2px solid #ccc;
+    cursor: pointer;
+}
+
+.matched {
+    background-color: lightgreen;
+}
+
+.mismatched {
+    background-color: #ffcccc;
+}
+
+#nextPageBtn,
+#prevPageBtn {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.selected {
+    background-color:lightblue;
+}
