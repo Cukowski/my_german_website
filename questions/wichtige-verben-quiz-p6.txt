@@ -1,0 +1,9 @@
+fahren|hareket etmek
+rufen|çağırmak
+lernen|öğrenmek
+haben|sahip olmak
+wiederholen|tekrar etmek
+zeigen|göstermek
+leben|yaşamak
+legen|koymak
+rennen|koşmak

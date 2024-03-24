@@ -1,57 +1,57 @@
-heißen|adı olmak
-wohnen|oturmak
-leben|yaşamak
-haben|sahip olmak
-sein|olmak
-kommen|gelmek
-gehen|gitmek
-bleiben|kalmak
-machen|yapmak
-schreiben|yazmak
-lesen|okumak
-lernen|öğrenmek
-sprechen|konuşmak
-sagen|söylemek
-hören|duymak
-sehen|görmek
-verstehen|anlamak
-wiederholen|tekrar etmek
-wissen|bilmek
-fragen|sormak
+kaufen|satın almak
 antworten|cevap vermek
-bilden (Satz)|oluşturmak, kurmak
-verbessern|düzeltmek
-zeigen|göstermek
-arbeiten|çalışmak
-suchen|aramak
-essen|yemek
-trinken|içmek
+bezahlen|ödemek
+beginnen|başlamak
+lesen|okumak
+wissen|bilmek
+geben|vermek
+schreiben|yazmak
+lernen|öğrenmek
+fragen|sormak
+sehen|görmek
+telefonieren|telefon etmek
 fahren|hareket etmek
-fliegen|uçmak
-laufen|koşmak, yürümek
-rennen|koşmak
-stehen|durmak (ayakta)
+brauchen|gerekmek (ihtiyaç)
+trinken|içmek
+essen|yemek
+sagen|söylemek
+sprechen|konuşmak
+anfangen|başlamak
+öffnen|açmak
+verstehen|anlamak
+nehmen|almak
+wohnen|oturmak
+machen|yapmak
+schlafen|uyumak
+weinen|ağlamak
 sitzen|oturmak
 liegen|yatmak
-schlafen|uyumak
-rufen|çağırmak
-lachen|gülmek
-weinen|ağlamak
-duschen|duş almak
-waschen|yıkamak
-telefonieren|telefon etmek
-helfen|yardım etmek
 kaufen|satın almak
-bezahlen|ödemek
-brauchen|gerekmek (ihtiyaç)
-beginnen|başlamak
-anfangen|başlamak
-nehmen|almak
-geben|vermek
-bringen|getirmek
-öffnen|açmak
-aufmachen|açmak
 schließen|kapatmak
-zumachen|kapatmak
+schreiben|yazmak
+gehen|gitmek
+arbeiten|çalışmak
+stehen|durmak (ayakta)
+schlafen|uyumak
+lernen|öğrenmek
+wohnen|oturmak
+duschen|duş almak
+bleiben|kalmak
+suchen|aramak
+gehen|gitmek
+helfen|yardım etmek
+brauchen|gerekmek (ihtiyaç)
+zeigen|göstermek
+geben|vermek
+kaufen|satın almak
 anmachen|açmak (elektrikli)
-ausmachen|kapatmak (elektirkli)
+öffnen|açmak
+fahren|hareket etmek
+rufen|çağırmak
+lernen|öğrenmek
+haben|sahip olmak
+wiederholen|tekrar etmek
+zeigen|göstermek
+leben|yaşamak
+legen|koymak
+rennen|koşmak

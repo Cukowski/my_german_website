@@ -128,6 +128,42 @@ nav ul li a:hover {
     background-color:lightblue;
 }
 
+/* Additional styles for small icons */
+.s-icon-container {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.s-icon {
+    width: 200px;
+    height: auto;
+    display: inline-block;
+    margin: 0 10px; /* Adjust spacing between images */
+    margin-bottom: 20px;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+    margin-bottom: 20px;
+}
+
+.s-icon:hover {
+    transform: scale(1.1);
+}
+
+.s-icon img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.s-icon-link {
+    text-decoration: none;
+    color: #222831;
+    font-weight: bold;
+    font-size: 18px;
+    display: block;
+    text-align: center;
+}
+
 footer {
     background-color: #31363F;
     color: #fff;
@@ -166,5 +202,10 @@ footer {
         margin: 0;
         padding: 0;
         padding-bottom: 20px; 
+    }
+    .s-icon img {
+        max-width: 180px;
+        max-height: 180px;
+        margin-top: 20px;
     }
 }

@@ -1,0 +1,10 @@
+kaufen|satın almak
+antworten|cevap vermek
+bezahlen|ödemek
+beginnen|başlamak
+lesen|okumak
+wissen|bilmek
+geben|vermek
+schreiben|yazmak
+lernen|öğrenmek
+fragen|sormak
