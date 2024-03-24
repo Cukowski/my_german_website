@@ -21,7 +21,9 @@ function displayWord(index) {
     // Loop through wordProperties and add non-empty elements to the HTML content
     for (let i = 0; i < wordProperties.length; i++) {
         if (wordProperties[i].trim() !== '') {
-            if (i === 0) {
+            if (i === 0) { // first element is 3rd title 
+                htmlContent += `<h3><strong></strong> ${wordProperties[i]}</h3>`;
+            } else if (i === 1) { // second element is 2nd title
                 htmlContent += `<h2><strong></strong> ${wordProperties[i]}</h2>`;
             } else {
                 htmlContent += `<p><strong></strong> ${wordProperties[i]}</p>`;

@@ -1,0 +1,8 @@
+|1. Regelmäßige (Schwache) Verben (Kuralı Fiiller):|kaufen, hören, lernen,...|(Fiil çekildiğinde fiilin kökü değişmiyorsa, bu fiil kurallı fiildir)
+|2. Unregelmäßige (Starke) Verben (Kuralsız Fiiller):|sehen, essen, fahren,...|(Fiil çekildiğinde fiilin kökü değişiyorsa, bu fiil kuralsız fiildir)|e => i / e => ie / a => ä
+|3. Trennbare Verben:|(Fiilden fiil türetirken, fiilin başına getirilen ön ek (das Präfix) ayrılabilir filler.)|ge...t / ge...en|Regelmäßige: einkaufen, zuhören,... ich habe eingekauft|Unregelmäßige: abfahren, einladen,... ich bin eingeladen|Präfixes: ab-, an-, auf-, aus-, bei-, ein-, fest-, her-, hin-, los-, mit-, nach-, vor-, weg-, wieder-, zu-, zurück-, zusammen-, u.a.
+|4. Untrennbare Verben:|(Fiilden fiil türetirken, fiilin başına getirilen ön ek (das Präfix) ayrılmaz filler.)|Regelmäßige: verkaufen, bezahlen ... ich habe verkauft|Unregelmäßige: empfehlen, befehlen,... ich habe empfohlen|Präfixes: be-, emp-, ent-, er-, ge-, miss-, ver-, zer-, u.a.
+|5. Reflexive Verben (Dönüşlü / Edilgen fiiller):| sich vorstellen, sich freuen, sich ärgern, ...
+Konjugation der Verben|1. Konjugation der schwachen Verben|P.S.: Die schwachen Verben werden regelmäßig konjugiert.|ich lache ich lachte ich habe gelacht
+Konjugation der Verben|2. Konjugation der starken Verben|ich gehe / ich ging / ich bin gegangen|ich komme / ich kam / ich bin gekommen
+Konjugation der Verben|3. Konjugation der Mischverben|ich denke / ich dachte / ich habe gedacht|ich bringe / ich brachte / ich habe gebracht
