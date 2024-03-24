@@ -1,0 +1,57 @@
+heißen : adı olmak
+wohnen : oturmak
+leben : yaşamak
+haben : sahip olmak
+sein : olmak
+kommen : sahip olmak
+gehen : gitmek
+bleiben : kalmak
+machen : yapmak
+schreiben : yazmak
+lesen : okumak
+lernen : öğrenmek
+sprechen : konuşmak
+sagen : söylemek
+hören : duymak
+sehen : görmek
+verstehen : anlamak
+wiederholen : tekrar etmek
+wissen : bilmek
+fragen : sormak
+antworten : cevap vermek
+bilden (Satz) : oluşturmak, kurmak
+verbessern : düzeltmek
+zeigen : göstermek
+arbeiten : çalışmak
+suchen : aramak
+essen : yemek
+trinken : içmek
+fahren : hareket etmek
+fliegen : uçmak
+laufen : koşmak, yürümek
+rennen : koşmak
+stehen : durmak (ayakta)
+sitzen : oturmak
+liegen : yatmak
+schlafen : uyumak
+rufen : çağırmak
+lachen : gülmek
+weinen : ağlamak
+duschen : duş almak
+waschen : yıkamak
+telefonieren : telefon etmek
+helfen : yardım etmek
+kaufen : satın almak
+bezahlen : ödemek
+brauchen : gerekmek (ihtiyaç)
+beginnen : başlamak
+anfangen : başlamak
+nehmen : almak
+geben : vermek
+bringen : getirmek
+öffnen : açmak
+aufmachen : açmak
+schließen : kapatmak
+zumachen: kapatmak
+anmachen : açmak (elektrikli)
+ausmachen : kapatmak (elektirkli)

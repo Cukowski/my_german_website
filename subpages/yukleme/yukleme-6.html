@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yükleme</title>
+    <link rel="stylesheet" href="../../styles.css">
+</head>
+<body>
+    <header>
+        <h1>Yükleme 6 - Wichtige Verben</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="../../index.html">Home</a></li>
+            <li><a href="../yukleme-main.html">Yükleme</a></li>
+        </ul>
+    </nav>
+    <div id="excel-container">
+        <p>Yükleme 6 - Wichtige Verben:</p>
+    </div>
+    <div class="container">
+        <h2>Wichtige Verben</h2>
+        <div id="wordCounter" class="word-counter"></div>
+        <div id="wordProperties" class="word-properties"></div>
+        <div id="navigationButtons" class="navigation-buttons">
+            <button onclick="previousWord()" class="nav-button">Previous</button>
+            <button onclick="nextWord()" class="nav-button">Next</button>
+        </div>
+    </div>    
+    <script src="../../js_files/script_grammer.js"></script>
+    <script src="../../js_files/swipe.js"></script>
+    <script>
+        loadWordList('../../words/yukleme-6.txt'); // Change the filename as needed
+    </script>
+    <footer>
+        <p>&copy; 2024 German Learning Website</p>
+    </footer>
+</body>
+</html>
