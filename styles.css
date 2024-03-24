@@ -147,9 +147,13 @@ nav ul li button:hover, .nav-button:hover, .submit-button button:hover, .button-
     flex-direction: column;
     align-items: center;
     padding: 20px;
-    background-color: #f9f9f9;
+    background-color: #EEEEEE;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.label {
+    background-color: lightgreen;
 }
 
 /* Styles for the div section in plain text */

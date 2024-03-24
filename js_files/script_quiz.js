@@ -62,7 +62,6 @@ function checkAnswer() {
     }
 }
 
-
 // Function to go to the next question
 function nextQuestion() {
     currentQuestionIndex++;
