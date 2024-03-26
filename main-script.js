@@ -11,16 +11,6 @@ window.addEventListener("scroll", () => {
   mainFn();
 });
 
-// FIX IT
-document.addEventListener("DOMContentLoaded", function () {
-  var logo = document.getElementById("logo-gif");
-
-  // Set a timeout to stop the GIF after 10 seconds
-  setTimeout(function() {
-      logo.style.animationPlayState = "paused";
-  }, 10000); // 10 seconds in milliseconds
-});
-
 // Pages
 document.querySelectorAll('.logo-img').forEach(logo => {
   logo.addEventListener('click', () => {
