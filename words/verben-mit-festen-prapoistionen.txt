@@ -1,30 +1,121 @@
-Verb|Präposition+Kasus|Beispielsatz
-abbeißen|von+Dativ|Er biss von dem Apfel ab.
-abberufen|von+Dativ|Sie wurde von ihrer Stelle abberufen.
-abbringen|von+Dativ|Sie konnte ihn nicht von seinem Plan abbringen.
-abbuchen|von+Dativ|Der Betrag wird vom Konto abgebucht.
-abfahren|von+Dativ|Er ist vom Hauptbahnhof abgefahren.
-abfärben |auf+Akkusativ |Das Verhalten der Eltern ist auf die Kinder abgefärbt.
-abfinden |mit+Dativ |Er hat ihn mit einer hohen Summe abgefunden
-sich abfinden |mit+Dativ |Er hat sich mit der Situation abgefunden.
-abführen|an+Akkusativ |Man muss seine Steuern an den Staat abführen.
-abführen|von+Dativ |Diese Frage führt uns vom Thema ab.
-(sich) abgrenzen |von+Dativ |Sie grenzte sich von ihren Mitschülern ab.
-abhalten |von+Dativ |Das Fernsehen hält die Kinder vom Lesen ab.
-abhängen |von+Dativ |Die Einstellungschancen hängen von der Endnote ab.
-sich abhärten |gegen+Akkusativ |Gegen das Wetter hat er sich längst abgehärtet.
-sich abheben |von+Dativ |Sie hebt sich von den anderen ab.
-abholen |an+Dativ|Sie holt ihn morgen am Bahnhof ab.
-abholen|von+Dativ|Sie holt ihn morgen vom Bahnsteig ab.
-sich abkehren |von+Dativ |Er hat sich von seinem Freund abgekehrt.
-abkommen |von+Dativ |Er ist vom rechten Weg abgekommen.
-abladen |von+Dativ |Der Sand musste vom LKW abgeladen werden.
-ablassen |von+Dativ |Sie haben von dem Jungen abgelassen.
-ablenken |von+Dativ |Die Kameras lenkten die Schüler vom Unterricht ab
-ablesen |von+Dativ |Er hat den Text vom Blatt abgelesen.
-abmachen |mit+Dativ|Er hat den Termin mit der Sekretärin abgemacht.
-abmachen|von+Dativ |Er hat das Boot vom Steg abgemacht.
-abmelden |bei+Dativ|Sie hat sich beim Lehrer abgemeldet.
-abmelden|von+Dativ|Sie hat sich vom Unterricht abgemeldet.
-abmessen |mit+Dativ |Das wurde mit einem Maßband abgemessen.
-sich abmühen |mit+Dativ |Die Schüler mühten sich mit dieser Aufgabe ab.
+Verb|Präposition|Kasus|Beispielsatz
+abbeißen|von|Dativ|Er biss von dem Apfel ab.
+abberufen|von|Dativ|Sie wurde von ihrer Stelle abberufen.
+abbringen|von|Dativ|Sie konnte ihn nicht von seinem Plan abbringen.
+abbuchen|von|Dativ|Der Betrag wird vom Konto abgebucht.
+abfahren|von|Dativ|Er ist vom Hauptbahnhof abgefahren.
+abfärben |auf|Akkusativ |Das Verhalten der Eltern ist auf die Kinder abgefärbt.
+abfinden |mit|Dativ |Er hat ihn mit einer hohen Summe abgefunden
+sich abfinden |mit|Dativ |Er hat sich mit der Situation abgefunden.
+abführen|an|Akkusativ |Man muss seine Steuern an den Staat abführen.
+abführen|von|Dativ |Diese Frage führt uns vom Thema ab.
+(sich) abgrenzen |von|Dativ |Sie grenzte sich von ihren Mitschülern ab.
+abhalten |von|Dativ |Das Fernsehen hält die Kinder vom Lesen ab.
+abhängen |von|Dativ |Die Einstellungschancen hängen von der Endnote ab.
+sich abhärten |gegen|Akkusativ |Gegen das Wetter hat er sich längst abgehärtet.
+sich abheben |von|Dativ |Sie hebt sich von den anderen ab.
+abholen |an|Dativ|Sie holt ihn morgen am Bahnhof ab.
+abholen|von|Dativ|Sie holt ihn morgen vom Bahnsteig ab.
+sich abkehren |von|Dativ |Er hat sich von seinem Freund abgekehrt.
+abkommen |von|Dativ |Er ist vom rechten Weg abgekommen.
+abladen |von|Dativ |Der Sand musste vom LKW abgeladen werden.
+ablassen |von|Dativ |Sie haben von dem Jungen abgelassen.
+ablenken |von|Dativ |Die Kameras lenkten die Schüler vom Unterricht ab
+ablesen |von|Dativ |Er hat den Text vom Blatt abgelesen.
+abmachen |mit|Dativ|Er hat den Termin mit der Sekretärin abgemacht.
+abmachen|von|Dativ |Er hat das Boot vom Steg abgemacht.
+abmelden |bei|Dativ|Sie hat sich beim Lehrer abgemeldet.
+abmelden|von|Dativ|Sie hat sich vom Unterricht abgemeldet.
+abmessen |mit|Dativ |Das wurde mit einem Maßband abgemessen.
+sich abmühen |mit|Dativ |Die Schüler mühten sich mit dieser Aufgabe ab.
+
+abordnen |zu|Dativ |Er wurde zum Aufräumen abgeordnet.
+sich |abplagen mit|Dativ |Er musste sich mit den Aufgaben abplagen.
+abraten |von|Dativ |Sie riet ihm vom Lehrerberuf ab.
+abrücken |von|Dativ |Er ist von seiner bisherigen Einstellung abgerückt.
+abschirmen |vor|Dativ |Sie wurde vor der Verwandschaft abgeschirmt.
+abschleppen |mit|Dativ |Das Auto wurde mit einem Seil abgeschleppt.
+abschließen |mit|Dativ |Sie schloss ihr Fahrrad mit einem Schloss ab.
+abschneiden |von|Dativ |Sie waren von der Außenwelt abgeschnitten.
+abschreiben |bei|Dativ |Er schrieb die Lösungen bei seinem Freund ab.
+abschreiben|von|Dativ|Er schrieb die Lösungen von seinem Freund ab.
+abschweifen |von|Dativ |Der Lehrer schweifte immer wieder vom Thema ab.
+absehen |von|Dativ |Der Lehrer sah von einer Strafe ab.
+absenden |an|Akkusativ |Er sendet das Schreiben morgen an das Ministerium ab.
+(sich) abspalten |von|Dativ |Sie spaltete sich von der Gruppe ab.
+abspringen |mit|Dativ|Sie springt mit einem Fallschirm ab.
+abspringen|von|Dativ|Sie ist vom Pferd abgesprungen.
+abstammen |von|Dativ |Sie stammte von einem Engländer ab.
+absteigen |in|Akkusativ|Bielefeld ist in die 2. Liga abgestiegen..
+absteigen |in|Dativ|Bielefeld ist in der Tabelle abgestiegen.
+absteigen |von|Dativ|Sie steigt vom Fahrrad ab.
+abstimmen |auf |Akkusativ|Der Lehrer stimmt den Unterrichtsstoff auf die Schüler ab.
+abstimmen|über|Akkusativ|Sie stimmen über den Vorschlag ab.
+sich abstimmen |mit|Dativ|Sie stimmte sich mit den Eltern über einen Termin ab.
+sich abstimmen|über |Akkusativ|
+abstoßen |von|Dativ |Sie Stieß das Boot vom Steg ab.
+sich abstoßen |mit|Dativ |Er hat sich mit dem Fuß vom Steg abgestoßen.
+abtreten |an|Akkusativ|Er hat sein Fahrrad an seinen Bruder abgetreten.
+abtreten|von|Dativ|Der Schauspieler trat von der Bühne ab.
+abwaschen |von|Dativ |Er muss den Fleck von der Decke abwaschen.
+
+abwehren |von|Dativ|Er hat die Kritik von der Schule abgewehrt.
+abweichen |von|Dativ|Das Ergebnis weicht von der Prognose ab.
+abwenden |von|Dativ|Sie wendete sich von diesem Anblick ab.
+abziehen |von|Dativ|Er zieht den Aufkleber von der Folie ab.
+abzielen |auf|Akkusativ|Sie zielten auf das große Geld ab.
+achten |auf|Akkusativ|Er sollte mehr auf die Zeichensetzung achten.
+achtgeben |auf|Akkusativ|Die Autofahrer müssen mehr auf die Kinder achtgeben.
+addieren |mit|Dativ|Die Kinder mussten Bruchzahlen mit Dezimalzahlen addieren.
+adressieren |an|Akkusativ|Der Brief ist an die Universität adressiert.
+sich amüsieren |über|Akkusativ|Die Schüler amüsierten sich über die Geschichte.
+anbieten |zu |Dativ|Er bot die Ware zu einem guten Preis an.
+anbinden |an|Akkusativ|Er muss jetzt seinen Hund an die Leine binden.
+anbinden |an|Dativ|Er bindet den Hund an dem Laternenpfahl an.
+ändern |an|Dativ|An der Situation lässt sich nur wenig ändern.
+anfangen |mit|Dativ|Sie fängt jetzt mit der Ausbildung an.
+anfragen |bei|Dativ|Er hat bei der Zentrale angefragt.
+angeben |mit|Dativ|Sie geben mit ihrem Geld an.
+angehen |gegen|Akkusativ|Die Politik will jetzt gegen den Rechtsextremismus angehen.
+angeln |nach|Dativ|Er angelt nach großen Fischen.
+angrenzen |an|Akkusativ|Griechenland grenzt an die Türkei (an).
+sich ängstigen |vor|Dativ|Der Junge ängstigt sich vor Hunden.
+anhalten |um|Akkusativ|Er hält um die Hand seiner Freundin an.
+anhalten |an|Dativ|Der Bus hält an der Haltestelle (an).
+anklagen |wegen|Genitiv|Er wurde wegen Mordes angeklagt.
+anklopfen |an|Akkusativ|Sie klopft an die Tür.
+anknüpfen |an|Akkusativ|Der Referent knüpfte an die letzte Sitzung an.
+ankommen |auf|Akkusativ|Es kommt auf die richtige Methode an.
+anlegen |auf|Akkusativ|Sie hatte es auf eine Auseinandersetzung angelegt.
+
+anlegen|an|Dativ|Das Boot legte am Steg an.
+anlegen|in|Dativ|Er legt sein Geld in Aktien an.
+sich anlegen mit|Dativ Er hatte sich mit seinen Mitschülern angelegt.
+anlehnen |an|Akkusativ|Der Schüler lehnte den Stock an die Wand (an).
+(sich) anmelden |für|Akkusativ|Er meldet sich für einen Sprachkurs an.
+(sich) anmelden |bei|Dativ|Der Besucher meldete sich beim Pförtner an.
+(sich) anmelden |in|Dativ|Der Besucher meldet sich im Vorzimmer an.
+(sich) anmelden |zu|Dativ|Er hat sich zu einem Sprachkurs angemeldet.
+annähen |an|Akkusativ|Er näht den Knopf an das Hemd.
+annehmen |von|Dativ|Sie nahm keine Geschenke von den Schülern an.
+sich anpassen |an|Akkusativ|Sie passten sich an die Kultur des Aufnahmelandes an.
+anreden |mit|Dativ|In der Türkei redet man die Lehrperson nicht mit dem Namen an.
+anregen |zu|Dativ|Sie regte ihn zu einer Idee an.
+anreichern |mit|Dativ|Der Text ist mit Bildern angereichert.
+anreizen |zu|Dativ|Dieses Gespräch reizt zu weiteren an.
+sich anschicken |zu|Dativ|Er schickte sich zur Abreise an.
+sich anschmiegen |an|Akkusativ|Sie schmiegt sich an ihren Vater (an).
+anschuldigen |wegen|Genitiv|Sie schuldigt ihn wegen des Unfalls an.
+ansetzen |zu|Dativ|Er setzte erneut zum Erzählen an.
+anspielen |auf|Akkusativ|Sie spielte auf seine Herkunft an.
+anspornen |zu|Dativ|Seine Eltern spornen ihn zum Erfolg an.
+ansprechen |auf|Akkusativ|Der Lehrer sprach sie auf ihre Defizite an.
+ansprechen |mit|Dativ|Die Schüler sprachen die Lehrerin mit ihrem Vornamen an.
+anstecken |mit|Dativ|Er hatte die ganze Klasse mit der Grippe angesteckt.
+anstehen |nach|Dativ|Sie standen vor dem Eingang nach warmen Getränken an.
+sich anstellen |nach|Dativ|Sie stellten sich nach den Angeboten an.
+anstiften |zu|Dativ|Er stiftete seinen Bruder zu einer Dummheit an.
+anstoßen |auf|Akkusativ|Sie stießen auf das Brautpaar an.
+anstrengen |gegen|Akkusativ|Er strengte einen Prozess gegen den Vermieter an.
+
+sayfa 5 devam et!

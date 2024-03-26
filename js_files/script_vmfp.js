@@ -19,8 +19,9 @@ function displayWord(index) {
     document.getElementById('wordCounter').innerText = `${index + 1}/${words.length}`;
     document.getElementById('wordProperties').innerHTML = `
         <p><strong>Verb:</strong> ${wordProperties[0]}</p>
-        <p><strong>Präposition+Kasus:</strong> ${wordProperties[1]}</p>
-        <p><strong>Beispielsatz:</strong> ${wordProperties[2]}</p>
+        <p><strong>Präposition:</strong> ${wordProperties[1]}</p>
+        <p><strong>Kasus:</strong> ${wordProperties[2]}</p>
+        <p><strong>Beispielsatz:</strong> ${wordProperties[3]}</p>
     `;
 }
 
