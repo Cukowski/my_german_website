@@ -89,6 +89,13 @@ gameContainer.addEventListener("click", (event) => {
     }
 });
 
+const quiz_links = ["../../questions/wichtige-verben-quiz-p1.txt", 
+                "../../questions/wichtige-verben-quiz-p2.txt", 
+                "../../questions/wichtige-verben-quiz-p3.txt",
+                "../../questions/wichtige-verben-quiz-p4.txt",
+                "../../questions/wichtige-verben-quiz-p5.txt",
+                "../../questions/wichtige-verben-quiz-p6.txt"];
+                
 // Define the loadWordList function to fetch data and initialize word objects
 function loadWordList(wordListFilename) {
     fetch(wordListFilename)
