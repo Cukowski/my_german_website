@@ -1,65 +1,319 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>AA Deutsch</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <header class="site-header">
-        <h1 class="site-title">AA Deutsch</h1>
-    </header>    
-    <nav>
-        <ul>
-            <li></li>
-            <!-- Add more navigation options here -->
-        </ul>
-    </nav>
-    <div class="icon-container">
-        <div class="icon">
-            <a href="subpages/yukleme-main.html">
-                <img src="images/yukleme.png" alt="Yükleme">
+    <link rel="stylesheet" href="main-style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Jost:wght@100;200;300;400;500;600;700;800;900&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div class="container">
+      <!-- Front Page -->
+      <div class="front-page">
+        <!-- Navbar  1 -->
+        <nav class="navbar-1 center">
+          <div class="navbar-buttons">
+            <button class="navbar-btn login-btn login">Login</button>
+            <button class="navbar-btn signup-btn signup">Signup</button>
+          </div>
+        </nav>
+
+        <!-- End of Navbar  1 -->
+
+        <!-- Section 1 -->
+        <section class="section-1 center" id="section-1">
+          <h1 class="section-1-heading">
+            AA Deutsch
+          </h1>
+          <img id="logo-gif" src="main-images\logo.gif" alt="Logo" class="logo-gif">
+          <a href="#section-2" class="section-1-btn">Lektionen</a>
+          <a href="#section-3" class="section-1-btn">Dein Fortschritt</a>
+          <!-- add sign-in button -->
+        </section>
+        <!-- End of Section 1 -->
+
+        <!-- Navbar 2 -->
+        <nav class="navbar-2 center">
+          <a href="#section-1" class="navbar-link">Home</a>
+          <a href="#section-2" class="navbar-link">Lektionen</a>
+          <a href="#section-3" class="navbar-link">Dein Fortschritt</a>
+          <a href="#section-4" class="navbar-link">Contact</a>
+        </nav>
+
+        <!-- End of Navbar 2 -->
+
+        <!-- Section 2 -->
+        <section class="section-2" id="section-2">
+          <h1 class="section-heading section-2-heading">Lektionen</h1>
+          <div class="lessons-wrapper center">
+          
+            <div class="lesson">
+              <div class="lesson-text">
+                <h2 class="lesson-name">Yükleme</h2>
+                <h4 class="lesson-technologies">Yükleme Notları</h4>
+              </div>
+              <img src="main-images/yukleme.png" class="lesson-img" />
+              <a
+                href=""
+                class="lesson-link"
+                >Gehe zur Lektion</a
+              >
+            </div>
+          
+            <div class="lesson">
+              <div class="lesson-text">
+                <h2 class="lesson-name">Verben mit Präpositionen</h2>
+                <h4 class="lesson-technologies">Verben mit Präpositionen                </h4>
+              </div>
+              <img src="main-images/verben_mit_p.png" class="lesson-img" />
+              <a
+                href=""
+                class="lesson-link"
+                >Gehe zur Lektion</a
+              >
+            </div>
+          
+            <div class="lesson">
+              <div class="lesson-text">
+                <h2 class="lesson-name">Verben mit festen Präpositionen</h2>
+                <h4 class="lesson-technologies">Verben mit festen Präpositionen                </h4>
+              </div>
+              <img src="main-images/verben_mit_f_p.png" class="lesson-img" />
+              <a
+                href=""
+                class="lesson-link"
+                >Gehe zur Lektion</a
+              >
+            </div>
+
+            <div class="lesson">
+              <div class="lesson-text">
+                <h2 class="lesson-name">A1 Lernen</h2>
+                <h4 class="lesson-technologies">A1 Verben, Grammer und Quiz</h4>
+              </div>
+              <img src="main-images/a1.png" class="lesson-img" />
+              <a
+                href=""
+                class="lesson-link"
+                >Gehe zur Lektion</a
+              >
+            </div>
+
+            <div class="lesson">
+              <div class="lesson-text">
+                <h2 class="lesson-name">Quiz</h2>
+                <h4 class="lesson-technologies">Wortquiz, Ordnen Sie Wörter zu</h4>
+              </div>
+              <img src="main-images/quiz.png" class="lesson-img" />
+              <a
+                href=""
+                class="lesson-link"
+                >Gehe zur Lektion</a
+              >
+            </div>
+
+            <div class="lesson">
+              <div class="lesson-text">
+                <h2 class="lesson-name">Worttraining</h2>
+                <h4 class="lesson-technologies">Trainiere Wörter</h4>
+              </div>
+              <img src="main-images/worttraining.png" class="lesson-img" />
+              <a
+                href=""
+                class="lesson-link"
+                >Gehe zur Lektion</a
+              >
+            </div>
+
+            <div class="lesson">
+              <div class="lesson-text">
+                <h2 class="lesson-name">More features coming soon!</h2>
+                <h4 class="lesson-technologies">More features coming soon!</h4>
+              </div>
+              <img src="main-images/coming_soon.png" class="lesson-img" />
+              <a
+                href=""
+                class="lesson-link"
+                >Gehe zur Lektion</a
+              >
+            </div>
+
+          </div>
+
+        </section>
+        <!-- End of Section 2 -->
+
+        <!-- Section 3 -->
+        <section class="section-3" id="section-3">
+          <h1 class="section-heading section-3-heading">Dein Fortschritt</h1>
+          <div class="progress-bars-wrapper">
+            <div class="progress-bar">
+              <p class="progress-text">
+                A1
+                <span>97</span>%
+                <div class="progress-percent"></div>
+              </p>
+            </div>
+            <div class="progress-bar">
+              <p class="progress-text">
+                A2
+                <span>80</span>%
+                <div class="progress-percent"></div>
+              </p>
+            </div>
+            <div class="progress-bar">
+              <p class="progress-text">
+                B1
+                <span>70</span>%
+                <div class="progress-percent"></div>
+              </p>
+            </div>
+            <div class="progress-bar">
+              <p class="progress-text">
+                B2
+                <span>60</span>%
+                <div class="progress-percent"></div>
+              </p>
+            </div>
+            <div class="progress-bar">
+              <p class="progress-text">
+                Verben mit Präpositionen
+                <span>50</span>%
+                <div class="progress-percent"></div>
+              </p>
+            </div>
+
+          </div>
+          <!-- <div class="services">
+            <div class="service">
+              <i class="far fa-lightbulb"></i>
+              <h2 class="service-heading">Creative</h2>
+            </div>
+            <div class="service">
+              <i class="fas fa-cut"></i>
+              <h2 class="service-heading">Problem Solver</h2>
+            </div>
+            <div class="service">
+              <i class="fas fa-tachometer-alt"></i>
+              <h2 class="service-heading">Fast Learner</h2>
+            </div>
+            <div class="service">
+              <i class="fas fa-rocket"></i>
+              <h2 class="service-heading">Dynamic</h2>
+            </div>
+          </div> -->
+        </section>
+        <!-- End of Section 3 -->
+
+        <!-- Section 4 -->
+        <section class="section-4" id="section-4">
+          <h1 class="section-heading section-4-heading">Contact Us</h1>
+          <form class="contact-form center">
+            <input type="text" placeholder="Name (not functioning yet)" />
+            <input type="email" placeholder="Email (not functioning yet)" />
+            <textarea placeholder="Message (not functioning yet)"></textarea>
+            <input type="submit" value="Submit" class="contact-form-btn" />
+          </form>
+        </section>
+        <!-- End of Section 4 -->
+
+        <!-- Section 5 -->
+        <footer class="section-5 center">
+          <div class="social-media">
+            <a href="http://www.youtube.com/@Dev_with_Sel" target="_blank" class="social-media-link">
+              <i class="fab fa-youtube"></i>
             </a>
-            <a class="icon-link" href="subpages/yukleme-main.html">Yükleme</a>
-        </div>
-        <div class="icon">
-            <a href="subpages/verben-mit-prapoistionen.html">
-                <img src="images/verben_mit_p.png" alt="Verben mit Präpositionen">
+            <a href="#none" class="social-media-link">
+              <i class="fab fa-instagram-square"></i>
             </a>
-            <a class="icon-link" href="subpages/verben-mit-prapoistionen.html">Verben mit Präpositionen</a>
-        </div>
-        <div class="icon">
-            <a href="subpages/verben-mit-festen-prapoistionen.html">
-                <img src="images/verben_mit_p.png" alt="Verben mit festen Präpositionen">
+            <a href="#none" class="social-media-link">
+              <i class="fab fa-discord"></i>
             </a>
-            <a class="icon-link" href="subpages/verben-mit-prapoistionen.html">Verben mit festen Präpositionen</a>
-        </div>
-        <div class="icon">
-            <a href="subpages/a1/a1_main.html">
-                <img src="images/a1.png" alt="A1 Lernen">
+            <!--
+            <a href="#none" class="social-media-link">
+              <i class="fab fa-telegram"></i>
             </a>
-            <a class="icon-link" href="subpages/a1/a1_main.html">A1 Lernen</a>
-        </div>
-        <div class="icon">
-            <a href="subpages/word-training.html">
-                <img src="images/practice.png" alt="Word Training">
-            </a>
-            <a class="icon-link" href="subpages/word-training.html">Word Training</a>
-        </div>
-        <div class="icon">
-            <a href="subpages/quizzes.html">
-                <img src="images/quiz1.png" alt="Quizzes">
-            </a>
-            <a class="icon-link" href="subpages/quizzes.html">Quizzes</a>
-        </div>
-        <div class="icon">
-            <img src="images/coming_soon.png" alt="">
-            <a class="icon-link">More features coming soon!</a>
+            -->
+          </div>
+          <p class="copyright">
+            Copyright &copy; 2024 AA Deutsch. All Rights Reserved
+          </p>
+        </footer>
+        <!-- End of Section 5 -->
+
+      </div>
+      <!-- End of front page -->
+      
+      <!-- Login Page -->
+      <div class="login-page">
+        <div class="login-page-content">
+            <div class="login-page-logo logo-img">
+              <img src="main-images\logo.png" alt="Logo" style="width:220px;height:220px;">
+            </div>
+            <form class="login-page-form">
+                <input type="text" class="form-login-input" placeholder="Email or mobile number">
+                <input type="password" class="form-login-input" >
+                <input type="button" class="form-login-btn" value="Log In">
+                <a href="#" class="form-login-link">Having trouble logging in?</a>
+                <span>or</span>
+                <input type="button" class="form-signup-btn signup" value="Sign Up">
+            </form>
         </div>
     </div>
-    <footer>
-        <p>&copy; 2024 German Learning Website</p>
-    </footer>
-</body>
+    <!-- End of Login Page -->
+
+    <!-- Sign Up Page -->
+    <div class="signup-page">
+        <div class="signup-page-top">
+          <div class="login-page-logo logo-img">
+            <img src="main-images\logo.png" alt="Logo" style="width:120px;height:120px;margin-top: 40px;">
+            </div>
+            <button class="login">Log In</button>
+        </div>
+        <div class="signup-page-content">
+            <div class="signup-page-content-left">
+                <div class="content-left-main-images">
+                    <img src="main-images/person-1.jpg">
+                    <img src="main-images/person-2.jpg">
+                    <img src="main-images/person-3.jpg">
+                </div>
+                <h1>See for yourself why people learn German.</h1>
+            </div>
+            <div class="signup-page-content-right">
+                <h3>Sign up for AA Deutsch, it's free</h3>
+                <h4>Choose from two types of accounts:</h4>
+                <form class="signup-page-form">
+                    <div class="input-group">
+                        <input type="radio" name="checkbox" checked>
+                        <div class="option">
+                            <h3>Premium Account</h3>
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias ducimus minima, incidunt beatae veritatis ad delectus temporibus eaque enim ea!</p>
+                        </div>
+                    </div>
+                    <div class="input-group">
+                        <input type="radio" name="checkbox">
+                        <div class="option">
+                            <h3>Free Account</h3>
+                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias ducimus minima, incidunt beatae veritatis ad delectus temporibus eaque enim ea!</p>
+                        </div>
+                    </div>
+                    <button class="blue-btn">Continue</button>
+                </form>
+            </div>
+           
+        </div>
+    </div>
+    <!-- End of Sign Up Page -->
+
+    </div>
+    <script src="main-script.js"></script>
+  </body>
 </html>
