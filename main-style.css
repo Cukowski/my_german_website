@@ -188,10 +188,12 @@ html{
   position: relative;
   overflow: hidden;
   transition: box-shadow 0.5s;
+  border-radius: 6px;
 }
 
 .lesson:hover {
   box-shadow: 1rem 1rem 1rem #777;
+  transform: scale(1.03);
 }
 
 .lesson-text {
