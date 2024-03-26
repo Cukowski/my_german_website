@@ -21,6 +21,19 @@ body {
     color: #3a4374;
 }
 
+.s-burger-menu {
+    display: none;
+    background: none;
+    text-align: center;
+    background-color: #9290C3;
+    border-color: #EEEEEE;
+    border-radius: 5px;
+    font-size: 13px;
+    cursor: pointer;
+    padding: 5px;
+    color: #3a4374;
+}
+
 header, .site-header {
     background-color: #222831;
     color: #EEEEEE;
@@ -369,6 +382,9 @@ footer {
 
 @media screen and (max-width: 768px) {
     .burger-menu {
+        display: block; /* Show the burger menu button on mobile */
+    }
+    .s-burger-menu {
         display: block; /* Show the burger menu button on mobile */
     }
 

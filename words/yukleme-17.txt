@@ -1,0 +1,4 @@
+Ein Tag hat 24 Stunden. Der Tag beginnt um null Uhr| Die Tageszeiten sind:|der Morgen  => morgens|der Vormittag => vormittags|der Mittag => mittags| der Nachmittag => nachmittags| der Abend => abends|die Nacht => nachts
+Eine Woche hat sieben Tage.| Die Tage sind:|der Montag => montags|der Dienstag => dienstags|der Mittwoch => mittwochs|der Donnerstag => donnerstags|der Freitag => freitags|der Samstag => samstags|der Sonntag => sonntags
+Ein Jahr hat zwölf Monate.|Die Monate sind:|der Januar, der Februar, der März|der April, der Mai, der Juni|der Juli, der August, der September|der Oktober, der November, der Dezember
+Ein Jahr hat vier Jahreszeiten.|Die Jahreszeiten sind:|der Frühling (März, April, Mai)| der Sommer (Juni,Juli, August)|der Herbst  (September, Oktober, November) | der Winter  (Dezember, Januar, Februar)

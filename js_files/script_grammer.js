@@ -64,3 +64,11 @@ document.addEventListener('DOMContentLoaded', function() {
         navLinks.classList.toggle('active');
     });
 });
+document.addEventListener('DOMContentLoaded', function() {
+    const burgerMenu = document.getElementById('s-burger-menu');
+    const navLinks = document.getElementById('nav-links');
+
+    burgerMenu.addEventListener('click', function() {
+        navLinks.classList.toggle('active');
+    });
+});
