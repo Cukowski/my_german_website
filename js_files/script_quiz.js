@@ -49,10 +49,12 @@ function checkAnswer() {
         let correctAnswer = questions[currentQuestionIndex].correctAnswer.charAt(0); // Accessing the first character of the string
 
         if (selectedValue == correctAnswer) {
+            document.getElementById('result').style.color = 'green';
             document.getElementById('result').textContent = 'Correct!';
             var correctAudio = new Audio("./correct.wav"); // Create audio object
             correctAudio.play(); // Play the audio
         } else {
+            document.getElementById('result').style.color = 'red';
             document.getElementById('result').textContent = 'Incorrect. Try again!';
             var incorrectAudio = new Audio("./incorrect.wav"); // Create audio object
             incorrectAudio.play(); // Play the audio

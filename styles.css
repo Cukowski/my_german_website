@@ -322,7 +322,7 @@ footer {
 }
 
 .options-d input[type="radio"]:checked + label {
-    background-color: #333;
+    background-color: #3a4374;
     color: #fff;
 }
 
@@ -341,6 +341,10 @@ footer {
 .button-container button:hover {
     background-color: #555;
 }
+
+/* .result-text {
+    color: red;
+} */
 
 /* Excel Container Styles */
 #excel-container {
