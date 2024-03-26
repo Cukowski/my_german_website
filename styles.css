@@ -196,11 +196,6 @@ h3 {
     margin-bottom: 15px;
 }
 
-.search-results {
-    max-height: 100px;
-    overflow-y: auto;
-}
-
 .goto-section {
     display: flex;
     align-items: center;
@@ -268,13 +263,23 @@ footer {
     transition: background-color 0.3s ease;
 }
 
-.searchResult:hover {
-    background-color: #f0f0f0;
-}
-
 .search-results {
+    max-height: 100px;
+    overflow-y: auto;
     display: contents; 
     margin-top: 10px;
+}
+
+.searchResult:nth-child(even) {
+    background-color: #FAE7F3; /* Lighter background color for even rows */
+}
+
+.searchResult:nth-child(odd) {
+    background-color: #E6B9DE; /* Darker background color for odd rows */
+}
+
+.searchResult:hover {
+    background-color: #C2D9FF;
 }
 
 /* Question styles */

@@ -1,0 +1,30 @@
+Verb|Präposition+Kasus|Beispielsatz
+abbeißen|von+Dativ|Er biss von dem Apfel ab.
+abberufen|von+Dativ|Sie wurde von ihrer Stelle abberufen.
+abbringen|von+Dativ|Sie konnte ihn nicht von seinem Plan abbringen.
+abbuchen|von+Dativ|Der Betrag wird vom Konto abgebucht.
+abfahren|von+Dativ|Er ist vom Hauptbahnhof abgefahren.
+abfärben |auf+Akkusativ |Das Verhalten der Eltern ist auf die Kinder abgefärbt.
+abfinden |mit+Dativ |Er hat ihn mit einer hohen Summe abgefunden
+sich abfinden |mit+Dativ |Er hat sich mit der Situation abgefunden.
+abführen|an+Akkusativ |Man muss seine Steuern an den Staat abführen.
+abführen|von+Dativ |Diese Frage führt uns vom Thema ab.
+(sich) abgrenzen |von+Dativ |Sie grenzte sich von ihren Mitschülern ab.
+abhalten |von+Dativ |Das Fernsehen hält die Kinder vom Lesen ab.
+abhängen |von+Dativ |Die Einstellungschancen hängen von der Endnote ab.
+sich abhärten |gegen+Akkusativ |Gegen das Wetter hat er sich längst abgehärtet.
+sich abheben |von+Dativ |Sie hebt sich von den anderen ab.
+abholen |an+Dativ|Sie holt ihn morgen am Bahnhof ab.
+abholen|von+Dativ|Sie holt ihn morgen vom Bahnsteig ab.
+sich abkehren |von+Dativ |Er hat sich von seinem Freund abgekehrt.
+abkommen |von+Dativ |Er ist vom rechten Weg abgekommen.
+abladen |von+Dativ |Der Sand musste vom LKW abgeladen werden.
+ablassen |von+Dativ |Sie haben von dem Jungen abgelassen.
+ablenken |von+Dativ |Die Kameras lenkten die Schüler vom Unterricht ab
+ablesen |von+Dativ |Er hat den Text vom Blatt abgelesen.
+abmachen |mit+Dativ|Er hat den Termin mit der Sekretärin abgemacht.
+abmachen|von+Dativ |Er hat das Boot vom Steg abgemacht.
+abmelden |bei+Dativ|Sie hat sich beim Lehrer abgemeldet.
+abmelden|von+Dativ|Sie hat sich vom Unterricht abgemeldet.
+abmessen |mit+Dativ |Das wurde mit einem Maßband abgemessen.
+sich abmühen |mit+Dativ |Die Schüler mühten sich mit dieser Aufgabe ab.
