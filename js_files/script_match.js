@@ -95,9 +95,39 @@ const quiz_links = ["../../questions/wichtige-verben-quiz-p1.txt",
                 "../../questions/wichtige-verben-quiz-p4.txt",
                 "../../questions/wichtige-verben-quiz-p5.txt",
                 "../../questions/wichtige-verben-quiz-p6.txt"];
-                
+
+let currentWordIndex = 0;
+loadWordList(quiz_links[0]);
+
+function printIndex(currentWordIndex){
+    document.getElementById('page-info').innerText = `${currentWordIndex + 1}/${quiz_links.length}`;
+}
+
+// Function to navigate to the previous word
+function goToPreviousPage() {
+    if (currentWordIndex == 0) {
+        currentWordIndex = quiz_links.length - 1;
+        loadWordList(quiz_links[currentWordIndex]);
+    } else if (currentWordIndex > 0) {
+        currentWordIndex--;
+        loadWordList(quiz_links[currentWordIndex]);
+    }
+}
+
+// Function to navigate to the next word
+function goToNextPage() {
+    if (currentWordIndex == quiz_links.length - 1) {
+        currentWordIndex = 0;
+        loadWordList(quiz_links[currentWordIndex]);
+    } else if (currentWordIndex < words.length - 1) {
+        currentWordIndex++;
+        loadWordList(quiz_links[currentWordIndex]);
+    }
+}
+
 // Define the loadWordList function to fetch data and initialize word objects
 function loadWordList(wordListFilename) {
+    printIndex(currentWordIndex);
     fetch(wordListFilename)
         .then(response => response.text())
         .then(data => {
@@ -122,9 +152,6 @@ function loadWordList(wordListFilename) {
             console.error("Error fetching data:", error);
         });
 }
-
-// Call loadWordList function to fetch data and initialize word objects
-loadWordList("wichtige-verben-quiz.txt");
 
 document.addEventListener('DOMContentLoaded', function() {
     const burgerMenu = document.getElementById('burger-menu');

@@ -84,6 +84,10 @@ nav ul li a:hover {
     margin-top: 10px;
 }
 
+.word-counter {
+    margin-bottom: 15px;
+}
+
 #game {
     display: inline-block;
     padding-bottom: 30px;
