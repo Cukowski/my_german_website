@@ -4,7 +4,7 @@ arbeiten|çalışmak
 stehen|durmak (ayakta)
 schlafen|uyumak
 lernen|öğrenmek
-wohnen|oturmak
+wohnen|oturmak (yaşamak)
 duschen|duş almak
 bleiben|kalmak
 tanzen|dans etmek
