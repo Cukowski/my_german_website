@@ -6,21 +6,61 @@ Link: https://aa-deutcsh.com/
 ## About
 The German Learning Hub is a passion project I’ve been working on during my free time. Its primary focus is to help learners of German improve their language skills. Here’s what you’ll find:
 
-Grammar Resources: Access well-organized grammar documents that cover essential topics, from verb conjugations to sentence structure.
-Word Learning: Explore vocabulary lists, idiomatic expressions, and common phrases. Expand your German lexicon!
-Interactive Quizzes: Test your knowledge with fun and engaging quizzes. Challenge yourself on grammar rules, vocabulary, and cultural insights.
+- **Grammar Resources:** Access well-organized grammar documents that cover essential topics, from verb conjugations to sentence structure.
+- **Word Learning:** Explore vocabulary lists, idiomatic expressions, and common phrases. Expand your German lexicon!
+- **Interactive Quizzes:** Test your knowledge with fun and engaging quizzes. Challenge yourself on grammar rules, vocabulary, and cultural insights.
+
+## Django-powered platform
+The repository now includes a full Django backend located in [`backend/`](backend/). It introduces:
+
+- A custom user model with **student** and **teacher** roles.
+- Role-aware dashboards with progress meters and lesson access controls.
+- Lesson and progress management through the built-in Django admin.
+- Teacher tools for reviewing every student's progress and managing premium (teacher-only) material.
+
+### Getting started
+1. Create and activate a virtual environment.
+   ```bash
+   cd backend
+   python -m venv venv
+   source venv/bin/activate
+   ```
+2. Install dependencies (requires internet access):
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Configure environment variables:
+   ```bash
+   cp .env.example .env
+   ```
+   Adjust the values for `SECRET_KEY`, `DEBUG`, and `ALLOWED_HOSTS` as needed.
+4. Run database migrations and create a superuser for the admin panel:
+   ```bash
+   python manage.py migrate
+   python manage.py createsuperuser
+   ```
+5. Start the development server:
+   ```bash
+   python manage.py runserver
+   ```
+6. Visit `http://127.0.0.1:8000/` to explore the learner/teacher experience or `http://127.0.0.1:8000/admin/` for full admin access.
+
+### Running tests
+```bash
+python manage.py test
+```
 
 ## What’s Next?
 While the German Learning Hub is already a valuable resource, there’s always room for improvement. I’m committed to enhancing the content, optimizing the user experience, and adding new features. Stay tuned for updates!
 
-Feel free to explore, learn, and immerse yourself in the beauty of the German language. Viel Erfolg! 🌟 
+Feel free to explore, learn, and immerse yourself in the beauty of the German language. Viel Erfolg! 🌟
 
 ## Possible improvements:
 
-Maybe: 
+Maybe:
 https://www.geeksforgeeks.org/word-guessing-game-using-html-css-and-javascript/
 
-Maybe: 
+Maybe:
 https://github.com/AsaadNA/Word-Search
 https://www.facebook.com/beakretschmar/photos/a.272808236071935/2541932075826195/?type=3
 

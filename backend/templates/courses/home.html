@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+{% block title %}Deutsch Lernen | Learn and Teach German{% endblock %}
+{% block content %}
+<section class="hero">
+  <h1>Level up your German.</h1>
+  <p>An interactive platform for German learners and teachers with lessons, quizzes, and progress tracking.</p>
+  {% if user.is_authenticated %}
+  <a class="button" href="{% url 'dashboard' %}">Go to your dashboard</a>
+  {% else %}
+  <a class="button button-primary" href="{% url 'signup' %}">Join for free</a>
+  <a class="button" href="{% url 'login' %}">Log in</a>
+  {% endif %}
+</section>
+<section class="card-grid">
+  <article class="card">
+    <h3>Structured lessons</h3>
+    <p>Explore curated lessons for A1 to C1 levels. Teachers see everything; students focus on the essentials.</p>
+  </article>
+  <article class="card">
+    <h3>Progress insights</h3>
+    <p>Track completion percentages per lesson. Teachers review student journeys in real time.</p>
+  </article>
+  <article class="card">
+    <h3>Collaborative learning</h3>
+    <p>Teachers assign practice tasks and leave notes. Students reflect on their understanding.</p>
+  </article>
+</section>
+<section class="card-grid">
+  <article class="card">
+    <h3>{{ lesson_count }} lessons</h3>
+    <p>Carefully designed grammar, vocabulary, and cultural topics.</p>
+  </article>
+  <article class="card">
+    <h3>{{ student_count }} learners</h3>
+    <p>Students enrolled and actively progressing through content.</p>
+  </article>
+  <article class="card">
+    <h3>{{ teacher_count }} teachers</h3>
+    <p>Experienced guides monitoring growth and unlocking advanced modules.</p>
+  </article>
+</section>
+{% endblock %}
