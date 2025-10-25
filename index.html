@@ -21,9 +21,16 @@
       <div class="front-page">
         <!-- Navbar  1 -->
         <nav class="navbar-1 center">
+          <div class="language-picker">
+            <label for="language-select" class="language-label" data-i18n="language.label">Learning language:</label>
+            <select id="language-select" class="language-select">
+              <option value="en" data-i18n-option="language.option.en">English-German</option>
+              <option value="tr" data-i18n-option="language.option.tr">Turkish-German</option>
+            </select>
+          </div>
           <div class="navbar-buttons">
-            <button class="navbar-btn login-btn login">Login</button>
-            <button class="navbar-btn signup-btn signup">Signup</button>
+            <button class="navbar-btn login-btn login" data-i18n="navbar.login">Login</button>
+            <button class="navbar-btn signup-btn signup" data-i18n="navbar.signup">Signup</button>
           </div>
         </nav>
 
@@ -35,31 +42,31 @@
             AA Deutsch
           </h1>
           <img id="logo-gif" src="main-images\logo-non-loop.gif" alt="Logo" class="logo-gif">
-          <a href="#section-2" class="section-1-btn">Lektionen</a>
-          <a href="#section-3" class="section-1-btn">Dein Fortschritt</a>
+          <a href="#section-2" class="section-1-btn" data-i18n="hero.lessons">Lektionen</a>
+          <a href="#section-3" class="section-1-btn" data-i18n="hero.progress">Dein Fortschritt</a>
           <!-- add sign-in button -->
         </section>
         <!-- End of Section 1 -->
 
         <!-- Navbar 2 -->
         <nav class="navbar-2 center">
-          <a href="#section-1" class="navbar-link">Home</a>
-          <a href="#section-2" class="navbar-link">Lektionen</a>
-          <a href="#section-3" class="navbar-link">Dein Fortschritt</a>
-          <a href="#section-4" class="navbar-link">Contact</a>
+          <a href="#section-1" class="navbar-link" data-i18n="nav.home">Home</a>
+          <a href="#section-2" class="navbar-link" data-i18n="nav.lessons">Lektionen</a>
+          <a href="#section-3" class="navbar-link" data-i18n="nav.progress">Dein Fortschritt</a>
+          <a href="#section-4" class="navbar-link" data-i18n="nav.contact">Contact</a>
         </nav>
 
         <!-- End of Navbar 2 -->
 
         <!-- Section 2 -->
         <section class="section-2" id="section-2">
-          <h1 class="section-heading section-2-heading">Lektionen</h1>
+          <h1 class="section-heading section-2-heading" data-i18n="section2.heading">Lektionen</h1>
           <div class="lessons-wrapper center">
           
             <div class="lesson">
               <div class="lesson-text">
-                <h2 class="lesson-name">Yükleme</h2>
-                <h4 class="lesson-technologies">Yükleme Notları</h4>
+                <h2 class="lesson-name" data-i18n="lesson.upload.title">Yükleme</h2>
+                <h4 class="lesson-technologies" data-i18n="lesson.upload.subtitle">Yükleme Notları</h4>
               </div>
               <a href="subpages/yukleme-main.html">
                 <img src="main-images/yukleme.png" alt="Yükleme" class="lesson-img">
@@ -68,14 +75,14 @@
               <a
                 href="subpages/yukleme-main.html"
                 class="lesson-link"
-                >Gehe zur Lektion
+                data-i18n="lesson.link">Gehe zur Lektion
               </a>
             </div>
           
             <div class="lesson">
               <div class="lesson-text">
-                <h2 class="lesson-name">Verben mit Präpositionen</h2>
-                <h4 class="lesson-technologies">Verben mit Präpositionen                </h4>
+                <h2 class="lesson-name" data-i18n="lesson.prepositions.title">Verben mit Präpositionen</h2>
+                <h4 class="lesson-technologies" data-i18n="lesson.prepositions.subtitle">Verben mit Präpositionen                </h4>
               </div>
               <a href="subpages/verben-mit-prapoistionen.html">
                 <img src="main-images/verben_mit_p.png" alt="Verben mit Präpositionen" class="lesson-img">
@@ -84,14 +91,14 @@
               <a
                 href="subpages/verben-mit-prapoistionen.html"
                 class="lesson-link"
-                >Gehe zur Lektion</a
+                data-i18n="lesson.link">Gehe zur Lektion</a
               >
             </div>
           
             <div class="lesson">
               <div class="lesson-text">
-                <h2 class="lesson-name">Verben mit festen Präpositionen</h2>
-                <h4 class="lesson-technologies">Verben mit festen Präpositionen                </h4>
+                <h2 class="lesson-name" data-i18n="lesson.fixedprepositions.title">Verben mit festen Präpositionen</h2>
+                <h4 class="lesson-technologies" data-i18n="lesson.fixedprepositions.subtitle">Verben mit festen Präpositionen                </h4>
               </div>
               <a href="subpages/verben-mit-festen-prapoistionen.html">
                 <img src="main-images/verben_mit_f_p.png" alt="Verben mit festen Präpositionen" class="lesson-img">
@@ -100,14 +107,14 @@
               <a
                 href="subpages/verben-mit-festen-prapoistionen.html"
                 class="lesson-link"
-                >Gehe zur Lektion</a
+                data-i18n="lesson.link">Gehe zur Lektion</a
               >
             </div>
 
             <div class="lesson">
               <div class="lesson-text">
-                <h2 class="lesson-name">A1 Lernen</h2>
-                <h4 class="lesson-technologies">A1 Verben, Grammer und Quiz</h4>
+                <h2 class="lesson-name" data-i18n="lesson.a1.title">A1 Lernen</h2>
+                <h4 class="lesson-technologies" data-i18n="lesson.a1.subtitle">A1 Verben, Grammer und Quiz</h4>
               </div>
               <a href="subpages/a1/a1_main.html">
                 <img src="main-images/a1.png" alt="A1 Lernen" class="lesson-img">
@@ -116,14 +123,14 @@
               <a
                 href="subpages/a1/a1_main.html"
                 class="lesson-link"
-                >Gehe zur Lektion</a
+                data-i18n="lesson.link">Gehe zur Lektion</a
               >
             </div>
 
             <div class="lesson">
               <div class="lesson-text">
-                <h2 class="lesson-name">Quiz</h2>
-                <h4 class="lesson-technologies">Wortquiz, Ordnen Sie Wörter zu</h4>
+                <h2 class="lesson-name" data-i18n="lesson.quiz.title">Quiz</h2>
+                <h4 class="lesson-technologies" data-i18n="lesson.quiz.subtitle">Wortquiz, Ordnen Sie Wörter zu</h4>
               </div>
               <a href="subpages/quizzes.html">
                 <img src="main-images/quiz.png" alt="Quizzes" class="lesson-img">
@@ -132,14 +139,14 @@
               <a
                 href="subpages/quizzes.html"
                 class="lesson-link"
-                >Gehe zur Lektion</a
+                data-i18n="lesson.link">Gehe zur Lektion</a
               >
             </div>
 
             <div class="lesson">
               <div class="lesson-text">
-                <h2 class="lesson-name">Grammatik</h2>
-                <h4 class="lesson-technologies">Grammatikübungen</h4>
+                <h2 class="lesson-name" data-i18n="lesson.grammar.title">Grammatik</h2>
+                <h4 class="lesson-technologies" data-i18n="lesson.grammar.subtitle">Grammatikübungen</h4>
               </div>
               <a href="subpages/grammatik.html">
                 <img src="main-images/grammatik.png" alt="Grammatik" class="lesson-img">
@@ -148,14 +155,14 @@
               <a
                 href="subpages/grammatik.html"
                 class="lesson-link"
-                >Gehe zur Lektion</a
+                data-i18n="lesson.link">Gehe zur Lektion</a
               >
             </div>
 
             <div class="lesson">
               <div class="lesson-text">
-                <h2 class="lesson-name">Worttraining</h2>
-                <h4 class="lesson-technologies">Trainiere Wörter</h4>
+                <h2 class="lesson-name" data-i18n="lesson.wordtraining.title">Worttraining</h2>
+                <h4 class="lesson-technologies" data-i18n="lesson.wordtraining.subtitle">Trainiere Wörter</h4>
               </div>
               <a href="subpages/word-training.html">
                 <img src="main-images/worttraining.png" alt="Word Training" class="lesson-img">
@@ -164,14 +171,14 @@
               <a
                 href="subpages/word-training.html"
                 class="lesson-link"
-                >Gehe zur Lektion</a
+                data-i18n="lesson.link">Gehe zur Lektion</a
               >
             </div>
 
             <div class="lesson">
               <div class="lesson-text">
-                <h2 class="lesson-name">More features coming soon!</h2>
-                <h4 class="lesson-technologies">More features coming soon!</h4>
+                <h2 class="lesson-name" data-i18n="lesson.coming.title">More features coming soon!</h2>
+                <h4 class="lesson-technologies" data-i18n="lesson.coming.subtitle">More features coming soon!</h4>
               </div>
               <a href="">
                 <img src="main-images/" alt="" class="lesson-img">
@@ -180,7 +187,7 @@
               <a
                 href=""
                 class="lesson-link"
-                >Gehe zur Lektion</a
+                data-i18n="lesson.link">Gehe zur Lektion</a
               >
             </div>
 
@@ -191,7 +198,7 @@
 
         <!-- Section 3 -->
         <section class="section-3" id="section-3">
-          <h1 class="section-heading section-3-heading">Dein Fortschritt</h1>
+          <h1 class="section-heading section-3-heading" data-i18n="section3.heading">Dein Fortschritt</h1>
           <div class="progress-bars-wrapper">
             <div class="progress-bar">
               <p class="progress-text">
@@ -223,7 +230,7 @@
             </div>
             <div class="progress-bar">
               <p class="progress-text">
-                Verben mit Präpositionen
+                <span data-i18n="lesson.prepositions.title">Verben mit Präpositionen</span>
                 <span>50</span>%
                 <div class="progress-percent"></div>
               </p>
@@ -253,12 +260,12 @@
 
         <!-- Section 4 -->
         <section class="section-4" id="section-4">
-          <h1 class="section-heading section-4-heading">Contact Us</h1>
+          <h1 class="section-heading section-4-heading" data-i18n="section4.heading">Contact Us</h1>
           <form class="contact-form center">
-            <input type="text" placeholder="Name (not functioning yet)" />
-            <input type="email" placeholder="Email (not functioning yet)" />
-            <textarea placeholder="Message (not functioning yet)"></textarea>
-            <input type="submit" value="Submit" class="contact-form-btn" />
+            <input type="text" placeholder="Name (not functioning yet)" data-i18n-placeholder="contact.name.placeholder" />
+            <input type="email" placeholder="Email (not functioning yet)" data-i18n-placeholder="contact.email.placeholder" />
+            <textarea placeholder="Message (not functioning yet)" data-i18n-placeholder="contact.message.placeholder"></textarea>
+            <input type="submit" value="Submit" class="contact-form-btn" data-i18n-value="contact.submit" />
           </form>
         </section>
         <!-- End of Section 4 -->
@@ -281,7 +288,7 @@
             </a>
             -->
           </div>
-          <p class="copyright">
+          <p class="copyright" data-i18n="footer.copyright">
             Copyright &copy; 2024 AA Deutsch. All Rights Reserved
           </p>
         </footer>
@@ -297,12 +304,12 @@
               <img src="main-images\logo.png" alt="Logo" style="width:220px;height:220px;">
             </div>
             <form class="login-page-form">
-                <input type="text" class="form-login-input" placeholder="Email or mobile number">
-                <input type="password" class="form-login-input" placeholder="Password">
-                <input type="button" class="form-login-btn" value="Log In">
-                <a href="#" class="form-login-link">Having trouble logging in?</a>
-                <span>or</span>
-                <input type="button" class="form-signup-btn signup" value="Sign Up">
+                <input type="text" class="form-login-input" placeholder="Email or mobile number" data-i18n-placeholder="login.email.placeholder">
+                <input type="password" class="form-login-input" placeholder="Password" data-i18n-placeholder="login.password.placeholder">
+                <input type="button" class="form-login-btn" value="Log In" data-i18n-value="login.submit">
+                <a href="#" class="form-login-link" data-i18n="login.help">Having trouble logging in?</a>
+                <span data-i18n="login.or">or</span>
+                <input type="button" class="form-signup-btn signup" value="Sign Up" data-i18n-value="login.signup">
             </form>
         </div>
     </div>
@@ -314,7 +321,7 @@
           <div class="login-page-logo logo-img">
             <img src="main-images\logo.png" alt="Logo" style="width:120px;height:120px;margin-top: 40px;">
             </div>
-            <button class="login">Log In</button>
+            <button class="login" data-i18n="signup.login">Log In</button>
         </div>
         <div class="signup-page-content">
             <div class="signup-page-content-left">
@@ -323,27 +330,27 @@
                     <img src="main-images/person-2.jpg">
                     <img src="main-images/person-3.jpg">
                 </div>
-                <h1>See for yourself why people learn German.</h1>
+                <h1 data-i18n="signup.subtitle">See for yourself why people learn German.</h1>
             </div>
             <div class="signup-page-content-right">
-                <h3>Sign up for AA Deutsch, it's free</h3>
-                <h4>Choose from two types of accounts:</h4>
+                <h3 data-i18n="signup.heading">Sign up for AA Deutsch, it's free</h3>
+                <h4 data-i18n="signup.choose">Choose from two types of accounts:</h4>
                 <form class="signup-page-form">
                     <div class="input-group">
                         <input type="radio" name="checkbox" checked>
                         <div class="option">
-                            <h3>Premium Account</h3>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias ducimus minima, incidunt beatae veritatis ad delectus temporibus eaque enim ea!</p>
+                            <h3 data-i18n="signup.premium.title">Premium Account</h3>
+                            <p data-i18n="signup.premium.description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias ducimus minima, incidunt beatae veritatis ad delectus temporibus eaque enim ea!</p>
                         </div>
                     </div>
                     <div class="input-group">
                         <input type="radio" name="checkbox">
                         <div class="option">
-                            <h3>Free Account</h3>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias ducimus minima, incidunt beatae veritatis ad delectus temporibus eaque enim ea!</p>
+                            <h3 data-i18n="signup.free.title">Free Account</h3>
+                            <p data-i18n="signup.free.description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias ducimus minima, incidunt beatae veritatis ad delectus temporibus eaque enim ea!</p>
                         </div>
                     </div>
-                    <button class="blue-btn">Continue</button>
+                    <button class="blue-btn" data-i18n="signup.continue">Continue</button>
                 </form>
             </div>
            
