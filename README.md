@@ -33,7 +33,9 @@ The repository now includes a full Django backend located in [`backend/`](backen
    ```bash
    cp .env.example .env
    ```
-   Adjust the values for `SECRET_KEY`, `DEBUG`, and `ALLOWED_HOSTS` as needed.
+   Adjust the values for `SECRET_KEY`, `DEBUG`, and `ALLOWED_HOSTS` as needed. The backend
+   always whitelists `127.0.0.1` and `localhost` so local development keeps working even if
+   the variable is left blank or customized.
 4. Run database migrations and create a superuser for the admin panel:
    ```bash
    python manage.py migrate

@@ -11,14 +11,19 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 env = environ.Env(
     DEBUG=(bool, False),
     SECRET_KEY=(str, "django-insecure-change-me"),
-    ALLOWED_HOSTS=(list[str], ["127.0.0.1", "localhost"]),
 )
 
 environ.Env.read_env(BASE_DIR / ".env", overwrite=False)
 
 SECRET_KEY = env("SECRET_KEY")
 DEBUG = env("DEBUG")
-ALLOWED_HOSTS = env("ALLOWED_HOSTS")
+ALLOWED_HOSTS = env.list("ALLOWED_HOSTS", default=["127.0.0.1", "localhost"])
+if not ALLOWED_HOSTS:
+    ALLOWED_HOSTS = ["127.0.0.1", "localhost"]
+else:
+    for default_host in ("127.0.0.1", "localhost"):
+        if default_host not in ALLOWED_HOSTS:
+            ALLOWED_HOSTS.append(default_host)
 
 INSTALLED_APPS = [
     "django.contrib.admin",
