@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+{% block title %}Profile | Deutsch Lernen{% endblock %}
+{% block content %}
+<h1>Your profile</h1>
+<p>Update your details and choose the role that best fits your learning journey.</p>
+<form method="post">
+  {% csrf_token %}
+  {% for field in form %}
+  <div class="form-group">
+    {{ field.label_tag }}
+    {{ field }}
+    {{ field.errors }}
+  </div>
+  {% endfor %}
+  <button type="submit">Save changes</button>
+</form>
+{% endblock %}

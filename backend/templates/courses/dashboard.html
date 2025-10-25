@@ -1,0 +1,84 @@
+{% extends "base.html" %}
+{% block title %}Dashboard | Deutsch Lernen{% endblock %}
+{% block content %}
+<h1>Dashboard</h1>
+<p>
+  Hello {{ user.first_name|default:user.username }}, keep your German learning momentum!
+  Your average completion is <strong>{{ average_completion }}%</strong> out of the {{ progress_target }}% target.
+</p>
+<section class="card">
+  <h2>Your lessons</h2>
+  <table class="table">
+    <thead>
+      <tr>
+        <th>Lesson</th>
+        <th>Level</th>
+        <th>Completion</th>
+        <th>Actions</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for lesson, progress in progress_records %}
+      <tr>
+        <td><a href="{% url 'lesson-detail' slug=lesson.slug %}">{{ lesson.title }}</a></td>
+        <td>{{ lesson.get_level_display }}</td>
+        <td>
+          <div class="progress-wrapper">
+            <div class="progress-bar">
+              <div class="progress-bar-inner" style="width: {{ progress.completion }}%"></div>
+            </div>
+            <span>{{ progress.completion }}%</span>
+          </div>
+        </td>
+        <td><a href="{% url 'update-progress' slug=lesson.slug %}">Update progress</a></td>
+      </tr>
+      {% empty %}
+      <tr>
+        <td colspan="4">No lessons available yet.</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</section>
+
+{% if user.is_teacher %}
+<section class="card" style="margin-top: 2rem;">
+  <h2>Students overview</h2>
+  <table class="table">
+    <thead>
+      <tr>
+        <th>Student</th>
+        <th>Lessons tracked</th>
+        <th>Average completion</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for student in students %}
+      <tr>
+        <td><a href="{% url 'student-progress' %}#{{ student.username }}">{{ student.get_full_name|default:student.username }}</a></td>
+        <td>{{ student.lesson_total|default:0 }}</td>
+        <td>{{ student.avg_completion|default:0|floatformat:1 }}%</td>
+      </tr>
+      {% empty %}
+      <tr>
+        <td colspan="3">No students registered yet.</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</section>
+<section class="card" style="margin-top: 2rem;">
+  <h2>Lesson library</h2>
+  {% for level, lessons in lessons_by_level.items %}
+  <h3>Level {{ level }}</h3>
+  <ul>
+    {% for lesson in lessons %}
+    <li>{{ lesson.title }}{% if lesson.is_teacher_only %} <span class="badge">Teacher only</span>{% endif %}</li>
+    {% endfor %}
+  </ul>
+  {% empty %}
+  <p>No lessons available.</p>
+  {% endfor %}
+</section>
+{% endif %}
+{% endblock %}

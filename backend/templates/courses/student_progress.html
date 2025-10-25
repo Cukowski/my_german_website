@@ -1,0 +1,39 @@
+{% extends "base.html" %}
+{% block title %}Students | Deutsch Lernen{% endblock %}
+{% block content %}
+<h1>Student progress overview</h1>
+<p>Review each student's engagement and leave notes via the admin panel.</p>
+{% for student in students %}
+<section class="card" id="{{ student.username }}" style="margin-bottom: 1.5rem;">
+  <h2>{{ student.get_full_name|default:student.username }}</h2>
+  <p><strong>Email:</strong> {{ student.email|default:"Not provided" }}</p>
+  <p><strong>Average completion:</strong> {{ student.progress_records.all|length }} lessons tracked.</p>
+  <table class="table">
+    <thead>
+      <tr>
+        <th>Lesson</th>
+        <th>Completion</th>
+        <th>Notes</th>
+        <th>Updated</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for progress in student.progress_records.all %}
+      <tr>
+        <td>{{ progress.lesson.title }}</td>
+        <td>{{ progress.completion }}%</td>
+        <td>{{ progress.notes|default:"—" }}</td>
+        <td>{{ progress.updated_at|date:"M d, Y H:i" }}</td>
+      </tr>
+      {% empty %}
+      <tr>
+        <td colspan="4">No progress logged yet.</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</section>
+{% empty %}
+<p>No students registered.</p>
+{% endfor %}
+{% endblock %}
