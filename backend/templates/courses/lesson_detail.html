@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+{% block title %}{{ object.title }} | Deutsch Lernen{% endblock %}
+{% block content %}
+<h1>{{ object.title }}</h1>
+<p><strong>Level:</strong> {{ object.get_level_display }} {% if object.is_teacher_only %}<span class="badge">Teacher only</span>{% endif %}</p>
+<p>{{ object.overview }}</p>
+<section class="card">
+  <h2>Your progress</h2>
+  <div class="progress-wrapper">
+    <div class="progress-bar">
+      <div class="progress-bar-inner" style="width: {{ progress.completion }}%"></div>
+    </div>
+    <span>{{ progress.completion }}%</span>
+  </div>
+  {% if progress.notes %}
+  <p><strong>Your notes:</strong> {{ progress.notes }}</p>
+  {% endif %}
+  <p><a href="{% url 'update-progress' slug=object.slug %}">Update your progress</a></p>
+</section>
+<section class="card" style="margin-top: 1.5rem;">
+  <h2>Lesson guidance</h2>
+  <p>Work through the exercises, practice dialogues, and review the vocabulary list at the end of this lesson. Teachers can download worksheets from the admin panel.</p>
+</section>
+{% endblock %}

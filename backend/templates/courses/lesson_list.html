@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+{% block title %}Lessons | Deutsch Lernen{% endblock %}
+{% block content %}
+<h1>Lesson library</h1>
+<p>Browse the available lessons. Teacher-only lessons are marked and restricted to teacher accounts.</p>
+<section class="card-grid">
+  {% for lesson in object_list %}
+  <article class="card">
+    <h3><a href="{% url 'lesson-detail' slug=lesson.slug %}">{{ lesson.title }}</a></h3>
+    <p><strong>Level:</strong> {{ lesson.get_level_display }}</p>
+    {% if lesson.is_teacher_only %}<p><span class="badge">Teacher only</span></p>{% endif %}
+    <p>{{ lesson.overview|truncatechars:140 }}</p>
+  </article>
+  {% empty %}
+  <p>No lessons have been published yet.</p>
+  {% endfor %}
+</section>
+{% endblock %}
